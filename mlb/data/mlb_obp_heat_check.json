@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Brent Rooker",
+        "hits": 3,
+        "at_bats": 5,
+        "season_avg": 0.266,
+        "recent_avg": 0.6,
+        "difference": 0.334,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/667670/headshot/67/current"
+    },
+    {
+        "name": "Jackson Chourio",
+        "hits": 2,
+        "at_bats": 5,
+        "season_avg": 0.258,
+        "recent_avg": 0.4,
+        "difference": 0.142,
+        "team": "MIL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/694192/headshot/67/current"
+    },
+    {
+        "name": "Kyle Schwarber",
+        "hits": 2,
+        "at_bats": 5,
+        "season_avg": 0.266,
+        "recent_avg": 0.4,
+        "difference": 0.134,
+        "team": "PHI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656941/headshot/67/current"
+    },
+    {
+        "name": "Juan Soto",
+        "hits": 1,
+        "at_bats": 4,
+        "season_avg": 0.234,
+        "recent_avg": 0.25,
+        "difference": 0.016,
+        "team": "NYM",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/665742/headshot/67/current"
+    },
+    {
+        "name": "Lars Nootbaar",
+        "hits": 1,
+        "at_bats": 4,
+        "season_avg": 0.249,
+        "recent_avg": 0.25,
+        "difference": 0.001,
+        "team": "STL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663457/headshot/67/current"
+    }
+]
