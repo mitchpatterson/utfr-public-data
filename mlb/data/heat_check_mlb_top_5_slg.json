@@ -1,18 +1,18 @@
 [
     {
-        "name": "Michael Busch",
-        "player_id": 683737,
-        "hits": 8,
-        "singles": 4,
-        "doubles": 0,
-        "triples": 2,
+        "name": "Marcus Semien",
+        "player_id": 543760,
+        "hits": 7,
+        "singles": 3,
+        "doubles": 2,
+        "triples": 0,
         "home_runs": 2,
         "at_bats": 14,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
-        "slg": 1.286,
-        "season_slg": 0.514,
-        "difference_slg": 0.772
+        "team": "TEX",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543760/headshot/67/current",
+        "slg": 1.071,
+        "season_slg": 0.308,
+        "difference_slg": 0.763
     },
     {
         "name": "Max Muncy",
@@ -30,19 +30,19 @@
         "difference_slg": 0.733
     },
     {
-        "name": "Marcus Semien",
-        "player_id": 543760,
+        "name": "Michael Busch",
+        "player_id": 683737,
         "hits": 8,
-        "singles": 5,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 14,
-        "team": "TEX",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543760/headshot/67/current",
-        "slg": 0.929,
-        "season_slg": 0.271,
-        "difference_slg": 0.658
+        "singles": 4,
+        "doubles": 0,
+        "triples": 2,
+        "home_runs": 2,
+        "at_bats": 15,
+        "team": "CHC",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
+        "slg": 1.2,
+        "season_slg": 0.508,
+        "difference_slg": 0.692
     },
     {
         "name": "Hunter Goodman",
@@ -60,18 +60,18 @@
         "difference_slg": 0.62
     },
     {
-        "name": "Andy Pages",
-        "player_id": 681624,
-        "hits": 9,
-        "singles": 3,
-        "doubles": 3,
+        "name": "Junior Caminero",
+        "player_id": 691406,
+        "hits": 7,
+        "singles": 1,
+        "doubles": 2,
         "triples": 0,
-        "home_runs": 3,
-        "at_bats": 21,
-        "team": "LAD",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681624/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.502,
-        "difference_slg": 0.498
+        "home_runs": 4,
+        "at_bats": 19,
+        "team": "TBR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691406/headshot/67/current",
+        "slg": 1.105,
+        "season_slg": 0.52,
+        "difference_slg": 0.585
     }
 ]

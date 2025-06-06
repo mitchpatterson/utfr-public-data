@@ -2,17 +2,17 @@
     {
         "name": "Marcus Semien",
         "player_id": 543760,
-        "hits": 8,
-        "singles": 5,
+        "hits": 7,
+        "singles": 3,
         "doubles": 2,
         "triples": 0,
-        "home_runs": 1,
+        "home_runs": 2,
         "at_bats": 14,
         "team": "TEX",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543760/headshot/67/current",
-        "obp": 0.667,
-        "season_obp": 0.29,
-        "difference_obp": 0.377
+        "obp": 0.611,
+        "season_obp": 0.298,
+        "difference_obp": 0.313
     },
     {
         "name": "Michael Busch",
@@ -22,42 +22,27 @@
         "doubles": 0,
         "triples": 2,
         "home_runs": 2,
-        "at_bats": 14,
+        "at_bats": 15,
         "team": "CHC",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
-        "obp": 0.625,
+        "obp": 0.611,
         "season_obp": 0.374,
-        "difference_obp": 0.251
+        "difference_obp": 0.237
     },
     {
-        "name": "Ernie Clement",
-        "player_id": 676391,
-        "hits": 8,
-        "singles": 4,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 17,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676391/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.319,
-        "difference_obp": 0.181
-    },
-    {
-        "name": "Bryan Reynolds",
-        "player_id": 668804,
-        "hits": 7,
-        "singles": 6,
+        "name": "Vinnie Pasquantino",
+        "player_id": 686469,
+        "hits": 10,
+        "singles": 9,
         "doubles": 1,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 18,
-        "team": "PIT",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668804/headshot/67/current",
-        "obp": 0.476,
-        "season_obp": 0.305,
-        "difference_obp": 0.171
+        "at_bats": 22,
+        "team": "KCR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686469/headshot/67/current",
+        "obp": 0.52,
+        "season_obp": 0.319,
+        "difference_obp": 0.201
     },
     {
         "name": "Lawrence Butler",
@@ -70,8 +55,23 @@
         "at_bats": 19,
         "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/671732/headshot/67/current",
+        "obp": 0.52,
+        "season_obp": 0.338,
+        "difference_obp": 0.182
+    },
+    {
+        "name": "Riley Greene",
+        "player_id": 682985,
+        "hits": 8,
+        "singles": 6,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 17,
+        "team": "DET",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/682985/headshot/67/current",
         "obp": 0.5,
-        "season_obp": 0.331,
-        "difference_obp": 0.169
+        "season_obp": 0.335,
+        "difference_obp": 0.165
     }
 ]
