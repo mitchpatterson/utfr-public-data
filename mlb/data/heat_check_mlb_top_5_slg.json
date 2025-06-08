@@ -26,8 +26,8 @@
         "team": "CHC",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
         "slg": 1.2,
-        "season_slg": 0.508,
-        "difference_slg": 0.692
+        "season_slg": 0.521,
+        "difference_slg": 0.679
     },
     {
         "name": "Marcus Semien",
@@ -41,8 +41,8 @@
         "team": "TEX",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543760/headshot/67/current",
         "slg": 0.875,
-        "season_slg": 0.303,
-        "difference_slg": 0.572
+        "season_slg": 0.312,
+        "difference_slg": 0.563
     },
     {
         "name": "Kerry Carpenter",
@@ -56,8 +56,8 @@
         "team": "DET",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681481/headshot/67/current",
         "slg": 0.929,
-        "season_slg": 0.5,
-        "difference_slg": 0.429
+        "season_slg": 0.493,
+        "difference_slg": 0.436
     },
     {
         "name": "Pete Alonso",
@@ -71,7 +71,7 @@
         "team": "NYM",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624413/headshot/67/current",
         "slg": 1.0,
-        "season_slg": 0.58,
-        "difference_slg": 0.42
+        "season_slg": 0.572,
+        "difference_slg": 0.428
     }
 ]

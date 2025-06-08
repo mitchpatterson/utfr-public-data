@@ -11,8 +11,8 @@
         "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/671732/headshot/67/current",
         "obp": 0.583,
-        "season_obp": 0.341,
-        "difference_obp": 0.242
+        "season_obp": 0.342,
+        "difference_obp": 0.241
     },
     {
         "name": "Michael Busch",
@@ -26,8 +26,8 @@
         "team": "CHC",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
         "obp": 0.611,
-        "season_obp": 0.374,
-        "difference_obp": 0.237
+        "season_obp": 0.377,
+        "difference_obp": 0.234
     },
     {
         "name": "Marcus Semien",
@@ -41,23 +41,8 @@
         "team": "TEX",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543760/headshot/67/current",
         "obp": 0.474,
-        "season_obp": 0.293,
-        "difference_obp": 0.181
-    },
-    {
-        "name": "Vinnie Pasquantino",
-        "player_id": 686469,
-        "hits": 10,
-        "singles": 8,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 22,
-        "team": "KCR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686469/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.322,
-        "difference_obp": 0.178
+        "season_obp": 0.3,
+        "difference_obp": 0.174
     },
     {
         "name": "Hunter Goodman",
@@ -71,7 +56,22 @@
         "team": "COL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/696100/headshot/67/current",
         "obp": 0.5,
-        "season_obp": 0.331,
-        "difference_obp": 0.169
+        "season_obp": 0.329,
+        "difference_obp": 0.171
+    },
+    {
+        "name": "Vinnie Pasquantino",
+        "player_id": 686469,
+        "hits": 10,
+        "singles": 8,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 22,
+        "team": "KCR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686469/headshot/67/current",
+        "obp": 0.5,
+        "season_obp": 0.332,
+        "difference_obp": 0.168
     }
 ]

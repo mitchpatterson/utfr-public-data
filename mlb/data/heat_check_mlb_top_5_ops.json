@@ -1,20 +1,5 @@
 [
     {
-        "name": "Michael Busch",
-        "player_id": 683737,
-        "hits": 8,
-        "singles": 4,
-        "doubles": 0,
-        "triples": 2,
-        "home_runs": 2,
-        "at_bats": 15,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
-        "ops": 1.811,
-        "season_ops": 0.882,
-        "difference_ops": 0.929
-    },
-    {
         "name": "Hunter Goodman",
         "player_id": 696100,
         "hits": 8,
@@ -26,8 +11,23 @@
         "team": "COL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/696100/headshot/67/current",
         "ops": 1.735,
-        "season_ops": 0.82,
-        "difference_ops": 0.915
+        "season_ops": 0.818,
+        "difference_ops": 0.917
+    },
+    {
+        "name": "Michael Busch",
+        "player_id": 683737,
+        "hits": 8,
+        "singles": 4,
+        "doubles": 0,
+        "triples": 2,
+        "home_runs": 2,
+        "at_bats": 15,
+        "team": "CHC",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
+        "ops": 1.811,
+        "season_ops": 0.898,
+        "difference_ops": 0.913
     },
     {
         "name": "Marcus Semien",
@@ -41,8 +41,8 @@
         "team": "TEX",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543760/headshot/67/current",
         "ops": 1.349,
-        "season_ops": 0.596,
-        "difference_ops": 0.753
+        "season_ops": 0.613,
+        "difference_ops": 0.736
     },
     {
         "name": "Lawrence Butler",
@@ -56,8 +56,8 @@
         "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/671732/headshot/67/current",
         "ops": 1.425,
-        "season_ops": 0.812,
-        "difference_ops": 0.613
+        "season_ops": 0.82,
+        "difference_ops": 0.605
     },
     {
         "name": "Pete Alonso",
@@ -71,7 +71,7 @@
         "team": "NYM",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624413/headshot/67/current",
         "ops": 1.542,
-        "season_ops": 0.977,
-        "difference_ops": 0.565
+        "season_ops": 0.966,
+        "difference_ops": 0.576
     }
 ]
