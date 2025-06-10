@@ -45,19 +45,19 @@
         "difference_ops": 0.644
     },
     {
-        "name": "Kristian Campbell",
-        "player_id": 692225,
+        "name": "Jo Adell",
+        "player_id": 666176,
         "hits": 5,
-        "singles": 3,
-        "doubles": 1,
+        "singles": 2,
+        "doubles": 0,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 13,
-        "team": "BOS",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/692225/headshot/67/current",
-        "ops": 1.222,
-        "season_ops": 0.687,
-        "difference_ops": 0.535
+        "home_runs": 3,
+        "at_bats": 16,
+        "team": "LAA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666176/headshot/67/current",
+        "ops": 1.264,
+        "season_ops": 0.766,
+        "difference_ops": 0.498
     },
     {
         "name": "Adley Rutschman",
