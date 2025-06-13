@@ -2,17 +2,17 @@
     {
         "name": "Ryan McMahon",
         "player_id": 641857,
-        "hits": 7,
-        "singles": 4,
+        "hits": 6,
+        "singles": 3,
         "doubles": 1,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 15,
+        "at_bats": 14,
         "team": "COL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641857/headshot/67/current",
-        "ops": 1.489,
-        "season_ops": 0.71,
-        "difference_ops": 0.779
+        "ops": 1.508,
+        "season_ops": 0.707,
+        "difference_ops": 0.801
     },
     {
         "name": "Jo Adell",
@@ -30,21 +30,6 @@
         "difference_ops": 0.712
     },
     {
-        "name": "Juan Soto",
-        "player_id": 665742,
-        "hits": 10,
-        "singles": 7,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 19,
-        "team": "NYM",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/665742/headshot/67/current",
-        "ops": 1.52,
-        "season_ops": 0.854,
-        "difference_ops": 0.666
-    },
-    {
         "name": "Austin Wells",
         "player_id": 669224,
         "hits": 7,
@@ -60,18 +45,33 @@
         "difference_ops": 0.617
     },
     {
-        "name": "Vinnie Pasquantino",
-        "player_id": 686469,
+        "name": "Juan Soto",
+        "player_id": 665742,
         "hits": 8,
-        "singles": 6,
-        "doubles": 0,
+        "singles": 4,
+        "doubles": 2,
         "triples": 0,
         "home_runs": 2,
         "at_bats": 18,
-        "team": "KCR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686469/headshot/67/current",
-        "ops": 1.302,
-        "season_ops": 0.764,
-        "difference_ops": 0.538
+        "team": "NYM",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/665742/headshot/67/current",
+        "ops": 1.454,
+        "season_ops": 0.858,
+        "difference_ops": 0.596
+    },
+    {
+        "name": "Byron Buxton",
+        "player_id": 621439,
+        "hits": 6,
+        "singles": 3,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 14,
+        "team": "MIN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/621439/headshot/67/current",
+        "ops": 1.405,
+        "season_ops": 0.852,
+        "difference_ops": 0.553
     }
 ]
