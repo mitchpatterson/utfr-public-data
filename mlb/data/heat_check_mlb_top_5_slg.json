@@ -1,5 +1,20 @@
 [
     {
+        "name": "Mickey Moniak",
+        "player_id": 666160,
+        "hits": 6,
+        "singles": 2,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 14,
+        "team": "COL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666160/headshot/67/current",
+        "slg": 1.071,
+        "season_slg": 0.462,
+        "difference_slg": 0.609
+    },
+    {
         "name": "Max Kepler",
         "player_id": 596146,
         "hits": 6,
@@ -11,38 +26,8 @@
         "team": "PHI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/596146/headshot/67/current",
         "slg": 0.875,
-        "season_slg": 0.402,
-        "difference_slg": 0.473
-    },
-    {
-        "name": "Brent Rooker",
-        "player_id": 667670,
-        "hits": 8,
-        "singles": 3,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 18,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/667670/headshot/67/current",
-        "slg": 0.944,
-        "season_slg": 0.497,
-        "difference_slg": 0.447
-    },
-    {
-        "name": "Luis Rengifo",
-        "player_id": 650859,
-        "hits": 7,
-        "singles": 5,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 18,
-        "team": "LAA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/650859/headshot/67/current",
-        "slg": 0.722,
-        "season_slg": 0.295,
-        "difference_slg": 0.427
+        "season_slg": 0.413,
+        "difference_slg": 0.462
     },
     {
         "name": "Brandon Nimmo",
@@ -58,6 +43,21 @@
         "slg": 0.85,
         "season_slg": 0.445,
         "difference_slg": 0.405
+    },
+    {
+        "name": "Brent Rooker",
+        "player_id": 667670,
+        "hits": 7,
+        "singles": 3,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 17,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/667670/headshot/67/current",
+        "slg": 0.882,
+        "season_slg": 0.491,
+        "difference_slg": 0.391
     },
     {
         "name": "Brooks Lee",

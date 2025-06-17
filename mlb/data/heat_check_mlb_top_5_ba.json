@@ -11,8 +11,8 @@
         "team": "SDP",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/657757/headshot/67/current",
         "ba": 0.471,
-        "season_ba": 0.266,
-        "difference_ba": 0.205
+        "season_ba": 0.267,
+        "difference_ba": 0.204
     },
     {
         "name": "Byron Buxton",
@@ -30,6 +30,21 @@
         "difference_ba": 0.194
     },
     {
+        "name": "Mickey Moniak",
+        "player_id": 666160,
+        "hits": 6,
+        "singles": 2,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 14,
+        "team": "COL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666160/headshot/67/current",
+        "ba": 0.429,
+        "season_ba": 0.237,
+        "difference_ba": 0.192
+    },
+    {
         "name": "Mike Yastrzemski",
         "player_id": 573262,
         "hits": 7,
@@ -43,21 +58,6 @@
         "ba": 0.438,
         "season_ba": 0.248,
         "difference_ba": 0.19
-    },
-    {
-        "name": "Ernie Clement",
-        "player_id": 676391,
-        "hits": 10,
-        "singles": 7,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 21,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676391/headshot/67/current",
-        "ba": 0.476,
-        "season_ba": 0.292,
-        "difference_ba": 0.184
     },
     {
         "name": "Willi Castro",

@@ -15,6 +15,21 @@
         "difference_obp": 0.218
     },
     {
+        "name": "Mickey Moniak",
+        "player_id": 666160,
+        "hits": 6,
+        "singles": 2,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 14,
+        "team": "COL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666160/headshot/67/current",
+        "obp": 0.5,
+        "season_obp": 0.289,
+        "difference_obp": 0.211
+    },
+    {
         "name": "Gavin Sheets",
         "player_id": 657757,
         "hits": 8,
@@ -26,23 +41,23 @@
         "team": "SDP",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/657757/headshot/67/current",
         "obp": 0.524,
-        "season_obp": 0.324,
-        "difference_obp": 0.2
+        "season_obp": 0.327,
+        "difference_obp": 0.197
     },
     {
         "name": "Brent Rooker",
         "player_id": 667670,
-        "hits": 8,
+        "hits": 7,
         "singles": 3,
-        "doubles": 3,
+        "doubles": 2,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 18,
+        "at_bats": 17,
         "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/667670/headshot/67/current",
         "obp": 0.545,
-        "season_obp": 0.35,
-        "difference_obp": 0.195
+        "season_obp": 0.349,
+        "difference_obp": 0.196
     },
     {
         "name": "Max Kepler",
@@ -56,22 +71,7 @@
         "team": "PHI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/596146/headshot/67/current",
         "obp": 0.5,
-        "season_obp": 0.311,
-        "difference_obp": 0.189
-    },
-    {
-        "name": "Mike Yastrzemski",
-        "player_id": 573262,
-        "hits": 7,
-        "singles": 5,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 16,
-        "team": "SFG",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/573262/headshot/67/current",
-        "obp": 0.526,
-        "season_obp": 0.347,
-        "difference_obp": 0.179
+        "season_obp": 0.31,
+        "difference_obp": 0.19
     }
 ]
