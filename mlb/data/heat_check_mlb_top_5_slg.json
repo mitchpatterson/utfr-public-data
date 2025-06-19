@@ -17,32 +17,32 @@
     {
         "name": "Andy Pages",
         "player_id": 681624,
-        "hits": 7,
+        "hits": 8,
         "singles": 3,
-        "doubles": 1,
+        "doubles": 2,
         "triples": 0,
         "home_runs": 3,
         "at_bats": 17,
         "team": "LAD",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681624/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.513,
-        "difference_slg": 0.487
+        "slg": 1.118,
+        "season_slg": 0.517,
+        "difference_slg": 0.601
     },
     {
-        "name": "Luis Rengifo",
-        "player_id": 650859,
-        "hits": 7,
+        "name": "Cam Smith",
+        "player_id": 701358,
+        "hits": 10,
         "singles": 5,
-        "doubles": 0,
+        "doubles": 3,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 18,
-        "team": "LAA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/650859/headshot/67/current",
-        "slg": 0.722,
-        "season_slg": 0.293,
-        "difference_slg": 0.429
+        "at_bats": 21,
+        "team": "HOU",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/701358/headshot/67/current",
+        "slg": 0.905,
+        "season_slg": 0.424,
+        "difference_slg": 0.481
     },
     {
         "name": "Ryan McMahon",
@@ -60,18 +60,18 @@
         "difference_slg": 0.399
     },
     {
-        "name": "Cam Smith",
-        "player_id": 701358,
-        "hits": 9,
-        "singles": 5,
-        "doubles": 2,
+        "name": "JJ Bleday",
+        "player_id": 668709,
+        "hits": 3,
+        "singles": 0,
+        "doubles": 1,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 21,
-        "team": "HOU",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/701358/headshot/67/current",
-        "slg": 0.81,
-        "season_slg": 0.412,
-        "difference_slg": 0.398
+        "at_bats": 13,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
+        "slg": 0.769,
+        "season_slg": 0.375,
+        "difference_slg": 0.394
     }
 ]
