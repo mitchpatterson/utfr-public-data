@@ -1,20 +1,5 @@
 [
     {
-        "name": "Ryan Mountcastle",
-        "player_id": 663624,
-        "hits": 7,
-        "singles": 4,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 12,
-        "team": "BAL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663624/headshot/67/current",
-        "ba": 0.583,
-        "season_ba": 0.246,
-        "difference_ba": 0.337
-    },
-    {
         "name": "Christian Yelich",
         "player_id": 592885,
         "hits": 11,
@@ -41,8 +26,23 @@
         "team": "ARI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/606466/headshot/67/current",
         "ba": 0.571,
-        "season_ba": 0.32,
-        "difference_ba": 0.251
+        "season_ba": 0.313,
+        "difference_ba": 0.258
+    },
+    {
+        "name": "Ryan Mountcastle",
+        "player_id": 663624,
+        "hits": 4,
+        "singles": 3,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 8,
+        "team": "BAL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663624/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.246,
+        "difference_ba": 0.254
     },
     {
         "name": "Riley Greene",
@@ -71,7 +71,7 @@
         "team": "MIL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/687401/headshot/67/current",
         "ba": 0.455,
-        "season_ba": 0.217,
-        "difference_ba": 0.238
+        "season_ba": 0.214,
+        "difference_ba": 0.241
     }
 ]

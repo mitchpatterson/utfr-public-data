@@ -1,20 +1,5 @@
 [
     {
-        "name": "Ryan Mountcastle",
-        "player_id": 663624,
-        "hits": 7,
-        "singles": 4,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 12,
-        "team": "BAL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663624/headshot/67/current",
-        "obp": 0.583,
-        "season_obp": 0.28,
-        "difference_obp": 0.303
-    },
-    {
         "name": "Christian Yelich",
         "player_id": 592885,
         "hits": 11,
@@ -26,8 +11,23 @@
         "team": "MIL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592885/headshot/67/current",
         "obp": 0.591,
-        "season_obp": 0.344,
-        "difference_obp": 0.247
+        "season_obp": 0.343,
+        "difference_obp": 0.248
+    },
+    {
+        "name": "Ryan Mountcastle",
+        "player_id": 663624,
+        "hits": 4,
+        "singles": 3,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 8,
+        "team": "BAL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663624/headshot/67/current",
+        "obp": 0.5,
+        "season_obp": 0.28,
+        "difference_obp": 0.22
     },
     {
         "name": "Riley Greene",
@@ -41,8 +41,8 @@
         "team": "DET",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/682985/headshot/67/current",
         "obp": 0.556,
-        "season_obp": 0.352,
-        "difference_obp": 0.204
+        "season_obp": 0.353,
+        "difference_obp": 0.203
     },
     {
         "name": "Joey Ortiz",
@@ -56,22 +56,22 @@
         "team": "MIL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/687401/headshot/67/current",
         "obp": 0.455,
-        "season_obp": 0.275,
-        "difference_obp": 0.18
+        "season_obp": 0.272,
+        "difference_obp": 0.183
     },
     {
-        "name": "Steven Kwan",
-        "player_id": 680757,
-        "hits": 11,
-        "singles": 8,
-        "doubles": 3,
+        "name": "Ketel Marte",
+        "player_id": 606466,
+        "hits": 12,
+        "singles": 5,
+        "doubles": 4,
         "triples": 0,
-        "home_runs": 0,
+        "home_runs": 3,
         "at_bats": 21,
-        "team": "CLE",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680757/headshot/67/current",
-        "obp": 0.545,
-        "season_obp": 0.371,
-        "difference_obp": 0.174
+        "team": "ARI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/606466/headshot/67/current",
+        "obp": 0.591,
+        "season_obp": 0.416,
+        "difference_obp": 0.175
     }
 ]

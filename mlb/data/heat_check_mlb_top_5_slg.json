@@ -11,8 +11,8 @@
         "team": "ARI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/606466/headshot/67/current",
         "slg": 1.19,
-        "season_slg": 0.608,
-        "difference_slg": 0.582
+        "season_slg": 0.596,
+        "difference_slg": 0.594
     },
     {
         "name": "Cal Raleigh",
@@ -26,23 +26,8 @@
         "team": "SEA",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663728/headshot/67/current",
         "slg": 1.238,
-        "season_slg": 0.667,
-        "difference_slg": 0.571
-    },
-    {
-        "name": "Ryan Mountcastle",
-        "player_id": 663624,
-        "hits": 7,
-        "singles": 4,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 12,
-        "team": "BAL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663624/headshot/67/current",
-        "slg": 0.833,
-        "season_slg": 0.348,
-        "difference_slg": 0.485
+        "season_slg": 0.658,
+        "difference_slg": 0.58
     },
     {
         "name": "Logan O'Hoppe",
@@ -60,18 +45,33 @@
         "difference_slg": 0.465
     },
     {
-        "name": "Juan Soto",
-        "player_id": 665742,
+        "name": "Ben Rice",
+        "player_id": 700250,
+        "hits": 7,
+        "singles": 3,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 17,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/700250/headshot/67/current",
+        "slg": 0.941,
+        "season_slg": 0.489,
+        "difference_slg": 0.452
+    },
+    {
+        "name": "Tommy Pham",
+        "player_id": 502054,
         "hits": 5,
         "singles": 2,
-        "doubles": 0,
+        "doubles": 2,
         "triples": 0,
-        "home_runs": 3,
-        "at_bats": 15,
-        "team": "NYM",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/665742/headshot/67/current",
-        "slg": 0.933,
-        "season_slg": 0.484,
-        "difference_slg": 0.449
+        "home_runs": 1,
+        "at_bats": 14,
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/502054/headshot/67/current",
+        "slg": 0.714,
+        "season_slg": 0.277,
+        "difference_slg": 0.437
     }
 ]

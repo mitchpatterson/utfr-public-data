@@ -1,20 +1,5 @@
 [
     {
-        "name": "Ryan Mountcastle",
-        "player_id": 663624,
-        "hits": 7,
-        "singles": 4,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 12,
-        "team": "BAL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663624/headshot/67/current",
-        "ops": 1.417,
-        "season_ops": 0.628,
-        "difference_ops": 0.789
-    },
-    {
         "name": "Ketel Marte",
         "player_id": 606466,
         "hits": 12,
@@ -26,8 +11,8 @@
         "team": "ARI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/606466/headshot/67/current",
         "ops": 1.781,
-        "season_ops": 1.032,
-        "difference_ops": 0.749
+        "season_ops": 1.012,
+        "difference_ops": 0.769
     },
     {
         "name": "Cal Raleigh",
@@ -41,8 +26,8 @@
         "team": "SEA",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663728/headshot/67/current",
         "ops": 1.78,
-        "season_ops": 1.053,
-        "difference_ops": 0.727
+        "season_ops": 1.039,
+        "difference_ops": 0.741
     },
     {
         "name": "Christian Yelich",
@@ -56,8 +41,8 @@
         "team": "MIL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592885/headshot/67/current",
         "ops": 1.441,
-        "season_ops": 0.801,
-        "difference_ops": 0.64
+        "season_ops": 0.797,
+        "difference_ops": 0.644
     },
     {
         "name": "Riley Greene",
@@ -73,5 +58,20 @@
         "ops": 1.514,
         "season_ops": 0.89,
         "difference_ops": 0.624
+    },
+    {
+        "name": "Joey Ortiz",
+        "player_id": 687401,
+        "hits": 10,
+        "singles": 8,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 22,
+        "team": "MIL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/687401/headshot/67/current",
+        "ops": 1.182,
+        "season_ops": 0.566,
+        "difference_ops": 0.616
     }
 ]
