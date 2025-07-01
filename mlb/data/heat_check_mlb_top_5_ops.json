@@ -15,34 +15,19 @@
         "difference_ops": 0.989
     },
     {
-        "name": "Tommy Pham",
-        "player_id": 502054,
-        "hits": 10,
-        "singles": 6,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 19,
-        "team": "PIT",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/502054/headshot/67/current",
-        "ops": 1.471,
-        "season_ops": 0.603,
-        "difference_ops": 0.868
-    },
-    {
-        "name": "Spencer Steer",
-        "player_id": 668715,
-        "hits": 10,
-        "singles": 6,
-        "doubles": 1,
+        "name": "Brandon Lowe",
+        "player_id": 664040,
+        "hits": 6,
+        "singles": 3,
+        "doubles": 0,
         "triples": 0,
         "home_runs": 3,
-        "at_bats": 20,
-        "team": "CIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668715/headshot/67/current",
-        "ops": 1.524,
-        "season_ops": 0.708,
-        "difference_ops": 0.816
+        "at_bats": 14,
+        "team": "TBR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664040/headshot/67/current",
+        "ops": 1.571,
+        "season_ops": 0.817,
+        "difference_ops": 0.754
     },
     {
         "name": "Kyle Stowers",
@@ -60,18 +45,33 @@
         "difference_ops": 0.69
     },
     {
-        "name": "Brandon Lowe",
-        "player_id": 664040,
-        "hits": 8,
+        "name": "Otto Lopez",
+        "player_id": 672640,
+        "hits": 9,
         "singles": 5,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 21,
+        "team": "MIA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672640/headshot/67/current",
+        "ops": 1.33,
+        "season_ops": 0.723,
+        "difference_ops": 0.607
+    },
+    {
+        "name": "Spencer Steer",
+        "player_id": 668715,
+        "hits": 7,
+        "singles": 4,
         "doubles": 0,
         "triples": 0,
         "home_runs": 3,
-        "at_bats": 18,
-        "team": "TBR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664040/headshot/67/current",
-        "ops": 1.444,
-        "season_ops": 0.815,
-        "difference_ops": 0.629
+        "at_bats": 19,
+        "team": "CIN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668715/headshot/67/current",
+        "ops": 1.242,
+        "season_ops": 0.698,
+        "difference_ops": 0.544
     }
 ]

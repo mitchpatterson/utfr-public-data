@@ -1,35 +1,5 @@
 [
     {
-        "name": "Tommy Pham",
-        "player_id": 502054,
-        "hits": 10,
-        "singles": 6,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 19,
-        "team": "PIT",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/502054/headshot/67/current",
-        "ba": 0.526,
-        "season_ba": 0.23,
-        "difference_ba": 0.296
-    },
-    {
-        "name": "Spencer Steer",
-        "player_id": 668715,
-        "hits": 10,
-        "singles": 6,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 20,
-        "team": "CIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668715/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.254,
-        "difference_ba": 0.246
-    },
-    {
         "name": "Jo Adell",
         "player_id": 666176,
         "hits": 9,
@@ -60,18 +30,48 @@
         "difference_ba": 0.211
     },
     {
-        "name": "Cody Bellinger",
-        "player_id": 641355,
-        "hits": 10,
+        "name": "Kerry Carpenter",
+        "player_id": 681481,
+        "hits": 6,
+        "singles": 2,
+        "doubles": 0,
+        "triples": 1,
+        "home_runs": 3,
+        "at_bats": 13,
+        "team": "DET",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681481/headshot/67/current",
+        "ba": 0.462,
+        "season_ba": 0.257,
+        "difference_ba": 0.205
+    },
+    {
+        "name": "Ke'Bryan Hayes",
+        "player_id": 663647,
+        "hits": 9,
         "singles": 6,
         "doubles": 3,
         "triples": 0,
-        "home_runs": 1,
+        "home_runs": 0,
         "at_bats": 21,
-        "team": "NYY",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641355/headshot/67/current",
-        "ba": 0.476,
-        "season_ba": 0.27,
-        "difference_ba": 0.206
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663647/headshot/67/current",
+        "ba": 0.429,
+        "season_ba": 0.246,
+        "difference_ba": 0.183
+    },
+    {
+        "name": "Marcus Semien",
+        "player_id": 543760,
+        "hits": 10,
+        "singles": 7,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 24,
+        "team": "TEX",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543760/headshot/67/current",
+        "ba": 0.417,
+        "season_ba": 0.237,
+        "difference_ba": 0.18
     }
 ]
