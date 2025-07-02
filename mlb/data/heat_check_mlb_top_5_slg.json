@@ -15,6 +15,36 @@
         "difference_slg": 0.814
     },
     {
+        "name": "Kyle Stowers",
+        "player_id": 669065,
+        "hits": 7,
+        "singles": 2,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 3,
+        "at_bats": 17,
+        "team": "MIA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669065/headshot/67/current",
+        "slg": 1.059,
+        "season_slg": 0.509,
+        "difference_slg": 0.55
+    },
+    {
+        "name": "Corey Seager",
+        "player_id": 608369,
+        "hits": 6,
+        "singles": 1,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 3,
+        "at_bats": 18,
+        "team": "TEX",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/608369/headshot/67/current",
+        "slg": 0.944,
+        "season_slg": 0.438,
+        "difference_slg": 0.506
+    },
+    {
         "name": "Brandon Lowe",
         "player_id": 664040,
         "hits": 6,
@@ -22,27 +52,12 @@
         "doubles": 0,
         "triples": 0,
         "home_runs": 3,
-        "at_bats": 14,
+        "at_bats": 15,
         "team": "TBR",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664040/headshot/67/current",
-        "slg": 1.071,
-        "season_slg": 0.49,
-        "difference_slg": 0.581
-    },
-    {
-        "name": "Kyle Stowers",
-        "player_id": 669065,
-        "hits": 7,
-        "singles": 1,
-        "doubles": 4,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 17,
-        "team": "MIA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669065/headshot/67/current",
         "slg": 1.0,
-        "season_slg": 0.498,
-        "difference_slg": 0.502
+        "season_slg": 0.495,
+        "difference_slg": 0.505
     },
     {
         "name": "Spencer Steer",
@@ -56,22 +71,7 @@
         "team": "CIN",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668715/headshot/67/current",
         "slg": 0.842,
-        "season_slg": 0.396,
-        "difference_slg": 0.446
-    },
-    {
-        "name": "Otto Lopez",
-        "player_id": 672640,
-        "hits": 9,
-        "singles": 5,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 21,
-        "team": "MIA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672640/headshot/67/current",
-        "slg": 0.81,
-        "season_slg": 0.392,
-        "difference_slg": 0.418
+        "season_slg": 0.394,
+        "difference_slg": 0.448
     }
 ]

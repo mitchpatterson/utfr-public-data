@@ -1,18 +1,18 @@
 [
     {
-        "name": "Jo Adell",
-        "player_id": 666176,
-        "hits": 9,
-        "singles": 7,
+        "name": "Michael Busch",
+        "player_id": 683737,
+        "hits": 7,
+        "singles": 5,
         "doubles": 0,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 19,
-        "team": "LAA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666176/headshot/67/current",
-        "ba": 0.474,
-        "season_ba": 0.243,
-        "difference_ba": 0.231
+        "at_bats": 14,
+        "team": "CHC",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.282,
+        "difference_ba": 0.218
     },
     {
         "name": "Brice Turang",
@@ -52,26 +52,26 @@
         "doubles": 3,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 21,
+        "at_bats": 20,
         "team": "PIT",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663647/headshot/67/current",
-        "ba": 0.429,
-        "season_ba": 0.246,
-        "difference_ba": 0.183
+        "ba": 0.45,
+        "season_ba": 0.247,
+        "difference_ba": 0.203
     },
     {
-        "name": "Marcus Semien",
-        "player_id": 543760,
-        "hits": 10,
-        "singles": 7,
+        "name": "Luis Rengifo",
+        "player_id": 650859,
+        "hits": 9,
+        "singles": 6,
         "doubles": 2,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 24,
-        "team": "TEX",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543760/headshot/67/current",
-        "ba": 0.417,
-        "season_ba": 0.237,
-        "difference_ba": 0.18
+        "triples": 1,
+        "home_runs": 0,
+        "at_bats": 21,
+        "team": "LAA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/650859/headshot/67/current",
+        "ba": 0.429,
+        "season_ba": 0.233,
+        "difference_ba": 0.196
     }
 ]
