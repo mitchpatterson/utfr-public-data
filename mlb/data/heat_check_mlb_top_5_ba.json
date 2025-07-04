@@ -1,33 +1,18 @@
 [
     {
-        "name": "Randy Arozarena",
-        "player_id": 668227,
-        "hits": 10,
-        "singles": 6,
+        "name": "James Wood",
+        "player_id": 695578,
+        "hits": 11,
+        "singles": 10,
         "doubles": 0,
         "triples": 0,
-        "home_runs": 4,
-        "at_bats": 19,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668227/headshot/67/current",
-        "ba": 0.526,
-        "season_ba": 0.248,
-        "difference_ba": 0.278
-    },
-    {
-        "name": "Zach McKinstry",
-        "player_id": 656716,
-        "hits": 11,
-        "singles": 7,
-        "doubles": 2,
-        "triples": 1,
         "home_runs": 1,
-        "at_bats": 21,
-        "team": "DET",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656716/headshot/67/current",
-        "ba": 0.524,
+        "at_bats": 19,
+        "team": "WSN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/695578/headshot/67/current",
+        "ba": 0.579,
         "season_ba": 0.283,
-        "difference_ba": 0.241
+        "difference_ba": 0.296
     },
     {
         "name": "Trevor Story",
@@ -41,8 +26,38 @@
         "team": "BOS",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/596115/headshot/67/current",
         "ba": 0.474,
-        "season_ba": 0.237,
-        "difference_ba": 0.237
+        "season_ba": 0.244,
+        "difference_ba": 0.23
+    },
+    {
+        "name": "Taylor Ward",
+        "player_id": 621493,
+        "hits": 8,
+        "singles": 3,
+        "doubles": 4,
+        "triples": 1,
+        "home_runs": 0,
+        "at_bats": 18,
+        "team": "LAA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/621493/headshot/67/current",
+        "ba": 0.444,
+        "season_ba": 0.221,
+        "difference_ba": 0.223
+    },
+    {
+        "name": "Aaron Judge",
+        "player_id": 592450,
+        "hits": 8,
+        "singles": 3,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 3,
+        "at_bats": 14,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
+        "ba": 0.571,
+        "season_ba": 0.363,
+        "difference_ba": 0.208
     },
     {
         "name": "Kerry Carpenter",
@@ -58,20 +73,5 @@
         "ba": 0.462,
         "season_ba": 0.257,
         "difference_ba": 0.205
-    },
-    {
-        "name": "Taylor Ward",
-        "player_id": 621493,
-        "hits": 8,
-        "singles": 3,
-        "doubles": 4,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 19,
-        "team": "LAA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/621493/headshot/67/current",
-        "ba": 0.421,
-        "season_ba": 0.217,
-        "difference_ba": 0.204
     }
 ]

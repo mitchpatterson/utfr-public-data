@@ -15,19 +15,19 @@
         "difference_slg": 0.814
     },
     {
-        "name": "Randy Arozarena",
-        "player_id": 668227,
-        "hits": 10,
-        "singles": 6,
+        "name": "George Springer",
+        "player_id": 543807,
+        "hits": 8,
+        "singles": 4,
         "doubles": 0,
         "triples": 0,
         "home_runs": 4,
-        "at_bats": 19,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668227/headshot/67/current",
-        "slg": 1.158,
-        "season_slg": 0.427,
-        "difference_slg": 0.731
+        "at_bats": 17,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543807/headshot/67/current",
+        "slg": 1.176,
+        "season_slg": 0.487,
+        "difference_slg": 0.689
     },
     {
         "name": "Spencer Steer",
@@ -41,37 +41,37 @@
         "team": "CIN",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668715/headshot/67/current",
         "slg": 1.056,
-        "season_slg": 0.394,
-        "difference_slg": 0.662
+        "season_slg": 0.407,
+        "difference_slg": 0.649
     },
     {
-        "name": "Kyle Stowers",
-        "player_id": 669065,
+        "name": "Aaron Judge",
+        "player_id": 592450,
         "hits": 8,
         "singles": 3,
         "doubles": 2,
         "triples": 0,
         "home_runs": 3,
-        "at_bats": 18,
-        "team": "MIA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669065/headshot/67/current",
-        "slg": 1.056,
-        "season_slg": 0.509,
-        "difference_slg": 0.547
+        "at_bats": 14,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
+        "slg": 1.357,
+        "season_slg": 0.735,
+        "difference_slg": 0.622
     },
     {
-        "name": "Wilyer Abreu",
-        "player_id": 677800,
+        "name": "Addison Barger",
+        "player_id": 680718,
         "hits": 7,
         "singles": 2,
-        "doubles": 1,
+        "doubles": 2,
         "triples": 0,
-        "home_runs": 4,
-        "at_bats": 20,
-        "team": "BOS",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/677800/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.494,
-        "difference_slg": 0.506
+        "home_runs": 3,
+        "at_bats": 17,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680718/headshot/67/current",
+        "slg": 1.059,
+        "season_slg": 0.493,
+        "difference_slg": 0.566
     }
 ]

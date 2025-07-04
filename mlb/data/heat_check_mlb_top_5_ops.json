@@ -15,19 +15,34 @@
         "difference_ops": 0.989
     },
     {
-        "name": "Randy Arozarena",
-        "player_id": 668227,
-        "hits": 10,
-        "singles": 6,
+        "name": "George Springer",
+        "player_id": 543807,
+        "hits": 8,
+        "singles": 4,
         "doubles": 0,
         "triples": 0,
         "home_runs": 4,
-        "at_bats": 19,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668227/headshot/67/current",
-        "ops": 1.682,
-        "season_ops": 0.787,
-        "difference_ops": 0.895
+        "at_bats": 17,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543807/headshot/67/current",
+        "ops": 1.767,
+        "season_ops": 0.858,
+        "difference_ops": 0.909
+    },
+    {
+        "name": "Aaron Judge",
+        "player_id": 592450,
+        "hits": 8,
+        "singles": 3,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 3,
+        "at_bats": 14,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
+        "ops": 2.041,
+        "season_ops": 1.205,
+        "difference_ops": 0.836
     },
     {
         "name": "Spencer Steer",
@@ -41,8 +56,8 @@
         "team": "CIN",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668715/headshot/67/current",
         "ops": 1.506,
-        "season_ops": 0.696,
-        "difference_ops": 0.81
+        "season_ops": 0.713,
+        "difference_ops": 0.793
     },
     {
         "name": "Trevor Story",
@@ -56,22 +71,7 @@
         "team": "BOS",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/596115/headshot/67/current",
         "ops": 1.366,
-        "season_ops": 0.658,
-        "difference_ops": 0.708
-    },
-    {
-        "name": "Kyle Stowers",
-        "player_id": 669065,
-        "hits": 8,
-        "singles": 3,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 18,
-        "team": "MIA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669065/headshot/67/current",
-        "ops": 1.556,
-        "season_ops": 0.868,
-        "difference_ops": 0.688
+        "season_ops": 0.675,
+        "difference_ops": 0.691
     }
 ]
