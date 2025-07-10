@@ -2,16 +2,31 @@
     {
         "name": "Andrew Vaughn",
         "player_id": 683734,
-        "hits": 2,
-        "singles": 1,
+        "hits": 3,
+        "singles": 2,
         "doubles": 0,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 5,
+        "at_bats": 6,
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683734/headshot/67/current",
-        "ops": 1.571,
-        "season_ops": 0.562,
+        "ops": 1.625,
+        "season_ops": 0.569,
+        "difference_ops": 1.056
+    },
+    {
+        "name": "Michael Busch",
+        "player_id": 683737,
+        "hits": 11,
+        "singles": 5,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 4,
+        "at_bats": 19,
+        "team": "CHC",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
+        "ops": 1.952,
+        "season_ops": 0.943,
         "difference_ops": 1.009
     },
     {
@@ -30,36 +45,6 @@
         "difference_ops": 0.989
     },
     {
-        "name": "Michael Busch",
-        "player_id": 683737,
-        "hits": 10,
-        "singles": 4,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 4,
-        "at_bats": 20,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
-        "ops": 1.745,
-        "season_ops": 0.944,
-        "difference_ops": 0.801
-    },
-    {
-        "name": "Harrison Bader",
-        "player_id": 664056,
-        "hits": 6,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 4,
-        "at_bats": 16,
-        "team": "MIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664056/headshot/67/current",
-        "ops": 1.537,
-        "season_ops": 0.774,
-        "difference_ops": 0.763
-    },
-    {
         "name": "Ceddanne Rafaela",
         "player_id": 678882,
         "hits": 8,
@@ -73,5 +58,20 @@
         "ops": 1.479,
         "season_ops": 0.774,
         "difference_ops": 0.705
+    },
+    {
+        "name": "Jarren Duran",
+        "player_id": 680776,
+        "hits": 7,
+        "singles": 2,
+        "doubles": 2,
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 17,
+        "team": "BOS",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680776/headshot/67/current",
+        "ops": 1.444,
+        "season_ops": 0.756,
+        "difference_ops": 0.688
     }
 ]

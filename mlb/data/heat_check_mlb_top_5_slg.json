@@ -15,49 +15,34 @@
         "difference_slg": 0.814
     },
     {
-        "name": "Harrison Bader",
-        "player_id": 664056,
-        "hits": 6,
-        "singles": 2,
-        "doubles": 0,
+        "name": "Michael Busch",
+        "player_id": 683737,
+        "hits": 11,
+        "singles": 5,
+        "doubles": 2,
         "triples": 0,
         "home_runs": 4,
-        "at_bats": 16,
-        "team": "MIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664056/headshot/67/current",
-        "slg": 1.125,
-        "season_slg": 0.443,
-        "difference_slg": 0.682
+        "at_bats": 19,
+        "team": "CHC",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
+        "slg": 1.316,
+        "season_slg": 0.559,
+        "difference_slg": 0.757
     },
     {
         "name": "Andrew Vaughn",
         "player_id": 683734,
-        "hits": 2,
-        "singles": 1,
+        "hits": 3,
+        "singles": 2,
         "doubles": 0,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 5,
+        "at_bats": 6,
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683734/headshot/67/current",
         "slg": 1.0,
-        "season_slg": 0.332,
-        "difference_slg": 0.668
-    },
-    {
-        "name": "Michael Busch",
-        "player_id": 683737,
-        "hits": 10,
-        "singles": 4,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 4,
-        "at_bats": 20,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
-        "slg": 1.2,
-        "season_slg": 0.562,
-        "difference_slg": 0.638
+        "season_slg": 0.335,
+        "difference_slg": 0.665
     },
     {
         "name": "Ceddanne Rafaela",
@@ -73,5 +58,20 @@
         "slg": 1.05,
         "season_slg": 0.465,
         "difference_slg": 0.585
+    },
+    {
+        "name": "Harrison Bader",
+        "player_id": 664056,
+        "hits": 5,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 4,
+        "at_bats": 17,
+        "team": "MIN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664056/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.437,
+        "difference_slg": 0.563
     }
 ]
