@@ -1,5 +1,20 @@
 [
     {
+        "name": "Kyle Stowers",
+        "player_id": 669065,
+        "hits": 7,
+        "singles": 4,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 3,
+        "at_bats": 11,
+        "team": "MIA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669065/headshot/67/current",
+        "slg": 1.455,
+        "season_slg": 0.543,
+        "difference_slg": 0.912
+    },
+    {
         "name": "Kerry Carpenter",
         "player_id": 681481,
         "hits": 6,
@@ -30,48 +45,33 @@
         "difference_slg": 0.638
     },
     {
+        "name": "Tommy Pham",
+        "player_id": 502054,
+        "hits": 7,
+        "singles": 3,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 18,
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/502054/headshot/67/current",
+        "slg": 0.833,
+        "season_slg": 0.346,
+        "difference_slg": 0.487
+    },
+    {
         "name": "Byron Buxton",
         "player_id": 621439,
         "hits": 10,
         "singles": 5,
-        "doubles": 2,
+        "doubles": 3,
         "triples": 1,
-        "home_runs": 2,
-        "at_bats": 18,
+        "home_runs": 1,
+        "at_bats": 17,
         "team": "MIN",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/621439/headshot/67/current",
-        "slg": 1.111,
-        "season_slg": 0.571,
-        "difference_slg": 0.54
-    },
-    {
-        "name": "Sean Murphy",
-        "player_id": 669221,
-        "hits": 7,
-        "singles": 1,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 4,
-        "at_bats": 21,
-        "team": "ATL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669221/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.523,
-        "difference_slg": 0.477
-    },
-    {
-        "name": "Cody Bellinger",
-        "player_id": 641355,
-        "hits": 10,
-        "singles": 6,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 21,
-        "team": "NYY",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641355/headshot/67/current",
-        "slg": 0.952,
-        "season_slg": 0.499,
-        "difference_slg": 0.453
+        "slg": 1.059,
+        "season_slg": 0.574,
+        "difference_slg": 0.485
     }
 ]
