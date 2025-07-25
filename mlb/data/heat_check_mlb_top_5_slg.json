@@ -45,6 +45,21 @@
         "difference_slg": 0.598
     },
     {
+        "name": "Willson Contreras",
+        "player_id": 575929,
+        "hits": 9,
+        "singles": 3,
+        "doubles": 4,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 21,
+        "team": "STL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/575929/headshot/67/current",
+        "slg": 0.905,
+        "season_slg": 0.452,
+        "difference_slg": 0.453
+    },
+    {
         "name": "Matt Chapman",
         "player_id": 656305,
         "hits": 7,
@@ -58,20 +73,5 @@
         "slg": 0.889,
         "season_slg": 0.447,
         "difference_slg": 0.442
-    },
-    {
-        "name": "Anthony Volpe",
-        "player_id": 683011,
-        "hits": 4,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 16,
-        "team": "NYY",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683011/headshot/67/current",
-        "slg": 0.812,
-        "season_slg": 0.4,
-        "difference_slg": 0.412
     }
 ]
