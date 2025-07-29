@@ -1,5 +1,20 @@
 [
     {
+        "name": "Manny Machado",
+        "player_id": 592518,
+        "hits": 13,
+        "singles": 9,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 21,
+        "team": "SDP",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592518/headshot/67/current",
+        "obp": 0.667,
+        "season_obp": 0.36,
+        "difference_obp": 0.307
+    },
+    {
         "name": "Santiago Espinal",
         "player_id": 669289,
         "hits": 3,
@@ -15,19 +30,19 @@
         "difference_obp": 0.293
     },
     {
-        "name": "Manny Machado",
-        "player_id": 592518,
-        "hits": 13,
-        "singles": 8,
-        "doubles": 4,
+        "name": "Adley Rutschman",
+        "player_id": 668939,
+        "hits": 3,
+        "singles": 1,
+        "doubles": 2,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 21,
-        "team": "SDP",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592518/headshot/67/current",
-        "obp": 0.652,
-        "season_obp": 0.36,
-        "difference_obp": 0.292
+        "home_runs": 0,
+        "at_bats": 5,
+        "team": "BAL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668939/headshot/67/current",
+        "obp": 0.6,
+        "season_obp": 0.319,
+        "difference_obp": 0.281
     },
     {
         "name": "Starling Marte",
@@ -52,26 +67,11 @@
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 17,
+        "at_bats": 16,
         "team": "COL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686668/headshot/67/current",
-        "obp": 0.471,
-        "season_obp": 0.265,
-        "difference_obp": 0.206
-    },
-    {
-        "name": "Ryan McMahon",
-        "player_id": 641857,
-        "hits": 5,
-        "singles": 3,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 15,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641857/headshot/67/current",
         "obp": 0.5,
-        "season_obp": 0.32,
-        "difference_obp": 0.18
+        "season_obp": 0.265,
+        "difference_obp": 0.235
     }
 ]
