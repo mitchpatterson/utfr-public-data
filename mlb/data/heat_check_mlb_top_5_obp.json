@@ -2,17 +2,17 @@
     {
         "name": "Pavin Smith",
         "player_id": 656976,
-        "hits": 1,
+        "hits": 0,
         "singles": 0,
-        "doubles": 1,
+        "doubles": 0,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 3,
+        "at_bats": 1,
         "team": "ARI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656976/headshot/67/current",
-        "obp": 0.6,
+        "obp": 0.667,
         "season_obp": 0.371,
-        "difference_obp": 0.229
+        "difference_obp": 0.296
     },
     {
         "name": "Lenyn Sosa",
