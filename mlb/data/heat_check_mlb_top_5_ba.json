@@ -26,38 +26,8 @@
         "team": "CHW",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672820/headshot/67/current",
         "ba": 0.625,
-        "season_ba": 0.282,
-        "difference_ba": 0.343
-    },
-    {
-        "name": "Brenton Doyle",
-        "player_id": 686668,
-        "hits": 9,
-        "singles": 7,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 18,
-        "team": "COL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686668/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.225,
-        "difference_ba": 0.275
-    },
-    {
-        "name": "Andrew Vaughn",
-        "player_id": 683734,
-        "hits": 10,
-        "singles": 6,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 20,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683734/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.236,
-        "difference_ba": 0.264
+        "season_ba": 0.281,
+        "difference_ba": 0.344
     },
     {
         "name": "William Contreras",
@@ -71,7 +41,37 @@
         "team": "MIL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/661388/headshot/67/current",
         "ba": 0.522,
-        "season_ba": 0.261,
-        "difference_ba": 0.261
+        "season_ba": 0.258,
+        "difference_ba": 0.264
+    },
+    {
+        "name": "Cedric Mullins",
+        "player_id": 656775,
+        "hits": 7,
+        "singles": 2,
+        "doubles": 4,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 15,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656775/headshot/67/current",
+        "ba": 0.467,
+        "season_ba": 0.229,
+        "difference_ba": 0.238
+    },
+    {
+        "name": "Kyle Higashioka",
+        "player_id": 543309,
+        "hits": 9,
+        "singles": 5,
+        "doubles": 0,
+        "triples": 1,
+        "home_runs": 3,
+        "at_bats": 18,
+        "team": "TEX",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543309/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.269,
+        "difference_ba": 0.231
     }
 ]

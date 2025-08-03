@@ -26,8 +26,8 @@
         "team": "CHW",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672820/headshot/67/current",
         "obp": 0.667,
-        "season_obp": 0.308,
-        "difference_obp": 0.359
+        "season_obp": 0.307,
+        "difference_obp": 0.36
     },
     {
         "name": "Pavin Smith",
@@ -60,18 +60,18 @@
         "difference_obp": 0.277
     },
     {
-        "name": "Kyle Manzardo",
-        "player_id": 700932,
+        "name": "Ozzie Albies",
+        "player_id": 645277,
         "hits": 8,
         "singles": 6,
-        "doubles": 0,
+        "doubles": 2,
         "triples": 0,
-        "home_runs": 2,
-        "at_bats": 16,
-        "team": "CLE",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/700932/headshot/67/current",
-        "obp": 0.579,
-        "season_obp": 0.315,
-        "difference_obp": 0.264
+        "home_runs": 0,
+        "at_bats": 19,
+        "team": "ATL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/645277/headshot/67/current",
+        "obp": 0.542,
+        "season_obp": 0.307,
+        "difference_obp": 0.235
     }
 ]
