@@ -1,20 +1,5 @@
 [
     {
-        "name": "JJ Bleday",
-        "player_id": 668709,
-        "hits": 8,
-        "singles": 4,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 11,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
-        "slg": 1.455,
-        "season_slg": 0.388,
-        "difference_slg": 1.067
-    },
-    {
         "name": "Max Muncy",
         "player_id": 571970,
         "hits": 4,
@@ -41,8 +26,23 @@
         "team": "LAD",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
         "slg": 1.25,
-        "season_slg": 0.452,
-        "difference_slg": 0.798
+        "season_slg": 0.481,
+        "difference_slg": 0.769
+    },
+    {
+        "name": "JJ Bleday",
+        "player_id": 668709,
+        "hits": 9,
+        "singles": 5,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 15,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
+        "slg": 1.133,
+        "season_slg": 0.411,
+        "difference_slg": 0.722
     },
     {
         "name": "Shea Langeliers",
@@ -56,8 +56,8 @@
         "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
         "slg": 1.174,
-        "season_slg": 0.507,
-        "difference_slg": 0.667
+        "season_slg": 0.541,
+        "difference_slg": 0.633
     },
     {
         "name": "Brandon Marsh",
@@ -71,7 +71,7 @@
         "team": "PHI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669016/headshot/67/current",
         "slg": 1.0,
-        "season_slg": 0.387,
-        "difference_slg": 0.613
+        "season_slg": 0.405,
+        "difference_slg": 0.595
     }
 ]

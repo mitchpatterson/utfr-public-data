@@ -1,20 +1,5 @@
 [
     {
-        "name": "JJ Bleday",
-        "player_id": 668709,
-        "hits": 8,
-        "singles": 4,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 11,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
-        "ops": 2.182,
-        "season_ops": 0.686,
-        "difference_ops": 1.496
-    },
-    {
         "name": "Max Muncy",
         "player_id": 571970,
         "hits": 4,
@@ -25,9 +10,24 @@
         "at_bats": 8,
         "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "ops": 1.806,
+        "ops": 1.85,
         "season_ops": 0.643,
-        "difference_ops": 1.163
+        "difference_ops": 1.207
+    },
+    {
+        "name": "JJ Bleday",
+        "player_id": 668709,
+        "hits": 9,
+        "singles": 5,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 15,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
+        "ops": 1.733,
+        "season_ops": 0.717,
+        "difference_ops": 1.016
     },
     {
         "name": "Max Muncy",
@@ -40,9 +40,9 @@
         "at_bats": 8,
         "team": "LAD",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "ops": 1.806,
-        "season_ops": 0.825,
-        "difference_ops": 0.981
+        "ops": 1.85,
+        "season_ops": 0.863,
+        "difference_ops": 0.987
     },
     {
         "name": "Shea Langeliers",
@@ -56,8 +56,8 @@
         "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
         "ops": 1.696,
-        "season_ops": 0.82,
-        "difference_ops": 0.876
+        "season_ops": 0.863,
+        "difference_ops": 0.833
     },
     {
         "name": "Brandon Marsh",
@@ -71,7 +71,7 @@
         "team": "PHI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669016/headshot/67/current",
         "ops": 1.429,
-        "season_ops": 0.72,
-        "difference_ops": 0.709
+        "season_ops": 0.741,
+        "difference_ops": 0.688
     }
 ]

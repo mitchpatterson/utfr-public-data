@@ -2,32 +2,32 @@
     {
         "name": "JJ Bleday",
         "player_id": 668709,
-        "hits": 8,
-        "singles": 4,
+        "hits": 9,
+        "singles": 5,
         "doubles": 2,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 11,
+        "at_bats": 15,
         "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
-        "ba": 0.727,
-        "season_ba": 0.206,
-        "difference_ba": 0.521
+        "ba": 0.6,
+        "season_ba": 0.219,
+        "difference_ba": 0.381
     },
     {
-        "name": "Colt Keith",
-        "player_id": 690993,
-        "hits": 9,
-        "singles": 7,
+        "name": "Brooks Baldwin",
+        "player_id": 681460,
+        "hits": 7,
+        "singles": 6,
         "doubles": 1,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 16,
-        "team": "DET",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/690993/headshot/67/current",
-        "ba": 0.562,
-        "season_ba": 0.262,
-        "difference_ba": 0.3
+        "home_runs": 0,
+        "at_bats": 13,
+        "team": "CHW",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681460/headshot/67/current",
+        "ba": 0.538,
+        "season_ba": 0.236,
+        "difference_ba": 0.302
     },
     {
         "name": "Max Muncy",
@@ -56,8 +56,8 @@
         "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
         "ba": 0.522,
-        "season_ba": 0.261,
-        "difference_ba": 0.261
+        "season_ba": 0.272,
+        "difference_ba": 0.25
     },
     {
         "name": "Max Muncy",
@@ -71,7 +71,7 @@
         "team": "LAD",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
         "ba": 0.5,
-        "season_ba": 0.247,
-        "difference_ba": 0.253
+        "season_ba": 0.258,
+        "difference_ba": 0.242
     }
 ]
