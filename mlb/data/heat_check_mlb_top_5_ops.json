@@ -15,21 +15,6 @@
         "difference_ops": 1.207
     },
     {
-        "name": "JJ Bleday",
-        "player_id": 668709,
-        "hits": 9,
-        "singles": 5,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 15,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
-        "ops": 1.733,
-        "season_ops": 0.717,
-        "difference_ops": 1.016
-    },
-    {
         "name": "Max Muncy",
         "player_id": 571970,
         "hits": 4,
@@ -45,19 +30,19 @@
         "difference_ops": 0.987
     },
     {
-        "name": "Shea Langeliers",
-        "player_id": 669127,
-        "hits": 12,
+        "name": "JJ Bleday",
+        "player_id": 668709,
+        "hits": 9,
         "singles": 5,
-        "doubles": 3,
+        "doubles": 2,
         "triples": 0,
-        "home_runs": 4,
-        "at_bats": 23,
+        "home_runs": 2,
+        "at_bats": 17,
         "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
-        "ops": 1.696,
-        "season_ops": 0.863,
-        "difference_ops": 0.833
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
+        "ops": 1.529,
+        "season_ops": 0.711,
+        "difference_ops": 0.818
     },
     {
         "name": "Brandon Marsh",
@@ -73,5 +58,20 @@
         "ops": 1.429,
         "season_ops": 0.741,
         "difference_ops": 0.688
+    },
+    {
+        "name": "Alek Thomas",
+        "player_id": 677950,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 15,
+        "team": "ARI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/677950/headshot/67/current",
+        "ops": 1.367,
+        "season_ops": 0.701,
+        "difference_ops": 0.666
     }
 ]

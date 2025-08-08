@@ -7,27 +7,12 @@
         "doubles": 2,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 15,
+        "at_bats": 17,
         "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
-        "ba": 0.6,
-        "season_ba": 0.219,
-        "difference_ba": 0.381
-    },
-    {
-        "name": "Brooks Baldwin",
-        "player_id": 681460,
-        "hits": 7,
-        "singles": 6,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 13,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681460/headshot/67/current",
-        "ba": 0.538,
-        "season_ba": 0.236,
-        "difference_ba": 0.302
+        "ba": 0.529,
+        "season_ba": 0.217,
+        "difference_ba": 0.312
     },
     {
         "name": "Max Muncy",
@@ -45,21 +30,6 @@
         "difference_ba": 0.285
     },
     {
-        "name": "Shea Langeliers",
-        "player_id": 669127,
-        "hits": 12,
-        "singles": 5,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 4,
-        "at_bats": 23,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
-        "ba": 0.522,
-        "season_ba": 0.272,
-        "difference_ba": 0.25
-    },
-    {
         "name": "Max Muncy",
         "player_id": 571970,
         "hits": 4,
@@ -73,5 +43,35 @@
         "ba": 0.5,
         "season_ba": 0.258,
         "difference_ba": 0.242
+    },
+    {
+        "name": "Trevor Story",
+        "player_id": 596115,
+        "hits": 9,
+        "singles": 7,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 18,
+        "team": "BOS",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/596115/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.261,
+        "difference_ba": 0.239
+    },
+    {
+        "name": "Alek Thomas",
+        "player_id": 677950,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 15,
+        "team": "ARI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/677950/headshot/67/current",
+        "ba": 0.467,
+        "season_ba": 0.257,
+        "difference_ba": 0.21
     }
 ]

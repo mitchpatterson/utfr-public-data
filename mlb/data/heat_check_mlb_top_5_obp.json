@@ -15,36 +15,6 @@
         "difference_obp": 0.342
     },
     {
-        "name": "Brooks Baldwin",
-        "player_id": 681460,
-        "hits": 7,
-        "singles": 6,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 13,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681460/headshot/67/current",
-        "obp": 0.6,
-        "season_obp": 0.284,
-        "difference_obp": 0.316
-    },
-    {
-        "name": "JJ Bleday",
-        "player_id": 668709,
-        "hits": 9,
-        "singles": 5,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 15,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
-        "obp": 0.6,
-        "season_obp": 0.306,
-        "difference_obp": 0.294
-    },
-    {
         "name": "Joey Bart",
         "player_id": 663698,
         "hits": 5,
@@ -73,5 +43,35 @@
         "obp": 0.55,
         "season_obp": 0.304,
         "difference_obp": 0.246
+    },
+    {
+        "name": "Jordan Beck",
+        "player_id": 687597,
+        "hits": 6,
+        "singles": 4,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 14,
+        "team": "COL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/687597/headshot/67/current",
+        "obp": 0.579,
+        "season_obp": 0.343,
+        "difference_obp": 0.236
+    },
+    {
+        "name": "JJ Bleday",
+        "player_id": 668709,
+        "hits": 9,
+        "singles": 5,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 17,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
+        "obp": 0.529,
+        "season_obp": 0.304,
+        "difference_obp": 0.225
     }
 ]

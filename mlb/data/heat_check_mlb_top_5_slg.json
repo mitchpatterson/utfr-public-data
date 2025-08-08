@@ -30,34 +30,19 @@
         "difference_slg": 0.769
     },
     {
-        "name": "JJ Bleday",
-        "player_id": 668709,
-        "hits": 9,
-        "singles": 5,
-        "doubles": 2,
+        "name": "Javier Sanoja",
+        "player_id": 691594,
+        "hits": 4,
+        "singles": 1,
+        "doubles": 0,
         "triples": 0,
-        "home_runs": 2,
-        "at_bats": 15,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
-        "slg": 1.133,
-        "season_slg": 0.411,
-        "difference_slg": 0.722
-    },
-    {
-        "name": "Shea Langeliers",
-        "player_id": 669127,
-        "hits": 12,
-        "singles": 5,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 4,
-        "at_bats": 23,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
-        "slg": 1.174,
-        "season_slg": 0.541,
-        "difference_slg": 0.633
+        "home_runs": 3,
+        "at_bats": 13,
+        "team": "MIA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691594/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.392,
+        "difference_slg": 0.608
     },
     {
         "name": "Brandon Marsh",
@@ -73,5 +58,20 @@
         "slg": 1.0,
         "season_slg": 0.405,
         "difference_slg": 0.595
+    },
+    {
+        "name": "JJ Bleday",
+        "player_id": 668709,
+        "hits": 9,
+        "singles": 5,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 17,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.407,
+        "difference_slg": 0.593
     }
 ]
