@@ -1,18 +1,33 @@
 [
     {
-        "name": "Max Muncy",
-        "player_id": 571970,
-        "hits": 4,
-        "singles": 2,
+        "name": "Ryan Mountcastle",
+        "player_id": 663624,
+        "hits": 1,
+        "singles": 0,
         "doubles": 0,
         "triples": 0,
+        "home_runs": 1,
+        "at_bats": 3,
+        "team": "BAL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663624/headshot/67/current",
+        "slg": 1.333,
+        "season_slg": 0.363,
+        "difference_slg": 0.97
+    },
+    {
+        "name": "Brandon Marsh",
+        "player_id": 669016,
+        "hits": 8,
+        "singles": 2,
+        "doubles": 4,
+        "triples": 0,
         "home_runs": 2,
-        "at_bats": 8,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "slg": 1.25,
-        "season_slg": 0.385,
-        "difference_slg": 0.865
+        "at_bats": 15,
+        "team": "PHI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669016/headshot/67/current",
+        "slg": 1.2,
+        "season_slg": 0.433,
+        "difference_slg": 0.767
     },
     {
         "name": "Max Muncy",
@@ -22,12 +37,12 @@
         "doubles": 0,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 8,
-        "team": "LAD",
+        "at_bats": 10,
+        "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "slg": 1.25,
-        "season_slg": 0.481,
-        "difference_slg": 0.769
+        "slg": 1.0,
+        "season_slg": 0.385,
+        "difference_slg": 0.615
     },
     {
         "name": "Javier Sanoja",
@@ -43,21 +58,6 @@
         "slg": 1.0,
         "season_slg": 0.392,
         "difference_slg": 0.608
-    },
-    {
-        "name": "Brandon Marsh",
-        "player_id": 669016,
-        "hits": 6,
-        "singles": 2,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 14,
-        "team": "PHI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669016/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.405,
-        "difference_slg": 0.595
     },
     {
         "name": "JJ Bleday",

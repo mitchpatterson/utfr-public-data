@@ -1,18 +1,33 @@
 [
     {
-        "name": "Max Muncy",
-        "player_id": 571970,
-        "hits": 4,
-        "singles": 2,
+        "name": "Ryan Mountcastle",
+        "player_id": 663624,
+        "hits": 1,
+        "singles": 0,
         "doubles": 0,
         "triples": 0,
+        "home_runs": 1,
+        "at_bats": 3,
+        "team": "BAL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663624/headshot/67/current",
+        "ops": 1.667,
+        "season_ops": 0.644,
+        "difference_ops": 1.023
+    },
+    {
+        "name": "Brandon Marsh",
+        "player_id": 669016,
+        "hits": 8,
+        "singles": 2,
+        "doubles": 4,
+        "triples": 0,
         "home_runs": 2,
-        "at_bats": 8,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "ops": 1.85,
-        "season_ops": 0.643,
-        "difference_ops": 1.207
+        "at_bats": 15,
+        "team": "PHI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669016/headshot/67/current",
+        "ops": 1.733,
+        "season_ops": 0.777,
+        "difference_ops": 0.956
     },
     {
         "name": "Max Muncy",
@@ -22,12 +37,12 @@
         "doubles": 0,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 8,
-        "team": "LAD",
+        "at_bats": 10,
+        "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "ops": 1.85,
-        "season_ops": 0.863,
-        "difference_ops": 0.987
+        "ops": 1.571,
+        "season_ops": 0.643,
+        "difference_ops": 0.928
     },
     {
         "name": "JJ Bleday",
@@ -45,33 +60,18 @@
         "difference_ops": 0.818
     },
     {
-        "name": "Brandon Marsh",
-        "player_id": 669016,
-        "hits": 6,
+        "name": "Max Muncy",
+        "player_id": 571970,
+        "hits": 4,
         "singles": 2,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 14,
-        "team": "PHI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669016/headshot/67/current",
-        "ops": 1.429,
-        "season_ops": 0.741,
-        "difference_ops": 0.688
-    },
-    {
-        "name": "Alek Thomas",
-        "player_id": 677950,
-        "hits": 7,
-        "singles": 5,
         "doubles": 0,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 15,
-        "team": "ARI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/677950/headshot/67/current",
-        "ops": 1.367,
-        "season_ops": 0.701,
-        "difference_ops": 0.666
+        "at_bats": 10,
+        "team": "LAD",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
+        "ops": 1.571,
+        "season_ops": 0.86,
+        "difference_ops": 0.711
     }
 ]
