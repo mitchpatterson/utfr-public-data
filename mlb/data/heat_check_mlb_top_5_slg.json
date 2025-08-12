@@ -1,20 +1,5 @@
 [
     {
-        "name": "Max Muncy",
-        "player_id": 571970,
-        "hits": 7,
-        "singles": 4,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 13,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "slg": 1.231,
-        "season_slg": 0.385,
-        "difference_slg": 0.846
-    },
-    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -26,23 +11,23 @@
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
         "slg": 1.286,
-        "season_slg": 0.456,
-        "difference_slg": 0.83
+        "season_slg": 0.464,
+        "difference_slg": 0.822
     },
     {
-        "name": "Max Muncy",
-        "player_id": 571970,
-        "hits": 7,
-        "singles": 4,
+        "name": "Junior Caminero",
+        "player_id": 691406,
+        "hits": 10,
+        "singles": 5,
         "doubles": 0,
         "triples": 0,
-        "home_runs": 3,
-        "at_bats": 13,
-        "team": "LAD",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "slg": 1.231,
-        "season_slg": 0.491,
-        "difference_slg": 0.74
+        "home_runs": 5,
+        "at_bats": 20,
+        "team": "TBR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691406/headshot/67/current",
+        "slg": 1.25,
+        "season_slg": 0.529,
+        "difference_slg": 0.721
     },
     {
         "name": "Matt Shaw",
@@ -56,22 +41,37 @@
         "team": "CHC",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807713/headshot/67/current",
         "slg": 1.067,
-        "season_slg": 0.383,
-        "difference_slg": 0.684
+        "season_slg": 0.392,
+        "difference_slg": 0.675
     },
     {
         "name": "Brandon Marsh",
         "player_id": 669016,
-        "hits": 8,
+        "hits": 7,
         "singles": 2,
-        "doubles": 4,
+        "doubles": 3,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 17,
+        "at_bats": 15,
         "team": "PHI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669016/headshot/67/current",
-        "slg": 1.059,
-        "season_slg": 0.43,
-        "difference_slg": 0.629
+        "slg": 1.067,
+        "season_slg": 0.426,
+        "difference_slg": 0.641
+    },
+    {
+        "name": "Brice Turang",
+        "player_id": 668930,
+        "hits": 5,
+        "singles": 1,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 3,
+        "at_bats": 15,
+        "team": "MIL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668930/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.405,
+        "difference_slg": 0.595
     }
 ]

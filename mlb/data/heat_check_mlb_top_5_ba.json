@@ -1,48 +1,18 @@
 [
     {
-        "name": "Max Muncy",
-        "player_id": 571970,
-        "hits": 7,
-        "singles": 4,
+        "name": "Adam Frazier",
+        "player_id": 624428,
+        "hits": 10,
+        "singles": 10,
         "doubles": 0,
         "triples": 0,
-        "home_runs": 3,
-        "at_bats": 13,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "ba": 0.538,
-        "season_ba": 0.215,
-        "difference_ba": 0.323
-    },
-    {
-        "name": "Max Muncy",
-        "player_id": 571970,
-        "hits": 7,
-        "singles": 4,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 13,
-        "team": "LAD",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "ba": 0.538,
-        "season_ba": 0.26,
-        "difference_ba": 0.278
-    },
-    {
-        "name": "Carlos Correa",
-        "player_id": 621043,
-        "hits": 11,
-        "singles": 8,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 20,
+        "home_runs": 0,
+        "at_bats": 18,
         "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/621043/headshot/67/current",
-        "ba": 0.55,
-        "season_ba": 0.279,
-        "difference_ba": 0.271
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624428/headshot/67/current",
+        "ba": 0.556,
+        "season_ba": 0.271,
+        "difference_ba": 0.285
     },
     {
         "name": "Bryson Stott",
@@ -56,8 +26,23 @@
         "team": "PHI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681082/headshot/67/current",
         "ba": 0.5,
-        "season_ba": 0.24,
-        "difference_ba": 0.26
+        "season_ba": 0.242,
+        "difference_ba": 0.258
+    },
+    {
+        "name": "Junior Caminero",
+        "player_id": 691406,
+        "hits": 10,
+        "singles": 5,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 5,
+        "at_bats": 20,
+        "team": "TBR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691406/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.262,
+        "difference_ba": 0.238
     },
     {
         "name": "Xavier Edwards",
@@ -71,7 +56,22 @@
         "team": "MIA",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669364/headshot/67/current",
         "ba": 0.538,
-        "season_ba": 0.303,
-        "difference_ba": 0.235
+        "season_ba": 0.305,
+        "difference_ba": 0.233
+    },
+    {
+        "name": "Jordan Walker",
+        "player_id": 691023,
+        "hits": 8,
+        "singles": 7,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 17,
+        "team": "STL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691023/headshot/67/current",
+        "ba": 0.471,
+        "season_ba": 0.24,
+        "difference_ba": 0.231
     }
 ]

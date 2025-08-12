@@ -1,20 +1,5 @@
 [
     {
-        "name": "Max Muncy",
-        "player_id": 571970,
-        "hits": 7,
-        "singles": 4,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 13,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "ops": 1.915,
-        "season_ops": 0.643,
-        "difference_ops": 1.272
-    },
-    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -26,23 +11,38 @@
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
         "ops": 1.874,
-        "season_ops": 0.813,
-        "difference_ops": 1.061
+        "season_ops": 0.824,
+        "difference_ops": 1.05
+    },
+    {
+        "name": "Junior Caminero",
+        "player_id": 691406,
+        "hits": 10,
+        "singles": 5,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 5,
+        "at_bats": 20,
+        "team": "TBR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691406/headshot/67/current",
+        "ops": 1.774,
+        "season_ops": 0.831,
+        "difference_ops": 0.943
     },
     {
         "name": "Max Muncy",
         "player_id": 571970,
-        "hits": 7,
-        "singles": 4,
+        "hits": 4,
+        "singles": 2,
         "doubles": 0,
         "triples": 0,
-        "home_runs": 3,
-        "at_bats": 13,
-        "team": "LAD",
+        "home_runs": 2,
+        "at_bats": 11,
+        "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "ops": 1.915,
-        "season_ops": 0.878,
-        "difference_ops": 1.037
+        "ops": 1.52,
+        "season_ops": 0.643,
+        "difference_ops": 0.877
     },
     {
         "name": "Kyle Manzardo",
@@ -56,8 +56,8 @@
         "team": "CLE",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/700932/headshot/67/current",
         "ops": 1.588,
-        "season_ops": 0.787,
-        "difference_ops": 0.801
+        "season_ops": 0.808,
+        "difference_ops": 0.78
     },
     {
         "name": "Matt Shaw",
@@ -71,7 +71,7 @@
         "team": "CHC",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807713/headshot/67/current",
         "ops": 1.442,
-        "season_ops": 0.675,
-        "difference_ops": 0.767
+        "season_ops": 0.683,
+        "difference_ops": 0.759
     }
 ]
