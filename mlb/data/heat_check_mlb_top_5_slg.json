@@ -1,5 +1,20 @@
 [
     {
+        "name": "Matt Shaw",
+        "player_id": 807713,
+        "hits": 5,
+        "singles": 0,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 3,
+        "at_bats": 14,
+        "team": "CHC",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807713/headshot/67/current",
+        "slg": 1.214,
+        "season_slg": 0.404,
+        "difference_slg": 0.81
+    },
+    {
         "name": "William Contreras",
         "player_id": 661388,
         "hits": 10,
@@ -13,21 +28,6 @@
         "slg": 1.111,
         "season_slg": 0.396,
         "difference_slg": 0.715
-    },
-    {
-        "name": "Matt Shaw",
-        "player_id": 807713,
-        "hits": 5,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 1,
-        "home_runs": 3,
-        "at_bats": 15,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807713/headshot/67/current",
-        "slg": 1.067,
-        "season_slg": 0.401,
-        "difference_slg": 0.666
     },
     {
         "name": "Taylor Ward",
@@ -60,18 +60,18 @@
         "difference_slg": 0.537
     },
     {
-        "name": "Kyle Manzardo",
-        "player_id": 700932,
-        "hits": 6,
-        "singles": 2,
-        "doubles": 1,
+        "name": "Pete Alonso",
+        "player_id": 624413,
+        "hits": 10,
+        "singles": 4,
+        "doubles": 3,
         "triples": 0,
         "home_runs": 3,
-        "at_bats": 16,
-        "team": "CLE",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/700932/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.486,
-        "difference_slg": 0.514
+        "at_bats": 21,
+        "team": "NYM",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624413/headshot/67/current",
+        "slg": 1.048,
+        "season_slg": 0.528,
+        "difference_slg": 0.52
     }
 ]

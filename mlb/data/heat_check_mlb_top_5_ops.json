@@ -15,6 +15,21 @@
         "difference_ops": 0.989
     },
     {
+        "name": "Matt Shaw",
+        "player_id": 807713,
+        "hits": 5,
+        "singles": 0,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 3,
+        "at_bats": 14,
+        "team": "CHC",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807713/headshot/67/current",
+        "ops": 1.685,
+        "season_ops": 0.7,
+        "difference_ops": 0.985
+    },
+    {
         "name": "Taylor Ward",
         "player_id": 621493,
         "hits": 6,
@@ -30,34 +45,19 @@
         "difference_ops": 0.825
     },
     {
-        "name": "Matt Shaw",
-        "player_id": 807713,
-        "hits": 5,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 1,
-        "home_runs": 3,
-        "at_bats": 15,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807713/headshot/67/current",
-        "ops": 1.511,
-        "season_ops": 0.696,
-        "difference_ops": 0.815
-    },
-    {
-        "name": "Kyle Manzardo",
-        "player_id": 700932,
-        "hits": 6,
-        "singles": 2,
-        "doubles": 1,
+        "name": "Pete Alonso",
+        "player_id": 624413,
+        "hits": 10,
+        "singles": 4,
+        "doubles": 3,
         "triples": 0,
         "home_runs": 3,
-        "at_bats": 16,
-        "team": "CLE",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/700932/headshot/67/current",
-        "ops": 1.524,
-        "season_ops": 0.808,
-        "difference_ops": 0.716
+        "at_bats": 21,
+        "team": "NYM",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624413/headshot/67/current",
+        "ops": 1.548,
+        "season_ops": 0.883,
+        "difference_ops": 0.665
     },
     {
         "name": "Shohei Ohtani",

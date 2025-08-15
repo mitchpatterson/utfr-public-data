@@ -45,6 +45,21 @@
         "difference_ba": 0.243
     },
     {
+        "name": "Pete Alonso",
+        "player_id": 624413,
+        "hits": 10,
+        "singles": 4,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 3,
+        "at_bats": 21,
+        "team": "NYM",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624413/headshot/67/current",
+        "ba": 0.476,
+        "season_ba": 0.272,
+        "difference_ba": 0.204
+    },
+    {
         "name": "Gavin Lux",
         "player_id": 666158,
         "hits": 9,
@@ -58,20 +73,5 @@
         "ba": 0.474,
         "season_ba": 0.279,
         "difference_ba": 0.195
-    },
-    {
-        "name": "Noelvi Marte",
-        "player_id": 682622,
-        "hits": 10,
-        "singles": 4,
-        "doubles": 5,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 21,
-        "team": "CIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/682622/headshot/67/current",
-        "ba": 0.476,
-        "season_ba": 0.29,
-        "difference_ba": 0.186
     }
 ]

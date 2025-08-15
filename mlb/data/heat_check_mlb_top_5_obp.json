@@ -60,18 +60,18 @@
         "difference_obp": 0.242
     },
     {
-        "name": "Joey Ortiz",
-        "player_id": 687401,
-        "hits": 9,
-        "singles": 6,
-        "doubles": 3,
+        "name": "Kyle Farmer",
+        "player_id": 571657,
+        "hits": 5,
+        "singles": 4,
+        "doubles": 0,
         "triples": 0,
-        "home_runs": 0,
-        "at_bats": 19,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/687401/headshot/67/current",
+        "home_runs": 1,
+        "at_bats": 12,
+        "team": "COL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571657/headshot/67/current",
         "obp": 0.5,
-        "season_obp": 0.285,
-        "difference_obp": 0.215
+        "season_obp": 0.28,
+        "difference_obp": 0.22
     }
 ]
