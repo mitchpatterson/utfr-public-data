@@ -26,8 +26,8 @@
         "team": "NYM",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/596019/headshot/67/current",
         "obp": 0.652,
-        "season_obp": 0.324,
-        "difference_obp": 0.328
+        "season_obp": 0.327,
+        "difference_obp": 0.325
     },
     {
         "name": "Jake Burger",
@@ -45,33 +45,33 @@
         "difference_obp": 0.296
     },
     {
-        "name": "Alec Bohm",
-        "player_id": 664761,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 0,
+        "name": "Trea Turner",
+        "player_id": 607208,
+        "hits": 14,
+        "singles": 11,
+        "doubles": 2,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 4,
+        "at_bats": 24,
         "team": "PHI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664761/headshot/67/current",
-        "obp": 0.6,
-        "season_obp": 0.324,
-        "difference_obp": 0.276
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/607208/headshot/67/current",
+        "obp": 0.615,
+        "season_obp": 0.351,
+        "difference_obp": 0.264
     },
     {
-        "name": "Jordan Westburg",
-        "player_id": 676059,
-        "hits": 9,
-        "singles": 8,
+        "name": "Eric Wagaman",
+        "player_id": 676572,
+        "hits": 5,
+        "singles": 2,
         "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 19,
-        "team": "BAL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676059/headshot/67/current",
-        "obp": 0.565,
-        "season_obp": 0.319,
-        "difference_obp": 0.246
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 12,
+        "team": "MIA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676572/headshot/67/current",
+        "obp": 0.533,
+        "season_obp": 0.285,
+        "difference_obp": 0.248
     }
 ]

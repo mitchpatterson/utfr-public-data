@@ -1,20 +1,5 @@
 [
     {
-        "name": "Alec Bohm",
-        "player_id": 664761,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 4,
-        "team": "PHI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664761/headshot/67/current",
-        "slg": 1.25,
-        "season_slg": 0.391,
-        "difference_slg": 0.859
-    },
-    {
         "name": "Francisco Lindor",
         "player_id": 596019,
         "hits": 13,
@@ -26,8 +11,23 @@
         "team": "NYM",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/596019/headshot/67/current",
         "slg": 1.19,
-        "season_slg": 0.451,
-        "difference_slg": 0.739
+        "season_slg": 0.455,
+        "difference_slg": 0.735
+    },
+    {
+        "name": "Eric Wagaman",
+        "player_id": 676572,
+        "hits": 5,
+        "singles": 2,
+        "doubles": 0,
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 12,
+        "team": "MIA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676572/headshot/67/current",
+        "slg": 1.083,
+        "season_slg": 0.369,
+        "difference_slg": 0.714
     },
     {
         "name": "Myles Straw",
@@ -41,8 +41,8 @@
         "team": "TOR",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664702/headshot/67/current",
         "slg": 0.917,
-        "season_slg": 0.363,
-        "difference_slg": 0.554
+        "season_slg": 0.364,
+        "difference_slg": 0.553
     },
     {
         "name": "Kyle Farmer",
@@ -60,18 +60,18 @@
         "difference_slg": 0.538
     },
     {
-        "name": "Hunter Goodman",
-        "player_id": 696100,
-        "hits": 4,
-        "singles": 1,
-        "doubles": 1,
-        "triples": 0,
+        "name": "Dylan Carlson",
+        "player_id": 666185,
+        "hits": 6,
+        "singles": 3,
+        "doubles": 0,
+        "triples": 1,
         "home_runs": 2,
-        "at_bats": 11,
-        "team": "COL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/696100/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.532,
-        "difference_slg": 0.468
+        "at_bats": 17,
+        "team": "BAL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666185/headshot/67/current",
+        "slg": 0.824,
+        "season_slg": 0.341,
+        "difference_slg": 0.483
     }
 ]
