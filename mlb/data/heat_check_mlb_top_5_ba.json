@@ -1,5 +1,50 @@
 [
     {
+        "name": "Trea Turner",
+        "player_id": 607208,
+        "hits": 16,
+        "singles": 12,
+        "doubles": 2,
+        "triples": 1,
+        "home_runs": 1,
+        "at_bats": 24,
+        "team": "PHI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/607208/headshot/67/current",
+        "ba": 0.667,
+        "season_ba": 0.301,
+        "difference_ba": 0.366
+    },
+    {
+        "name": "Brooks Baldwin",
+        "player_id": 681460,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 13,
+        "team": "CHW",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681460/headshot/67/current",
+        "ba": 0.538,
+        "season_ba": 0.241,
+        "difference_ba": 0.297
+    },
+    {
+        "name": "Alex Call",
+        "player_id": 669743,
+        "hits": 5,
+        "singles": 3,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 9,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669743/headshot/67/current",
+        "ba": 0.556,
+        "season_ba": 0.274,
+        "difference_ba": 0.282
+    },
+    {
         "name": "Kyle Farmer",
         "player_id": 571657,
         "hits": 5,
@@ -15,36 +60,6 @@
         "difference_ba": 0.271
     },
     {
-        "name": "Alex Call",
-        "player_id": 669743,
-        "hits": 6,
-        "singles": 4,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 11,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669743/headshot/67/current",
-        "ba": 0.545,
-        "season_ba": 0.276,
-        "difference_ba": 0.269
-    },
-    {
-        "name": "Francisco Lindor",
-        "player_id": 596019,
-        "hits": 12,
-        "singles": 6,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 23,
-        "team": "NYM",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/596019/headshot/67/current",
-        "ba": 0.522,
-        "season_ba": 0.258,
-        "difference_ba": 0.264
-    },
-    {
         "name": "Jake Burger",
         "player_id": 669394,
         "hits": 6,
@@ -58,20 +73,5 @@
         "ba": 0.5,
         "season_ba": 0.242,
         "difference_ba": 0.258
-    },
-    {
-        "name": "Gavin Sheets",
-        "player_id": 657757,
-        "hits": 5,
-        "singles": 2,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 10,
-        "team": "SDP",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/657757/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.254,
-        "difference_ba": 0.246
     }
 ]

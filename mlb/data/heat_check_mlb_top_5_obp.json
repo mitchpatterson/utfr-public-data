@@ -1,5 +1,35 @@
 [
     {
+        "name": "Trea Turner",
+        "player_id": 607208,
+        "hits": 16,
+        "singles": 12,
+        "doubles": 2,
+        "triples": 1,
+        "home_runs": 1,
+        "at_bats": 24,
+        "team": "PHI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/607208/headshot/67/current",
+        "obp": 0.692,
+        "season_obp": 0.356,
+        "difference_obp": 0.336
+    },
+    {
+        "name": "Brooks Baldwin",
+        "player_id": 681460,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 13,
+        "team": "CHW",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681460/headshot/67/current",
+        "obp": 0.625,
+        "season_obp": 0.291,
+        "difference_obp": 0.334
+    },
+    {
         "name": "Jake Burger",
         "player_id": 669394,
         "hits": 6,
@@ -13,36 +43,6 @@
         "obp": 0.571,
         "season_obp": 0.275,
         "difference_obp": 0.296
-    },
-    {
-        "name": "Brooks Baldwin",
-        "player_id": 681460,
-        "hits": 6,
-        "singles": 4,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 13,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681460/headshot/67/current",
-        "obp": 0.562,
-        "season_obp": 0.29,
-        "difference_obp": 0.273
-    },
-    {
-        "name": "Alex Call",
-        "player_id": 669743,
-        "hits": 6,
-        "singles": 4,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 11,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669743/headshot/67/current",
-        "obp": 0.615,
-        "season_obp": 0.371,
-        "difference_obp": 0.244
     },
     {
         "name": "Max Muncy",
@@ -60,18 +60,18 @@
         "difference_obp": 0.242
     },
     {
-        "name": "Rowdy Tellez",
-        "player_id": 642133,
-        "hits": 4,
-        "singles": 4,
-        "doubles": 0,
+        "name": "Alex Call",
+        "player_id": 669743,
+        "hits": 5,
+        "singles": 3,
+        "doubles": 1,
         "triples": 0,
-        "home_runs": 0,
-        "at_bats": 11,
+        "home_runs": 1,
+        "at_bats": 9,
         "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642133/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.272,
-        "difference_obp": 0.228
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669743/headshot/67/current",
+        "obp": 0.6,
+        "season_obp": 0.37,
+        "difference_obp": 0.23
     }
 ]
