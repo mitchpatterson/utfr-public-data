@@ -1,20 +1,5 @@
 [
     {
-        "name": "Gavin Sheets",
-        "player_id": 657757,
-        "hits": 5,
-        "singles": 1,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 11,
-        "team": "SDP",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/657757/headshot/67/current",
-        "ops": 1.682,
-        "season_ops": 0.766,
-        "difference_ops": 0.916
-    },
-    {
         "name": "Trea Turner",
         "player_id": 607208,
         "hits": 16,
@@ -26,23 +11,8 @@
         "team": "PHI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/607208/headshot/67/current",
         "ops": 1.651,
-        "season_ops": 0.805,
-        "difference_ops": 0.846
-    },
-    {
-        "name": "Alex Call",
-        "player_id": 669743,
-        "hits": 5,
-        "singles": 3,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 9,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669743/headshot/67/current",
-        "ops": 1.6,
-        "season_ops": 0.764,
-        "difference_ops": 0.836
+        "season_ops": 0.808,
+        "difference_ops": 0.843
     },
     {
         "name": "Myles Straw",
@@ -73,5 +43,35 @@
         "ops": 1.471,
         "season_ops": 0.689,
         "difference_ops": 0.782
+    },
+    {
+        "name": "Ke'Bryan Hayes",
+        "player_id": 663647,
+        "hits": 7,
+        "singles": 2,
+        "doubles": 3,
+        "triples": 1,
+        "home_runs": 1,
+        "at_bats": 17,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663647/headshot/67/current",
+        "ops": 1.356,
+        "season_ops": 0.6,
+        "difference_ops": 0.756
+    },
+    {
+        "name": "Ben Rice",
+        "player_id": 700250,
+        "hits": 7,
+        "singles": 2,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 3,
+        "at_bats": 18,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/700250/headshot/67/current",
+        "ops": 1.577,
+        "season_ops": 0.827,
+        "difference_ops": 0.75
     }
 ]

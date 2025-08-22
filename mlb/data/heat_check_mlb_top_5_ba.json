@@ -11,8 +11,8 @@
         "team": "PHI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/607208/headshot/67/current",
         "ba": 0.667,
-        "season_ba": 0.301,
-        "difference_ba": 0.366
+        "season_ba": 0.303,
+        "difference_ba": 0.364
     },
     {
         "name": "Brooks Baldwin",
@@ -30,34 +30,19 @@
         "difference_ba": 0.297
     },
     {
-        "name": "Alex Call",
-        "player_id": 669743,
-        "hits": 5,
-        "singles": 3,
-        "doubles": 1,
+        "name": "Lars Nootbaar",
+        "player_id": 663457,
+        "hits": 11,
+        "singles": 9,
+        "doubles": 2,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 9,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669743/headshot/67/current",
-        "ba": 0.556,
-        "season_ba": 0.274,
-        "difference_ba": 0.282
-    },
-    {
-        "name": "Kyle Farmer",
-        "player_id": 571657,
-        "hits": 5,
-        "singles": 4,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 10,
-        "team": "COL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571657/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.229,
-        "difference_ba": 0.271
+        "home_runs": 0,
+        "at_bats": 21,
+        "team": "STL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663457/headshot/67/current",
+        "ba": 0.524,
+        "season_ba": 0.244,
+        "difference_ba": 0.28
     },
     {
         "name": "Jake Burger",
@@ -73,5 +58,20 @@
         "ba": 0.5,
         "season_ba": 0.242,
         "difference_ba": 0.258
+    },
+    {
+        "name": "Tyler Soderstrom",
+        "player_id": 691016,
+        "hits": 9,
+        "singles": 6,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 18,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691016/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.273,
+        "difference_ba": 0.227
     }
 ]

@@ -11,8 +11,8 @@
         "team": "PHI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/607208/headshot/67/current",
         "obp": 0.692,
-        "season_obp": 0.356,
-        "difference_obp": 0.336
+        "season_obp": 0.357,
+        "difference_obp": 0.335
     },
     {
         "name": "Brooks Baldwin",
@@ -45,6 +45,21 @@
         "difference_obp": 0.296
     },
     {
+        "name": "Tyler Soderstrom",
+        "player_id": 691016,
+        "hits": 9,
+        "singles": 6,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 18,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691016/headshot/67/current",
+        "obp": 0.591,
+        "season_obp": 0.347,
+        "difference_obp": 0.244
+    },
+    {
         "name": "Max Muncy",
         "player_id": 571970,
         "hits": 4,
@@ -58,20 +73,5 @@
         "obp": 0.5,
         "season_obp": 0.258,
         "difference_obp": 0.242
-    },
-    {
-        "name": "Alex Call",
-        "player_id": 669743,
-        "hits": 5,
-        "singles": 3,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 9,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669743/headshot/67/current",
-        "obp": 0.6,
-        "season_obp": 0.37,
-        "difference_obp": 0.23
     }
 ]
