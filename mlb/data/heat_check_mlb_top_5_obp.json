@@ -1,35 +1,5 @@
 [
     {
-        "name": "Trea Turner",
-        "player_id": 607208,
-        "hits": 16,
-        "singles": 12,
-        "doubles": 2,
-        "triples": 1,
-        "home_runs": 1,
-        "at_bats": 24,
-        "team": "PHI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/607208/headshot/67/current",
-        "obp": 0.692,
-        "season_obp": 0.357,
-        "difference_obp": 0.335
-    },
-    {
-        "name": "Brooks Baldwin",
-        "player_id": 681460,
-        "hits": 7,
-        "singles": 5,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 13,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681460/headshot/67/current",
-        "obp": 0.625,
-        "season_obp": 0.291,
-        "difference_obp": 0.334
-    },
-    {
         "name": "Jake Burger",
         "player_id": 669394,
         "hits": 6,
@@ -45,19 +15,34 @@
         "difference_obp": 0.296
     },
     {
-        "name": "Tyler Soderstrom",
-        "player_id": 691016,
-        "hits": 9,
-        "singles": 6,
-        "doubles": 2,
+        "name": "Brooks Baldwin",
+        "player_id": 681460,
+        "hits": 6,
+        "singles": 4,
+        "doubles": 1,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 18,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691016/headshot/67/current",
-        "obp": 0.591,
-        "season_obp": 0.347,
-        "difference_obp": 0.244
+        "at_bats": 13,
+        "team": "CHW",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681460/headshot/67/current",
+        "obp": 0.562,
+        "season_obp": 0.289,
+        "difference_obp": 0.274
+    },
+    {
+        "name": "Myles Straw",
+        "player_id": 664702,
+        "hits": 6,
+        "singles": 3,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 12,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664702/headshot/67/current",
+        "obp": 0.571,
+        "season_obp": 0.309,
+        "difference_obp": 0.262
     },
     {
         "name": "Max Muncy",
@@ -73,5 +58,20 @@
         "obp": 0.5,
         "season_obp": 0.258,
         "difference_obp": 0.242
+    },
+    {
+        "name": "Brooks Lee",
+        "player_id": 686797,
+        "hits": 6,
+        "singles": 3,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 16,
+        "team": "MIN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686797/headshot/67/current",
+        "obp": 0.524,
+        "season_obp": 0.298,
+        "difference_obp": 0.226
     }
 ]
