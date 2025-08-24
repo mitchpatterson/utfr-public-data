@@ -15,21 +15,6 @@
         "difference_obp": 0.296
     },
     {
-        "name": "Brooks Baldwin",
-        "player_id": 681460,
-        "hits": 6,
-        "singles": 4,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 13,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681460/headshot/67/current",
-        "obp": 0.562,
-        "season_obp": 0.289,
-        "difference_obp": 0.274
-    },
-    {
         "name": "Myles Straw",
         "player_id": 664702,
         "hits": 6,
@@ -37,12 +22,27 @@
         "doubles": 1,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 12,
+        "at_bats": 13,
         "team": "TOR",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664702/headshot/67/current",
-        "obp": 0.571,
+        "obp": 0.562,
         "season_obp": 0.309,
-        "difference_obp": 0.262
+        "difference_obp": 0.254
+    },
+    {
+        "name": "Miguel Rojas",
+        "player_id": 500743,
+        "hits": 7,
+        "singles": 6,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 14,
+        "team": "LAD",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/500743/headshot/67/current",
+        "obp": 0.562,
+        "season_obp": 0.318,
+        "difference_obp": 0.244
     },
     {
         "name": "Max Muncy",
@@ -60,18 +60,18 @@
         "difference_obp": 0.242
     },
     {
-        "name": "Brooks Lee",
-        "player_id": 686797,
-        "hits": 6,
+        "name": "Ke'Bryan Hayes",
+        "player_id": 663647,
+        "hits": 7,
         "singles": 3,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 2,
+        "doubles": 3,
+        "triples": 1,
+        "home_runs": 0,
         "at_bats": 16,
-        "team": "MIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686797/headshot/67/current",
-        "obp": 0.524,
-        "season_obp": 0.298,
-        "difference_obp": 0.226
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663647/headshot/67/current",
+        "obp": 0.526,
+        "season_obp": 0.289,
+        "difference_obp": 0.237
     }
 ]
