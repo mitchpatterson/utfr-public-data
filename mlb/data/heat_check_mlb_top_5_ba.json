@@ -1,5 +1,20 @@
 [
     {
+        "name": "Cedric Mullins",
+        "player_id": 656775,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 0,
+        "at_bats": 14,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656775/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.232,
+        "difference_ba": 0.268
+    },
+    {
         "name": "Jake Burger",
         "player_id": 669394,
         "hits": 6,
@@ -15,34 +30,34 @@
         "difference_ba": 0.258
     },
     {
-        "name": "Brenton Doyle",
-        "player_id": 686668,
-        "hits": 9,
-        "singles": 5,
+        "name": "Christopher Morel",
+        "player_id": 666624,
+        "hits": 6,
+        "singles": 4,
         "doubles": 1,
         "triples": 0,
-        "home_runs": 3,
-        "at_bats": 18,
-        "team": "COL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686668/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.247,
-        "difference_ba": 0.253
+        "home_runs": 1,
+        "at_bats": 13,
+        "team": "TBR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666624/headshot/67/current",
+        "ba": 0.462,
+        "season_ba": 0.222,
+        "difference_ba": 0.24
     },
     {
-        "name": "Miguel Rojas",
-        "player_id": 500743,
-        "hits": 7,
-        "singles": 6,
+        "name": "Jared Triolo",
+        "player_id": 669707,
+        "hits": 8,
+        "singles": 4,
         "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 14,
-        "team": "LAD",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/500743/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.257,
-        "difference_ba": 0.243
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 18,
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669707/headshot/67/current",
+        "ba": 0.444,
+        "season_ba": 0.213,
+        "difference_ba": 0.231
     },
     {
         "name": "Gabriel Moreno",
@@ -58,20 +73,5 @@
         "ba": 0.5,
         "season_ba": 0.28,
         "difference_ba": 0.22
-    },
-    {
-        "name": "Cedric Mullins",
-        "player_id": 656775,
-        "hits": 7,
-        "singles": 5,
-        "doubles": 1,
-        "triples": 1,
-        "home_runs": 0,
-        "at_bats": 16,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656775/headshot/67/current",
-        "ba": 0.438,
-        "season_ba": 0.23,
-        "difference_ba": 0.207
     }
 ]

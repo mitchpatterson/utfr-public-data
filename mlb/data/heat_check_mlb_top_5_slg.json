@@ -1,18 +1,18 @@
 [
     {
-        "name": "Brenton Doyle",
-        "player_id": 686668,
-        "hits": 9,
-        "singles": 5,
-        "doubles": 1,
+        "name": "Michael Toglia",
+        "player_id": 669911,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
         "triples": 0,
-        "home_runs": 3,
-        "at_bats": 18,
+        "home_runs": 1,
+        "at_bats": 4,
         "team": "COL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686668/headshot/67/current",
-        "slg": 1.056,
-        "season_slg": 0.403,
-        "difference_slg": 0.653
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669911/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.361,
+        "difference_slg": 0.639
     },
     {
         "name": "Myles Straw",
@@ -30,19 +30,34 @@
         "difference_slg": 0.636
     },
     {
-        "name": "Vinnie Pasquantino",
-        "player_id": 686469,
+        "name": "Jared Triolo",
+        "player_id": 669707,
         "hits": 8,
-        "singles": 2,
+        "singles": 4,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 18,
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669707/headshot/67/current",
+        "slg": 0.944,
+        "season_slg": 0.343,
+        "difference_slg": 0.601
+    },
+    {
+        "name": "Brenton Doyle",
+        "player_id": 686668,
+        "hits": 8,
+        "singles": 3,
         "doubles": 2,
         "triples": 0,
-        "home_runs": 4,
-        "at_bats": 20,
-        "team": "KCR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686469/headshot/67/current",
-        "slg": 1.1,
-        "season_slg": 0.475,
-        "difference_slg": 0.625
+        "home_runs": 3,
+        "at_bats": 19,
+        "team": "COL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686668/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.404,
+        "difference_slg": 0.596
     },
     {
         "name": "Gabriel Moreno",
@@ -58,20 +73,5 @@
         "slg": 1.0,
         "season_slg": 0.44,
         "difference_slg": 0.56
-    },
-    {
-        "name": "Jeff McNeil",
-        "player_id": 643446,
-        "hits": 8,
-        "singles": 3,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 19,
-        "team": "NYM",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643446/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.462,
-        "difference_slg": 0.538
     }
 ]
