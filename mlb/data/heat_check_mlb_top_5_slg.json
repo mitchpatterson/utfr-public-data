@@ -1,5 +1,20 @@
 [
     {
+        "name": "Jared Triolo",
+        "player_id": 669707,
+        "hits": 9,
+        "singles": 5,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 18,
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669707/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.351,
+        "difference_slg": 0.649
+    },
+    {
         "name": "Michael Toglia",
         "player_id": 669911,
         "hits": 1,
@@ -30,21 +45,6 @@
         "difference_slg": 0.636
     },
     {
-        "name": "Jared Triolo",
-        "player_id": 669707,
-        "hits": 8,
-        "singles": 4,
-        "doubles": 1,
-        "triples": 1,
-        "home_runs": 2,
-        "at_bats": 18,
-        "team": "PIT",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669707/headshot/67/current",
-        "slg": 0.944,
-        "season_slg": 0.343,
-        "difference_slg": 0.601
-    },
-    {
         "name": "Brenton Doyle",
         "player_id": 686668,
         "hits": 8,
@@ -60,18 +60,18 @@
         "difference_slg": 0.596
     },
     {
-        "name": "Gabriel Moreno",
-        "player_id": 672515,
-        "hits": 4,
+        "name": "Mark Vientos",
+        "player_id": 668901,
+        "hits": 8,
         "singles": 2,
-        "doubles": 1,
+        "doubles": 3,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 8,
-        "team": "ARI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672515/headshot/67/current",
+        "home_runs": 3,
+        "at_bats": 20,
+        "team": "NYM",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668901/headshot/67/current",
         "slg": 1.0,
-        "season_slg": 0.44,
-        "difference_slg": 0.56
+        "season_slg": 0.42,
+        "difference_slg": 0.58
     }
 ]

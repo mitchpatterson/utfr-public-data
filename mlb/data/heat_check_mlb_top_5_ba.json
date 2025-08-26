@@ -1,5 +1,20 @@
 [
     {
+        "name": "Jared Triolo",
+        "player_id": 669707,
+        "hits": 9,
+        "singles": 5,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 18,
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669707/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.218,
+        "difference_ba": 0.282
+    },
+    {
         "name": "Cedric Mullins",
         "player_id": 656775,
         "hits": 7,
@@ -30,6 +45,21 @@
         "difference_ba": 0.258
     },
     {
+        "name": "Harrison Bader",
+        "player_id": 664056,
+        "hits": 7,
+        "singles": 6,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 14,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664056/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.258,
+        "difference_ba": 0.242
+    },
+    {
         "name": "Christopher Morel",
         "player_id": 666624,
         "hits": 6,
@@ -43,35 +73,5 @@
         "ba": 0.462,
         "season_ba": 0.222,
         "difference_ba": 0.24
-    },
-    {
-        "name": "Jared Triolo",
-        "player_id": 669707,
-        "hits": 8,
-        "singles": 4,
-        "doubles": 1,
-        "triples": 1,
-        "home_runs": 2,
-        "at_bats": 18,
-        "team": "PIT",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669707/headshot/67/current",
-        "ba": 0.444,
-        "season_ba": 0.213,
-        "difference_ba": 0.231
-    },
-    {
-        "name": "Gabriel Moreno",
-        "player_id": 672515,
-        "hits": 4,
-        "singles": 2,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 8,
-        "team": "ARI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672515/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.28,
-        "difference_ba": 0.22
     }
 ]

@@ -30,19 +30,19 @@
         "difference_obp": 0.296
     },
     {
-        "name": "Ke'Bryan Hayes",
-        "player_id": 663647,
-        "hits": 6,
-        "singles": 3,
-        "doubles": 3,
+        "name": "Harrison Bader",
+        "player_id": 664056,
+        "hits": 7,
+        "singles": 6,
+        "doubles": 1,
         "triples": 0,
         "home_runs": 0,
         "at_bats": 14,
         "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663647/headshot/67/current",
-        "obp": 0.579,
-        "season_obp": 0.291,
-        "difference_obp": 0.288
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664056/headshot/67/current",
+        "obp": 0.611,
+        "season_obp": 0.343,
+        "difference_obp": 0.268
     },
     {
         "name": "Myles Straw",
@@ -60,18 +60,18 @@
         "difference_obp": 0.254
     },
     {
-        "name": "Max Muncy",
-        "player_id": 571970,
-        "hits": 4,
-        "singles": 2,
-        "doubles": 0,
+        "name": "Bo Bichette",
+        "player_id": 666182,
+        "hits": 10,
+        "singles": 7,
+        "doubles": 3,
         "triples": 0,
-        "home_runs": 2,
-        "at_bats": 15,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.258,
+        "home_runs": 0,
+        "at_bats": 19,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666182/headshot/67/current",
+        "obp": 0.591,
+        "season_obp": 0.349,
         "difference_obp": 0.242
     }
 ]

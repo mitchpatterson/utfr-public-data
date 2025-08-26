@@ -17,47 +17,32 @@
     {
         "name": "Jared Triolo",
         "player_id": 669707,
-        "hits": 8,
-        "singles": 4,
+        "hits": 9,
+        "singles": 5,
         "doubles": 1,
         "triples": 1,
         "home_runs": 2,
         "at_bats": 18,
         "team": "PIT",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669707/headshot/67/current",
-        "ops": 1.444,
-        "season_ops": 0.651,
-        "difference_ops": 0.793
+        "ops": 1.55,
+        "season_ops": 0.662,
+        "difference_ops": 0.888
     },
     {
-        "name": "Wyatt Langford",
-        "player_id": 694671,
-        "hits": 7,
+        "name": "Mark Vientos",
+        "player_id": 668901,
+        "hits": 8,
         "singles": 2,
         "doubles": 3,
         "triples": 0,
-        "home_runs": 2,
-        "at_bats": 17,
-        "team": "TEX",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/694671/headshot/67/current",
-        "ops": 1.506,
-        "season_ops": 0.775,
-        "difference_ops": 0.731
-    },
-    {
-        "name": "Gabriel Moreno",
-        "player_id": 672515,
-        "hits": 4,
-        "singles": 2,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 8,
-        "team": "ARI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672515/headshot/67/current",
-        "ops": 1.5,
-        "season_ops": 0.771,
-        "difference_ops": 0.729
+        "home_runs": 3,
+        "at_bats": 20,
+        "team": "NYM",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668901/headshot/67/current",
+        "ops": 1.455,
+        "season_ops": 0.709,
+        "difference_ops": 0.746
     },
     {
         "name": "Brenton Doyle",
@@ -73,5 +58,20 @@
         "ops": 1.4,
         "season_ops": 0.695,
         "difference_ops": 0.705
+    },
+    {
+        "name": "Jorge Polanco",
+        "player_id": 593871,
+        "hits": 6,
+        "singles": 3,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 14,
+        "team": "SEA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/593871/headshot/67/current",
+        "ops": 1.429,
+        "season_ops": 0.776,
+        "difference_ops": 0.653
     }
 ]
