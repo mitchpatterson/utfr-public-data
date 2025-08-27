@@ -1,18 +1,18 @@
 [
     {
-        "name": "Jared Triolo",
-        "player_id": 669707,
-        "hits": 9,
-        "singles": 5,
-        "doubles": 1,
+        "name": "Jackson Chourio",
+        "player_id": 694192,
+        "hits": 2,
+        "singles": 1,
+        "doubles": 0,
         "triples": 1,
-        "home_runs": 2,
-        "at_bats": 18,
-        "team": "PIT",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669707/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.351,
-        "difference_slg": 0.649
+        "home_runs": 0,
+        "at_bats": 3,
+        "team": "MIL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/694192/headshot/67/current",
+        "slg": 1.333,
+        "season_slg": 0.474,
+        "difference_slg": 0.859
     },
     {
         "name": "Michael Toglia",
@@ -45,19 +45,19 @@
         "difference_slg": 0.636
     },
     {
-        "name": "Brenton Doyle",
-        "player_id": 686668,
-        "hits": 8,
-        "singles": 3,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 19,
-        "team": "COL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686668/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.404,
-        "difference_slg": 0.596
+        "name": "Jared Triolo",
+        "player_id": 669707,
+        "hits": 10,
+        "singles": 6,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 20,
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669707/headshot/67/current",
+        "slg": 0.95,
+        "season_slg": 0.351,
+        "difference_slg": 0.599
     },
     {
         "name": "Mark Vientos",
