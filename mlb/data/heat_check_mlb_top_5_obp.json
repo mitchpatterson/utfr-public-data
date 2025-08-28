@@ -1,35 +1,5 @@
 [
     {
-        "name": "Jackson Chourio",
-        "player_id": 694192,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 1,
-        "home_runs": 0,
-        "at_bats": 3,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/694192/headshot/67/current",
-        "obp": 0.667,
-        "season_obp": 0.311,
-        "difference_obp": 0.356
-    },
-    {
-        "name": "Harrison Bader",
-        "player_id": 664056,
-        "hits": 8,
-        "singles": 5,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 14,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664056/headshot/67/current",
-        "obp": 0.647,
-        "season_obp": 0.343,
-        "difference_obp": 0.304
-    },
-    {
         "name": "Cedric Mullins",
         "player_id": 656775,
         "hits": 7,
@@ -71,7 +41,37 @@
         "team": "NYM",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/621438/headshot/67/current",
         "obp": 0.545,
-        "season_obp": 0.269,
-        "difference_obp": 0.276
+        "season_obp": 0.275,
+        "difference_obp": 0.27
+    },
+    {
+        "name": "Alejandro Kirk",
+        "player_id": 672386,
+        "hits": 6,
+        "singles": 4,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 13,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672386/headshot/67/current",
+        "obp": 0.611,
+        "season_obp": 0.363,
+        "difference_obp": 0.248
+    },
+    {
+        "name": "Wyatt Langford",
+        "player_id": 694671,
+        "hits": 7,
+        "singles": 4,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 16,
+        "team": "TEX",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/694671/headshot/67/current",
+        "obp": 0.591,
+        "season_obp": 0.346,
+        "difference_obp": 0.245
     }
 ]
