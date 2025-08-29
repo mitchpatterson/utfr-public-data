@@ -1,18 +1,18 @@
 [
     {
-        "name": "Cedric Mullins",
-        "player_id": 656775,
-        "hits": 7,
-        "singles": 5,
+        "name": "Matt Thaiss",
+        "player_id": 642136,
+        "hits": 1,
+        "singles": 0,
         "doubles": 1,
-        "triples": 1,
+        "triples": 0,
         "home_runs": 0,
-        "at_bats": 14,
+        "at_bats": 1,
         "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656775/headshot/67/current",
-        "obp": 0.611,
-        "season_obp": 0.311,
-        "difference_obp": 0.3
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642136/headshot/67/current",
+        "obp": 1.0,
+        "season_obp": 0.349,
+        "difference_obp": 0.651
     },
     {
         "name": "Jake Burger",
@@ -30,6 +30,21 @@
         "difference_obp": 0.296
     },
     {
+        "name": "Jared Triolo",
+        "player_id": 669707,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 14,
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669707/headshot/67/current",
+        "obp": 0.588,
+        "season_obp": 0.316,
+        "difference_obp": 0.272
+    },
+    {
         "name": "Tyrone Taylor",
         "player_id": 621438,
         "hits": 8,
@@ -45,33 +60,18 @@
         "difference_obp": 0.27
     },
     {
-        "name": "Alejandro Kirk",
-        "player_id": 672386,
-        "hits": 6,
-        "singles": 4,
-        "doubles": 1,
+        "name": "Cody Bellinger",
+        "player_id": 641355,
+        "hits": 10,
+        "singles": 6,
+        "doubles": 2,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 13,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672386/headshot/67/current",
-        "obp": 0.611,
-        "season_obp": 0.363,
-        "difference_obp": 0.248
-    },
-    {
-        "name": "Wyatt Langford",
-        "player_id": 694671,
-        "hits": 7,
-        "singles": 4,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 16,
-        "team": "TEX",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/694671/headshot/67/current",
+        "home_runs": 2,
+        "at_bats": 18,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641355/headshot/67/current",
         "obp": 0.591,
-        "season_obp": 0.346,
-        "difference_obp": 0.245
+        "season_obp": 0.331,
+        "difference_obp": 0.26
     }
 ]
