@@ -1,35 +1,5 @@
 [
     {
-        "name": "Matt Thaiss",
-        "player_id": 642136,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 1,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642136/headshot/67/current",
-        "ba": 1.0,
-        "season_ba": 0.218,
-        "difference_ba": 0.782
-    },
-    {
-        "name": "Jared Triolo",
-        "player_id": 669707,
-        "hits": 7,
-        "singles": 5,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 14,
-        "team": "PIT",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669707/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.22,
-        "difference_ba": 0.28
-    },
-    {
         "name": "Cody Bellinger",
         "player_id": 641355,
         "hits": 10,
@@ -37,12 +7,27 @@
         "doubles": 2,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 18,
+        "at_bats": 17,
         "team": "NYY",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641355/headshot/67/current",
-        "ba": 0.556,
-        "season_ba": 0.279,
-        "difference_ba": 0.277
+        "ba": 0.588,
+        "season_ba": 0.281,
+        "difference_ba": 0.307
+    },
+    {
+        "name": "Gavin Sheets",
+        "player_id": 657757,
+        "hits": 9,
+        "singles": 4,
+        "doubles": 4,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 17,
+        "team": "SDP",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/657757/headshot/67/current",
+        "ba": 0.529,
+        "season_ba": 0.265,
+        "difference_ba": 0.264
     },
     {
         "name": "Harrison Bader",
@@ -56,8 +41,8 @@
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664056/headshot/67/current",
         "ba": 0.529,
-        "season_ba": 0.261,
-        "difference_ba": 0.268
+        "season_ba": 0.269,
+        "difference_ba": 0.26
     },
     {
         "name": "Jake Burger",
@@ -72,6 +57,21 @@
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669394/headshot/67/current",
         "ba": 0.5,
         "season_ba": 0.242,
+        "difference_ba": 0.258
+    },
+    {
+        "name": "Tyrone Taylor",
+        "player_id": 621438,
+        "hits": 10,
+        "singles": 6,
+        "doubles": 4,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 21,
+        "team": "NYM",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/621438/headshot/67/current",
+        "ba": 0.476,
+        "season_ba": 0.218,
         "difference_ba": 0.258
     }
 ]
