@@ -15,34 +15,49 @@
         "difference_obp": 0.296
     },
     {
-        "name": "Jake Cronenworth",
-        "player_id": 630105,
-        "hits": 7,
-        "singles": 4,
+        "name": "Jackson Chourio",
+        "player_id": 694192,
+        "hits": 6,
+        "singles": 3,
         "doubles": 2,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 14,
+        "at_bats": 10,
+        "team": "MIL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/694192/headshot/67/current",
+        "obp": 0.6,
+        "season_obp": 0.318,
+        "difference_obp": 0.282
+    },
+    {
+        "name": "Jake Cronenworth",
+        "player_id": 630105,
+        "hits": 6,
+        "singles": 3,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 13,
         "team": "SDP",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/630105/headshot/67/current",
-        "obp": 0.667,
+        "obp": 0.65,
         "season_obp": 0.372,
-        "difference_obp": 0.295
+        "difference_obp": 0.278
     },
     {
         "name": "Gavin Sheets",
         "player_id": 657757,
-        "hits": 9,
-        "singles": 6,
-        "doubles": 2,
+        "hits": 10,
+        "singles": 7,
+        "doubles": 3,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 17,
+        "home_runs": 0,
+        "at_bats": 18,
         "team": "SDP",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/657757/headshot/67/current",
         "obp": 0.6,
-        "season_obp": 0.33,
-        "difference_obp": 0.27
+        "season_obp": 0.331,
+        "difference_obp": 0.269
     },
     {
         "name": "Tyrone Taylor",
@@ -58,20 +73,5 @@
         "obp": 0.542,
         "season_obp": 0.277,
         "difference_obp": 0.265
-    },
-    {
-        "name": "Max Muncy",
-        "player_id": 571970,
-        "hits": 4,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 15,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.258,
-        "difference_obp": 0.242
     }
 ]
