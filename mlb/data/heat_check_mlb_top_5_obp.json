@@ -1,5 +1,35 @@
 [
     {
+        "name": "Juan Soto",
+        "player_id": 665742,
+        "hits": 9,
+        "singles": 3,
+        "doubles": 0,
+        "triples": 1,
+        "home_runs": 5,
+        "at_bats": 16,
+        "team": "NYM",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/665742/headshot/67/current",
+        "obp": 0.696,
+        "season_obp": 0.397,
+        "difference_obp": 0.299
+    },
+    {
+        "name": "Myles Straw",
+        "player_id": 664702,
+        "hits": 5,
+        "singles": 4,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 9,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664702/headshot/67/current",
+        "obp": 0.6,
+        "season_obp": 0.322,
+        "difference_obp": 0.278
+    },
+    {
         "name": "Tyrone Taylor",
         "player_id": 621438,
         "hits": 10,
@@ -15,19 +45,19 @@
         "difference_obp": 0.265
     },
     {
-        "name": "Myles Straw",
-        "player_id": 664702,
+        "name": "Drake Baldwin",
+        "player_id": 686948,
         "hits": 5,
         "singles": 4,
-        "doubles": 1,
+        "doubles": 0,
         "triples": 0,
-        "home_runs": 0,
+        "home_runs": 1,
         "at_bats": 10,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664702/headshot/67/current",
-        "obp": 0.583,
-        "season_obp": 0.322,
-        "difference_obp": 0.261
+        "team": "ATL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686948/headshot/67/current",
+        "obp": 0.615,
+        "season_obp": 0.357,
+        "difference_obp": 0.258
     },
     {
         "name": "Jake Burger",
@@ -43,35 +73,5 @@
         "obp": 0.533,
         "season_obp": 0.277,
         "difference_obp": 0.256
-    },
-    {
-        "name": "Max Muncy",
-        "player_id": 571970,
-        "hits": 4,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 15,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.258,
-        "difference_obp": 0.242
-    },
-    {
-        "name": "Trevor Larnach",
-        "player_id": 663616,
-        "hits": 8,
-        "singles": 8,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 16,
-        "team": "MIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663616/headshot/67/current",
-        "obp": 0.556,
-        "season_obp": 0.325,
-        "difference_obp": 0.231
     }
 ]

@@ -2,17 +2,17 @@
     {
         "name": "Juan Soto",
         "player_id": 665742,
-        "hits": 7,
-        "singles": 2,
+        "hits": 9,
+        "singles": 3,
         "doubles": 0,
         "triples": 1,
-        "home_runs": 4,
+        "home_runs": 5,
         "at_bats": 16,
         "team": "NYM",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/665742/headshot/67/current",
-        "ops": 1.921,
+        "ops": 2.321,
         "season_ops": 0.915,
-        "difference_ops": 1.006
+        "difference_ops": 1.406
     },
     {
         "name": "Ian Happ",
@@ -45,6 +45,21 @@
         "difference_ops": 0.713
     },
     {
+        "name": "Alexander Canario",
+        "player_id": 672744,
+        "hits": 5,
+        "singles": 3,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 12,
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672744/headshot/67/current",
+        "ops": 1.301,
+        "season_ops": 0.607,
+        "difference_ops": 0.694
+    },
+    {
         "name": "Jake Burger",
         "player_id": 669394,
         "hits": 7,
@@ -58,20 +73,5 @@
         "ops": 1.39,
         "season_ops": 0.7,
         "difference_ops": 0.69
-    },
-    {
-        "name": "Luis Torrens",
-        "player_id": 620443,
-        "hits": 7,
-        "singles": 3,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 18,
-        "team": "NYM",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/620443/headshot/67/current",
-        "ops": 1.283,
-        "season_ops": 0.629,
-        "difference_ops": 0.654
     }
 ]

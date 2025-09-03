@@ -2,17 +2,17 @@
     {
         "name": "Juan Soto",
         "player_id": 665742,
-        "hits": 7,
-        "singles": 2,
+        "hits": 9,
+        "singles": 3,
         "doubles": 0,
         "triples": 1,
-        "home_runs": 4,
+        "home_runs": 5,
         "at_bats": 16,
         "team": "NYM",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/665742/headshot/67/current",
-        "slg": 1.312,
+        "slg": 1.625,
         "season_slg": 0.518,
-        "difference_slg": 0.794
+        "difference_slg": 1.107
     },
     {
         "name": "Ian Happ",
@@ -30,6 +30,21 @@
         "difference_slg": 0.638
     },
     {
+        "name": "Alexander Canario",
+        "player_id": 672744,
+        "hits": 5,
+        "singles": 3,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 12,
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672744/headshot/67/current",
+        "slg": 0.917,
+        "season_slg": 0.332,
+        "difference_slg": 0.585
+    },
+    {
         "name": "Willy Adames",
         "player_id": 642715,
         "hits": 9,
@@ -45,33 +60,18 @@
         "difference_slg": 0.573
     },
     {
-        "name": "Dansby Swanson",
-        "player_id": 621020,
-        "hits": 6,
-        "singles": 1,
+        "name": "JJ Bleday",
+        "player_id": 668709,
+        "hits": 3,
+        "singles": 0,
         "doubles": 1,
-        "triples": 1,
-        "home_runs": 3,
-        "at_bats": 19,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/621020/headshot/67/current",
-        "slg": 0.947,
-        "season_slg": 0.424,
-        "difference_slg": 0.523
-    },
-    {
-        "name": "Byron Buxton",
-        "player_id": 621439,
-        "hits": 7,
-        "singles": 1,
-        "doubles": 2,
         "triples": 0,
-        "home_runs": 4,
-        "at_bats": 20,
-        "team": "MIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/621439/headshot/67/current",
-        "slg": 1.05,
-        "season_slg": 0.551,
-        "difference_slg": 0.499
+        "home_runs": 2,
+        "at_bats": 11,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
+        "slg": 0.909,
+        "season_slg": 0.397,
+        "difference_slg": 0.512
     }
 ]
