@@ -2,32 +2,32 @@
     {
         "name": "Juan Soto",
         "player_id": 665742,
-        "hits": 9,
+        "hits": 8,
         "singles": 3,
         "doubles": 0,
         "triples": 1,
-        "home_runs": 5,
-        "at_bats": 16,
+        "home_runs": 4,
+        "at_bats": 17,
         "team": "NYM",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/665742/headshot/67/current",
-        "slg": 1.625,
-        "season_slg": 0.518,
-        "difference_slg": 1.107
+        "slg": 1.294,
+        "season_slg": 0.521,
+        "difference_slg": 0.773
     },
     {
-        "name": "Ian Happ",
-        "player_id": 664023,
-        "hits": 10,
-        "singles": 4,
+        "name": "Austin Wells",
+        "player_id": 669224,
+        "hits": 8,
+        "singles": 2,
         "doubles": 3,
         "triples": 0,
         "home_runs": 3,
-        "at_bats": 21,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664023/headshot/67/current",
-        "slg": 1.048,
-        "season_slg": 0.41,
-        "difference_slg": 0.638
+        "at_bats": 19,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669224/headshot/67/current",
+        "slg": 1.053,
+        "season_slg": 0.447,
+        "difference_slg": 0.606
     },
     {
         "name": "Alexander Canario",
@@ -41,23 +41,23 @@
         "team": "PIT",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672744/headshot/67/current",
         "slg": 0.917,
-        "season_slg": 0.332,
-        "difference_slg": 0.585
+        "season_slg": 0.33,
+        "difference_slg": 0.587
     },
     {
-        "name": "Willy Adames",
-        "player_id": 642715,
-        "hits": 9,
-        "singles": 5,
-        "doubles": 0,
+        "name": "Matt McLain",
+        "player_id": 680574,
+        "hits": 7,
+        "singles": 3,
+        "doubles": 2,
         "triples": 0,
-        "home_runs": 4,
-        "at_bats": 21,
-        "team": "SFG",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642715/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.427,
-        "difference_slg": 0.573
+        "home_runs": 2,
+        "at_bats": 17,
+        "team": "CIN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680574/headshot/67/current",
+        "slg": 0.882,
+        "season_slg": 0.35,
+        "difference_slg": 0.532
     },
     {
         "name": "JJ Bleday",
@@ -71,7 +71,7 @@
         "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
         "slg": 0.909,
-        "season_slg": 0.397,
-        "difference_slg": 0.512
+        "season_slg": 0.4,
+        "difference_slg": 0.509
     }
 ]
