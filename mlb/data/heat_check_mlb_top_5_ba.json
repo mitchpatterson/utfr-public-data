@@ -30,21 +30,6 @@
         "difference_ba": 0.286
     },
     {
-        "name": "Trevor Larnach",
-        "player_id": 663616,
-        "hits": 10,
-        "singles": 9,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 19,
-        "team": "MIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663616/headshot/67/current",
-        "ba": 0.526,
-        "season_ba": 0.254,
-        "difference_ba": 0.272
-    },
-    {
         "name": "Tyrone Taylor",
         "player_id": 621438,
         "hits": 10,
@@ -60,18 +45,33 @@
         "difference_ba": 0.258
     },
     {
-        "name": "Brandon Marsh",
-        "player_id": 669016,
+        "name": "Trevor Larnach",
+        "player_id": 663616,
         "hits": 10,
         "singles": 9,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 20,
+        "team": "MIN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663616/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.258,
+        "difference_ba": 0.242
+    },
+    {
+        "name": "Josh Rojas",
+        "player_id": 668942,
+        "hits": 2,
+        "singles": 2,
         "doubles": 0,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 19,
-        "team": "PHI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669016/headshot/67/current",
-        "ba": 0.526,
-        "season_ba": 0.275,
-        "difference_ba": 0.251
+        "home_runs": 0,
+        "at_bats": 5,
+        "team": "CHW",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668942/headshot/67/current",
+        "ba": 0.4,
+        "season_ba": 0.18,
+        "difference_ba": 0.22
     }
 ]

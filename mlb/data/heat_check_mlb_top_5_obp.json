@@ -15,6 +15,21 @@
         "difference_obp": 0.281
     },
     {
+        "name": "Bryan Reynolds",
+        "player_id": 668804,
+        "hits": 4,
+        "singles": 3,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 12,
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668804/headshot/67/current",
+        "obp": 0.579,
+        "season_obp": 0.313,
+        "difference_obp": 0.266
+    },
+    {
         "name": "Tyrone Taylor",
         "player_id": 621438,
         "hits": 10,
@@ -43,21 +58,6 @@
         "obp": 0.5,
         "season_obp": 0.258,
         "difference_obp": 0.242
-    },
-    {
-        "name": "Andrew McCutchen",
-        "player_id": 457705,
-        "hits": 7,
-        "singles": 4,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 16,
-        "team": "PIT",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/457705/headshot/67/current",
-        "obp": 0.571,
-        "season_obp": 0.342,
-        "difference_obp": 0.229
     },
     {
         "name": "Juan Soto",
