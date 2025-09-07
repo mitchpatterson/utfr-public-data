@@ -1,5 +1,20 @@
 [
     {
+        "name": "Josh Rojas",
+        "player_id": 668942,
+        "hits": 2,
+        "singles": 2,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 4,
+        "team": "CHW",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668942/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.18,
+        "difference_ba": 0.32
+    },
+    {
         "name": "Ty France",
         "player_id": 664034,
         "hits": 8,
@@ -13,6 +28,21 @@
         "ba": 0.571,
         "season_ba": 0.266,
         "difference_ba": 0.305
+    },
+    {
+        "name": "JJ Bleday",
+        "player_id": 668709,
+        "hits": 7,
+        "singles": 2,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 4,
+        "at_bats": 14,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.212,
+        "difference_ba": 0.288
     },
     {
         "name": "Myles Straw",
@@ -43,35 +73,5 @@
         "ba": 0.476,
         "season_ba": 0.218,
         "difference_ba": 0.258
-    },
-    {
-        "name": "Trevor Larnach",
-        "player_id": 663616,
-        "hits": 10,
-        "singles": 9,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 20,
-        "team": "MIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663616/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.258,
-        "difference_ba": 0.242
-    },
-    {
-        "name": "Josh Rojas",
-        "player_id": 668942,
-        "hits": 2,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 5,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668942/headshot/67/current",
-        "ba": 0.4,
-        "season_ba": 0.18,
-        "difference_ba": 0.22
     }
 ]

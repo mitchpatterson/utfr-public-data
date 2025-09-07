@@ -15,19 +15,19 @@
         "difference_obp": 0.281
     },
     {
-        "name": "Bryan Reynolds",
-        "player_id": 668804,
-        "hits": 4,
-        "singles": 3,
-        "doubles": 0,
+        "name": "Matt McLain",
+        "player_id": 680574,
+        "hits": 7,
+        "singles": 4,
+        "doubles": 2,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 12,
-        "team": "PIT",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668804/headshot/67/current",
+        "at_bats": 15,
+        "team": "CIN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680574/headshot/67/current",
         "obp": 0.579,
-        "season_obp": 0.313,
-        "difference_obp": 0.266
+        "season_obp": 0.308,
+        "difference_obp": 0.271
     },
     {
         "name": "Tyrone Taylor",
@@ -45,6 +45,21 @@
         "difference_obp": 0.265
     },
     {
+        "name": "Josh Rojas",
+        "player_id": 668942,
+        "hits": 2,
+        "singles": 2,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 4,
+        "team": "CHW",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668942/headshot/67/current",
+        "obp": 0.5,
+        "season_obp": 0.252,
+        "difference_obp": 0.248
+    },
+    {
         "name": "Max Muncy",
         "player_id": 571970,
         "hits": 4,
@@ -52,26 +67,11 @@
         "doubles": 0,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 15,
+        "at_bats": 13,
         "team": "ATH",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
         "obp": 0.5,
         "season_obp": 0.258,
         "difference_obp": 0.242
-    },
-    {
-        "name": "Juan Soto",
-        "player_id": 665742,
-        "hits": 8,
-        "singles": 3,
-        "doubles": 0,
-        "triples": 1,
-        "home_runs": 4,
-        "at_bats": 17,
-        "team": "NYM",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/665742/headshot/67/current",
-        "obp": 0.625,
-        "season_obp": 0.399,
-        "difference_obp": 0.226
     }
 ]
