@@ -1,20 +1,5 @@
 [
     {
-        "name": "Josh Rojas",
-        "player_id": 668942,
-        "hits": 2,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 4,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668942/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.18,
-        "difference_ba": 0.32
-    },
-    {
         "name": "Ty France",
         "player_id": 664034,
         "hits": 7,
@@ -28,6 +13,21 @@
         "ba": 0.538,
         "season_ba": 0.264,
         "difference_ba": 0.274
+    },
+    {
+        "name": "Matt Chapman",
+        "player_id": 656305,
+        "hits": 9,
+        "singles": 4,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 3,
+        "at_bats": 18,
+        "team": "SFG",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656305/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.241,
+        "difference_ba": 0.259
     },
     {
         "name": "Tyrone Taylor",
@@ -47,17 +47,17 @@
     {
         "name": "Andrew Vaughn",
         "player_id": 683734,
-        "hits": 9,
-        "singles": 6,
+        "hits": 10,
+        "singles": 7,
         "doubles": 3,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 18,
+        "at_bats": 20,
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683734/headshot/67/current",
         "ba": 0.5,
-        "season_ba": 0.248,
-        "difference_ba": 0.252
+        "season_ba": 0.249,
+        "difference_ba": 0.251
     },
     {
         "name": "JJ Bleday",

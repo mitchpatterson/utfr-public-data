@@ -15,21 +15,6 @@
         "difference_obp": 0.265
     },
     {
-        "name": "Josh Rojas",
-        "player_id": 668942,
-        "hits": 2,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 4,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668942/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.252,
-        "difference_obp": 0.248
-    },
-    {
         "name": "Brandon Marsh",
         "player_id": 669016,
         "hits": 10,
@@ -45,21 +30,6 @@
         "difference_obp": 0.246
     },
     {
-        "name": "Andrew Vaughn",
-        "player_id": 683734,
-        "hits": 9,
-        "singles": 6,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 18,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683734/headshot/67/current",
-        "obp": 0.526,
-        "season_obp": 0.296,
-        "difference_obp": 0.23
-    },
-    {
         "name": "Chase Meidroth",
         "player_id": 805367,
         "hits": 9,
@@ -73,5 +43,35 @@
         "obp": 0.571,
         "season_obp": 0.343,
         "difference_obp": 0.228
+    },
+    {
+        "name": "Andrew Vaughn",
+        "player_id": 683734,
+        "hits": 10,
+        "singles": 7,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 20,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683734/headshot/67/current",
+        "obp": 0.524,
+        "season_obp": 0.297,
+        "difference_obp": 0.227
+    },
+    {
+        "name": "Jordan Westburg",
+        "player_id": 676059,
+        "hits": 8,
+        "singles": 7,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 17,
+        "team": "BAL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676059/headshot/67/current",
+        "obp": 0.55,
+        "season_obp": 0.326,
+        "difference_obp": 0.224
     }
 ]
