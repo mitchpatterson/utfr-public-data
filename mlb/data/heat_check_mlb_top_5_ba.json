@@ -1,33 +1,33 @@
 [
     {
-        "name": "Ty France",
-        "player_id": 664034,
-        "hits": 7,
-        "singles": 5,
+        "name": "Chase Meidroth",
+        "player_id": 805367,
+        "hits": 10,
+        "singles": 9,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 18,
+        "team": "CHW",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/805367/headshot/67/current",
+        "ba": 0.556,
+        "season_ba": 0.265,
+        "difference_ba": 0.291
+    },
+    {
+        "name": "Will Benson",
+        "player_id": 666181,
+        "hits": 3,
+        "singles": 1,
         "doubles": 1,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 13,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664034/headshot/67/current",
-        "ba": 0.538,
-        "season_ba": 0.264,
-        "difference_ba": 0.274
-    },
-    {
-        "name": "Matt Chapman",
-        "player_id": 656305,
-        "hits": 9,
-        "singles": 4,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 18,
-        "team": "SFG",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656305/headshot/67/current",
+        "at_bats": 6,
+        "team": "CIN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666181/headshot/67/current",
         "ba": 0.5,
-        "season_ba": 0.241,
-        "difference_ba": 0.259
+        "season_ba": 0.223,
+        "difference_ba": 0.277
     },
     {
         "name": "Tyrone Taylor",
@@ -45,21 +45,6 @@
         "difference_ba": 0.258
     },
     {
-        "name": "Andrew Vaughn",
-        "player_id": 683734,
-        "hits": 10,
-        "singles": 7,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 20,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683734/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.249,
-        "difference_ba": 0.251
-    },
-    {
         "name": "JJ Bleday",
         "player_id": 668709,
         "hits": 7,
@@ -73,5 +58,20 @@
         "ba": 0.467,
         "season_ba": 0.22,
         "difference_ba": 0.247
+    },
+    {
+        "name": "Brandon Marsh",
+        "player_id": 669016,
+        "hits": 10,
+        "singles": 6,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 19,
+        "team": "PHI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669016/headshot/67/current",
+        "ba": 0.526,
+        "season_ba": 0.282,
+        "difference_ba": 0.244
     }
 ]
