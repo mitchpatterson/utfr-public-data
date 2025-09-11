@@ -1,18 +1,18 @@
 [
     {
-        "name": "Chase Meidroth",
-        "player_id": 805367,
-        "hits": 10,
-        "singles": 9,
-        "doubles": 1,
+        "name": "Brayan Rocchio",
+        "player_id": 677587,
+        "hits": 6,
+        "singles": 4,
+        "doubles": 2,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 18,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/805367/headshot/67/current",
-        "obp": 0.619,
-        "season_obp": 0.343,
-        "difference_obp": 0.276
+        "at_bats": 12,
+        "team": "CLE",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/677587/headshot/67/current",
+        "obp": 0.647,
+        "season_obp": 0.294,
+        "difference_obp": 0.353
     },
     {
         "name": "Tyrone Taylor",
@@ -30,34 +30,19 @@
         "difference_obp": 0.265
     },
     {
-        "name": "Brandon Marsh",
-        "player_id": 669016,
-        "hits": 10,
-        "singles": 6,
-        "doubles": 3,
+        "name": "Kyle Manzardo",
+        "player_id": 700932,
+        "hits": 6,
+        "singles": 3,
+        "doubles": 1,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 19,
-        "team": "PHI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669016/headshot/67/current",
-        "obp": 0.591,
-        "season_obp": 0.345,
-        "difference_obp": 0.246
-    },
-    {
-        "name": "Brayan Rocchio",
-        "player_id": 677587,
-        "hits": 4,
-        "singles": 2,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 12,
+        "home_runs": 2,
+        "at_bats": 15,
         "team": "CLE",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/677587/headshot/67/current",
-        "obp": 0.529,
-        "season_obp": 0.294,
-        "difference_obp": 0.235
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/700932/headshot/67/current",
+        "obp": 0.571,
+        "season_obp": 0.323,
+        "difference_obp": 0.248
     },
     {
         "name": "Will Benson",
@@ -71,7 +56,22 @@
         "team": "CIN",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666181/headshot/67/current",
         "obp": 0.5,
-        "season_obp": 0.272,
-        "difference_obp": 0.228
+        "season_obp": 0.274,
+        "difference_obp": 0.226
+    },
+    {
+        "name": "Jordan Westburg",
+        "player_id": 676059,
+        "hits": 8,
+        "singles": 7,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 17,
+        "team": "BAL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676059/headshot/67/current",
+        "obp": 0.55,
+        "season_obp": 0.326,
+        "difference_obp": 0.224
     }
 ]

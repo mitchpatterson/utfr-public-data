@@ -1,20 +1,5 @@
 [
     {
-        "name": "Chase Meidroth",
-        "player_id": 805367,
-        "hits": 10,
-        "singles": 9,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 18,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/805367/headshot/67/current",
-        "ba": 0.556,
-        "season_ba": 0.265,
-        "difference_ba": 0.291
-    },
-    {
         "name": "Will Benson",
         "player_id": 666181,
         "hits": 3,
@@ -26,8 +11,38 @@
         "team": "CIN",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666181/headshot/67/current",
         "ba": 0.5,
-        "season_ba": 0.223,
-        "difference_ba": 0.277
+        "season_ba": 0.226,
+        "difference_ba": 0.274
+    },
+    {
+        "name": "Brayan Rocchio",
+        "player_id": 677587,
+        "hits": 6,
+        "singles": 4,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 12,
+        "team": "CLE",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/677587/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.237,
+        "difference_ba": 0.263
+    },
+    {
+        "name": "Rhys Hoskins",
+        "player_id": 656555,
+        "hits": 1,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 2,
+        "team": "MIL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656555/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.241,
+        "difference_ba": 0.259
     },
     {
         "name": "Tyrone Taylor",
@@ -45,33 +60,18 @@
         "difference_ba": 0.258
     },
     {
-        "name": "JJ Bleday",
-        "player_id": 668709,
-        "hits": 7,
-        "singles": 2,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 4,
-        "at_bats": 15,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668709/headshot/67/current",
-        "ba": 0.467,
-        "season_ba": 0.22,
-        "difference_ba": 0.247
-    },
-    {
-        "name": "Brandon Marsh",
-        "player_id": 669016,
-        "hits": 10,
-        "singles": 6,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 19,
-        "team": "PHI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669016/headshot/67/current",
-        "ba": 0.526,
-        "season_ba": 0.282,
-        "difference_ba": 0.244
+        "name": "Mookie Betts",
+        "player_id": 605141,
+        "hits": 11,
+        "singles": 5,
+        "doubles": 2,
+        "triples": 1,
+        "home_runs": 3,
+        "at_bats": 23,
+        "team": "LAD",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/605141/headshot/67/current",
+        "ba": 0.478,
+        "season_ba": 0.255,
+        "difference_ba": 0.223
     }
 ]
