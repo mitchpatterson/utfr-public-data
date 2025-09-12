@@ -26,8 +26,8 @@
         "team": "LAD",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/605141/headshot/67/current",
         "ops": 1.522,
-        "season_ops": 0.721,
-        "difference_ops": 0.801
+        "season_ops": 0.736,
+        "difference_ops": 0.786
     },
     {
         "name": "Bo Bichette",
@@ -45,33 +45,33 @@
         "difference_ops": 0.702
     },
     {
-        "name": "Brayan Rocchio",
-        "player_id": 677587,
-        "hits": 6,
-        "singles": 4,
-        "doubles": 2,
+        "name": "Tyrone Taylor",
+        "player_id": 621438,
+        "hits": 10,
+        "singles": 6,
+        "doubles": 4,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 12,
-        "team": "CLE",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/677587/headshot/67/current",
-        "ops": 1.314,
-        "season_ops": 0.636,
-        "difference_ops": 0.678
+        "at_bats": 21,
+        "team": "NYM",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/621438/headshot/67/current",
+        "ops": 1.208,
+        "season_ops": 0.592,
+        "difference_ops": 0.616
     },
     {
-        "name": "Kyle Manzardo",
-        "player_id": 700932,
-        "hits": 6,
-        "singles": 3,
-        "doubles": 1,
+        "name": "Brandon Marsh",
+        "player_id": 669016,
+        "hits": 9,
+        "singles": 4,
+        "doubles": 4,
         "triples": 0,
-        "home_runs": 2,
-        "at_bats": 15,
-        "team": "CLE",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/700932/headshot/67/current",
-        "ops": 1.438,
-        "season_ops": 0.794,
-        "difference_ops": 0.644
+        "home_runs": 1,
+        "at_bats": 19,
+        "team": "PHI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669016/headshot/67/current",
+        "ops": 1.388,
+        "season_ops": 0.787,
+        "difference_ops": 0.601
     }
 ]
