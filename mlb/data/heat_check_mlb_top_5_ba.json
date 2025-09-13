@@ -1,18 +1,18 @@
 [
     {
-        "name": "Will Benson",
-        "player_id": 666181,
-        "hits": 3,
-        "singles": 1,
-        "doubles": 1,
+        "name": "Kyle Stowers",
+        "player_id": 669065,
+        "hits": 2,
+        "singles": 0,
+        "doubles": 2,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 6,
-        "team": "CIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666181/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.226,
-        "difference_ba": 0.274
+        "home_runs": 0,
+        "at_bats": 3,
+        "team": "MIA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669065/headshot/67/current",
+        "ba": 0.667,
+        "season_ba": 0.288,
+        "difference_ba": 0.379
     },
     {
         "name": "Tyrone Taylor",
@@ -45,33 +45,33 @@
         "difference_ba": 0.256
     },
     {
-        "name": "Chase Meidroth",
-        "player_id": 805367,
-        "hits": 8,
-        "singles": 8,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 16,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/805367/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.265,
-        "difference_ba": 0.235
-    },
-    {
         "name": "Eric Wagaman",
         "player_id": 676572,
-        "hits": 6,
-        "singles": 4,
+        "hits": 7,
+        "singles": 5,
         "doubles": 2,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 13,
+        "at_bats": 14,
         "team": "MIA",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676572/headshot/67/current",
-        "ba": 0.462,
-        "season_ba": 0.239,
-        "difference_ba": 0.223
+        "ba": 0.5,
+        "season_ba": 0.244,
+        "difference_ba": 0.256
+    },
+    {
+        "name": "Harrison Bader",
+        "player_id": 664056,
+        "hits": 12,
+        "singles": 8,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 24,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664056/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.282,
+        "difference_ba": 0.218
     }
 ]
