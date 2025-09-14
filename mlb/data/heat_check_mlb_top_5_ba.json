@@ -1,20 +1,5 @@
 [
     {
-        "name": "Kyle Stowers",
-        "player_id": 669065,
-        "hits": 2,
-        "singles": 0,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 3,
-        "team": "MIA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669065/headshot/67/current",
-        "ba": 0.667,
-        "season_ba": 0.288,
-        "difference_ba": 0.379
-    },
-    {
         "name": "Tyrone Taylor",
         "player_id": 621438,
         "hits": 10,
@@ -30,21 +15,6 @@
         "difference_ba": 0.258
     },
     {
-        "name": "Rhys Hoskins",
-        "player_id": 656555,
-        "hits": 1,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 2,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656555/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.244,
-        "difference_ba": 0.256
-    },
-    {
         "name": "Eric Wagaman",
         "player_id": 676572,
         "hits": 7,
@@ -56,22 +26,52 @@
         "team": "MIA",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676572/headshot/67/current",
         "ba": 0.5,
-        "season_ba": 0.244,
-        "difference_ba": 0.256
+        "season_ba": 0.246,
+        "difference_ba": 0.254
     },
     {
-        "name": "Harrison Bader",
-        "player_id": 664056,
-        "hits": 12,
-        "singles": 8,
-        "doubles": 3,
+        "name": "Nick Fortes",
+        "player_id": 663743,
+        "hits": 4,
+        "singles": 2,
+        "doubles": 1,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 24,
+        "at_bats": 9,
         "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664056/headshot/67/current",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663743/headshot/67/current",
+        "ba": 0.444,
+        "season_ba": 0.225,
+        "difference_ba": 0.219
+    },
+    {
+        "name": "Gabriel Moreno",
+        "player_id": 672515,
+        "hits": 10,
+        "singles": 7,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 20,
+        "team": "ARI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672515/headshot/67/current",
         "ba": 0.5,
-        "season_ba": 0.282,
-        "difference_ba": 0.218
+        "season_ba": 0.292,
+        "difference_ba": 0.208
+    },
+    {
+        "name": "Addison Barger",
+        "player_id": 680718,
+        "hits": 4,
+        "singles": 1,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 9,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680718/headshot/67/current",
+        "ba": 0.444,
+        "season_ba": 0.251,
+        "difference_ba": 0.193
     }
 ]
