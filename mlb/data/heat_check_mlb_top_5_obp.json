@@ -1,33 +1,18 @@
 [
     {
-        "name": "Wilyer Abreu",
-        "player_id": 677800,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 3,
-        "team": "BOS",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/677800/headshot/67/current",
+        "name": "Geraldo Perdomo",
+        "player_id": 672695,
+        "hits": 9,
+        "singles": 5,
+        "doubles": 1,
+        "triples": 1,
+        "home_runs": 2,
+        "at_bats": 17,
+        "team": "ARI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672695/headshot/67/current",
         "obp": 0.667,
-        "season_obp": 0.325,
-        "difference_obp": 0.342
-    },
-    {
-        "name": "Jordan Westburg",
-        "player_id": 676059,
-        "hits": 4,
-        "singles": 3,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 6,
-        "team": "BAL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676059/headshot/67/current",
-        "obp": 0.667,
-        "season_obp": 0.326,
-        "difference_obp": 0.341
+        "season_obp": 0.387,
+        "difference_obp": 0.28
     },
     {
         "name": "Tyrone Taylor",
@@ -45,6 +30,21 @@
         "difference_obp": 0.265
     },
     {
+        "name": "Aaron Judge",
+        "player_id": 592450,
+        "hits": 8,
+        "singles": 4,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 4,
+        "at_bats": 15,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
+        "obp": 0.682,
+        "season_obp": 0.447,
+        "difference_obp": 0.235
+    },
+    {
         "name": "Caleb Durbin",
         "player_id": 702332,
         "hits": 8,
@@ -60,18 +60,18 @@
         "difference_obp": 0.234
     },
     {
-        "name": "Mookie Betts",
-        "player_id": 605141,
-        "hits": 11,
-        "singles": 6,
-        "doubles": 3,
+        "name": "Daylen Lile",
+        "player_id": 695734,
+        "hits": 6,
+        "singles": 4,
+        "doubles": 1,
         "triples": 0,
-        "home_runs": 2,
-        "at_bats": 22,
-        "team": "LAD",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/605141/headshot/67/current",
-        "obp": 0.56,
-        "season_obp": 0.332,
-        "difference_obp": 0.228
+        "home_runs": 1,
+        "at_bats": 15,
+        "team": "WSN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/695734/headshot/67/current",
+        "obp": 0.55,
+        "season_obp": 0.339,
+        "difference_obp": 0.211
     }
 ]
