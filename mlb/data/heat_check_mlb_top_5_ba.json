@@ -15,6 +15,21 @@
         "difference_ba": 0.305
     },
     {
+        "name": "Marcus Semien",
+        "player_id": 543760,
+        "hits": 3,
+        "singles": 3,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 6,
+        "team": "TEX",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543760/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.23,
+        "difference_ba": 0.27
+    },
+    {
         "name": "Dominic Canzone",
         "player_id": 686527,
         "hits": 8,
@@ -26,8 +41,8 @@
         "team": "SEA",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686527/headshot/67/current",
         "ba": 0.571,
-        "season_ba": 0.304,
-        "difference_ba": 0.267
+        "season_ba": 0.302,
+        "difference_ba": 0.269
     },
     {
         "name": "Tyrone Taylor",
@@ -45,33 +60,18 @@
         "difference_ba": 0.258
     },
     {
-        "name": "Caleb Durbin",
-        "player_id": 702332,
-        "hits": 9,
+        "name": "Aaron Judge",
+        "player_id": 592450,
+        "hits": 8,
         "singles": 6,
-        "doubles": 2,
+        "doubles": 1,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 18,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.264,
-        "difference_ba": 0.236
-    },
-    {
-        "name": "Bo Naylor",
-        "player_id": 666310,
-        "hits": 7,
-        "singles": 3,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 17,
-        "team": "CLE",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666310/headshot/67/current",
-        "ba": 0.412,
-        "season_ba": 0.187,
-        "difference_ba": 0.225
+        "at_bats": 14,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
+        "ba": 0.571,
+        "season_ba": 0.329,
+        "difference_ba": 0.242
     }
 ]
