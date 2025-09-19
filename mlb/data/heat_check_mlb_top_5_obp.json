@@ -1,18 +1,33 @@
 [
     {
+        "name": "Evan Carter",
+        "player_id": 694497,
+        "hits": 1,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 2,
+        "team": "TEX",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/694497/headshot/67/current",
+        "obp": 0.75,
+        "season_obp": 0.336,
+        "difference_obp": 0.414
+    },
+    {
         "name": "Coby Mayo",
         "player_id": 691723,
-        "hits": 7,
+        "hits": 6,
         "singles": 4,
         "doubles": 1,
         "triples": 0,
-        "home_runs": 2,
-        "at_bats": 16,
+        "home_runs": 1,
+        "at_bats": 15,
         "team": "BAL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691723/headshot/67/current",
-        "obp": 0.571,
-        "season_obp": 0.284,
-        "difference_obp": 0.287
+        "obp": 0.55,
+        "season_obp": 0.285,
+        "difference_obp": 0.265
     },
     {
         "name": "Tyrone Taylor",
@@ -30,36 +45,6 @@
         "difference_obp": 0.265
     },
     {
-        "name": "Eric Wagaman",
-        "player_id": 676572,
-        "hits": 10,
-        "singles": 8,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 18,
-        "team": "MIA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676572/headshot/67/current",
-        "obp": 0.556,
-        "season_obp": 0.299,
-        "difference_obp": 0.257
-    },
-    {
-        "name": "Aaron Judge",
-        "player_id": 592450,
-        "hits": 8,
-        "singles": 6,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 14,
-        "team": "NYY",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
-        "obp": 0.696,
-        "season_obp": 0.453,
-        "difference_obp": 0.243
-    },
-    {
         "name": "Dylan Moore",
         "player_id": 664238,
         "hits": 2,
@@ -73,5 +58,20 @@
         "obp": 0.5,
         "season_obp": 0.268,
         "difference_obp": 0.232
+    },
+    {
+        "name": "Caleb Durbin",
+        "player_id": 702332,
+        "hits": 8,
+        "singles": 5,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 17,
+        "team": "MIL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
+        "obp": 0.571,
+        "season_obp": 0.341,
+        "difference_obp": 0.23
     }
 ]
