@@ -30,6 +30,21 @@
         "difference_slg": 0.64
     },
     {
+        "name": "Corey Seager",
+        "player_id": 608369,
+        "hits": 3,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 8,
+        "team": "TEX",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/608369/headshot/67/current",
+        "slg": 1.125,
+        "season_slg": 0.487,
+        "difference_slg": 0.638
+    },
+    {
         "name": "Bo Bichette",
         "player_id": 666182,
         "hits": 9,
@@ -58,20 +73,5 @@
         "slg": 0.818,
         "season_slg": 0.315,
         "difference_slg": 0.503
-    },
-    {
-        "name": "Taylor Ward",
-        "player_id": 621493,
-        "hits": 8,
-        "singles": 5,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 19,
-        "team": "LAA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/621493/headshot/67/current",
-        "slg": 0.895,
-        "season_slg": 0.47,
-        "difference_slg": 0.425
     }
 ]

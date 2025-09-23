@@ -15,6 +15,21 @@
         "difference_obp": 0.366
     },
     {
+        "name": "Alec Burleson",
+        "player_id": 676475,
+        "hits": 10,
+        "singles": 7,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 19,
+        "team": "STL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676475/headshot/67/current",
+        "obp": 0.591,
+        "season_obp": 0.345,
+        "difference_obp": 0.246
+    },
+    {
         "name": "Joey Bart",
         "player_id": 663698,
         "hits": 6,
@@ -28,21 +43,6 @@
         "obp": 0.588,
         "season_obp": 0.358,
         "difference_obp": 0.23
-    },
-    {
-        "name": "Alec Burleson",
-        "player_id": 676475,
-        "hits": 9,
-        "singles": 6,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 18,
-        "team": "STL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676475/headshot/67/current",
-        "obp": 0.571,
-        "season_obp": 0.343,
-        "difference_obp": 0.228
     },
     {
         "name": "Austin Wells",

@@ -17,17 +17,17 @@
     {
         "name": "Alec Burleson",
         "player_id": 676475,
-        "hits": 9,
-        "singles": 6,
+        "hits": 10,
+        "singles": 7,
         "doubles": 2,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 18,
+        "at_bats": 19,
         "team": "STL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676475/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.289,
-        "difference_ba": 0.211
+        "ba": 0.526,
+        "season_ba": 0.293,
+        "difference_ba": 0.233
     },
     {
         "name": "Joey Bart",
@@ -45,21 +45,6 @@
         "difference_ba": 0.211
     },
     {
-        "name": "Josh Naylor",
-        "player_id": 647304,
-        "hits": 9,
-        "singles": 7,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 18,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.291,
-        "difference_ba": 0.209
-    },
-    {
         "name": "Michael Conforto",
         "player_id": 624424,
         "hits": 7,
@@ -72,6 +57,21 @@
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624424/headshot/67/current",
         "ba": 0.412,
         "season_ba": 0.203,
+        "difference_ba": 0.209
+    },
+    {
+        "name": "Josh Naylor",
+        "player_id": 647304,
+        "hits": 9,
+        "singles": 7,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 18,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.291,
         "difference_ba": 0.209
     }
 ]
