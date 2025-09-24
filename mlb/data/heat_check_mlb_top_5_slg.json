@@ -1,5 +1,20 @@
 [
     {
+        "name": "Corey Seager",
+        "player_id": 608369,
+        "hits": 3,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 4,
+        "team": "TEX",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/608369/headshot/67/current",
+        "slg": 2.25,
+        "season_slg": 0.487,
+        "difference_slg": 1.763
+    },
+    {
         "name": "Joey Bart",
         "player_id": 663698,
         "hits": 6,
@@ -15,34 +30,19 @@
         "difference_slg": 0.655
     },
     {
-        "name": "Spencer Steer",
-        "player_id": 668715,
-        "hits": 6,
+        "name": "Pavin Smith",
+        "player_id": 656976,
+        "hits": 4,
         "singles": 2,
-        "doubles": 0,
+        "doubles": 2,
         "triples": 0,
-        "home_runs": 4,
-        "at_bats": 17,
-        "team": "CIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668715/headshot/67/current",
-        "slg": 1.059,
-        "season_slg": 0.419,
-        "difference_slg": 0.64
-    },
-    {
-        "name": "Corey Seager",
-        "player_id": 608369,
-        "hits": 3,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 8,
-        "team": "TEX",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/608369/headshot/67/current",
-        "slg": 1.125,
-        "season_slg": 0.487,
-        "difference_slg": 0.638
+        "home_runs": 0,
+        "at_bats": 6,
+        "team": "ARI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656976/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.434,
+        "difference_slg": 0.566
     },
     {
         "name": "Bo Bichette",
@@ -60,18 +60,18 @@
         "difference_slg": 0.517
     },
     {
-        "name": "Tyrone Taylor",
-        "player_id": 621438,
+        "name": "Jose Iglesias",
+        "player_id": 578428,
         "hits": 6,
-        "singles": 3,
-        "doubles": 3,
+        "singles": 4,
+        "doubles": 0,
         "triples": 0,
-        "home_runs": 0,
-        "at_bats": 11,
-        "team": "NYM",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/621438/headshot/67/current",
-        "slg": 0.818,
-        "season_slg": 0.315,
-        "difference_slg": 0.503
+        "home_runs": 2,
+        "at_bats": 16,
+        "team": "SDP",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/578428/headshot/67/current",
+        "slg": 0.75,
+        "season_slg": 0.295,
+        "difference_slg": 0.455
     }
 ]
