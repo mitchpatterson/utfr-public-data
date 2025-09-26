@@ -1,20 +1,5 @@
 [
     {
-        "name": "Corey Seager",
-        "player_id": 608369,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 2,
-        "team": "TEX",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/608369/headshot/67/current",
-        "slg": 2.5,
-        "season_slg": 0.487,
-        "difference_slg": 2.013
-    },
-    {
         "name": "Eli White",
         "player_id": 642201,
         "hits": 3,
@@ -28,21 +13,6 @@
         "slg": 1.125,
         "season_slg": 0.409,
         "difference_slg": 0.716
-    },
-    {
-        "name": "Joey Bart",
-        "player_id": 663698,
-        "hits": 6,
-        "singles": 3,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 13,
-        "team": "PIT",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663698/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.345,
-        "difference_slg": 0.655
     },
     {
         "name": "Bo Bichette",
@@ -63,15 +33,45 @@
         "name": "Alec Bohm",
         "player_id": 664761,
         "hits": 11,
-        "singles": 6,
-        "doubles": 3,
+        "singles": 7,
+        "doubles": 2,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 22,
+        "at_bats": 21,
         "team": "PHI",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664761/headshot/67/current",
-        "slg": 0.909,
-        "season_slg": 0.41,
-        "difference_slg": 0.499
+        "slg": 0.905,
+        "season_slg": 0.411,
+        "difference_slg": 0.494
+    },
+    {
+        "name": "Joey Bart",
+        "player_id": 663698,
+        "hits": 5,
+        "singles": 2,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 15,
+        "team": "PIT",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663698/headshot/67/current",
+        "slg": 0.8,
+        "season_slg": 0.342,
+        "difference_slg": 0.458
+    },
+    {
+        "name": "Jose Iglesias",
+        "player_id": 578428,
+        "hits": 6,
+        "singles": 4,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 16,
+        "team": "SDP",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/578428/headshot/67/current",
+        "slg": 0.75,
+        "season_slg": 0.295,
+        "difference_slg": 0.455
     }
 ]
