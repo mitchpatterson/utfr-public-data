@@ -1,18 +1,18 @@
 [
     {
-        "name": "Michael Busch",
-        "player_id": 683737,
-        "hits": 8,
+        "name": "Seiya Suzuki",
+        "player_id": 673548,
+        "hits": 6,
         "singles": 0,
-        "doubles": 3,
-        "triples": 1,
-        "home_runs": 4,
-        "at_bats": 17,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 6,
+        "at_bats": 16,
         "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
-        "slg": 1.471,
-        "season_slg": 0.523,
-        "difference_slg": 0.948
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/673548/headshot/67/current",
+        "slg": 1.5,
+        "season_slg": 0.478,
+        "difference_slg": 1.022
     },
     {
         "name": "Spencer Horwitz",
@@ -30,19 +30,19 @@
         "difference_slg": 0.852
     },
     {
-        "name": "Seiya Suzuki",
-        "player_id": 673548,
-        "hits": 6,
-        "singles": 0,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 5,
-        "at_bats": 17,
+        "name": "Michael Busch",
+        "player_id": 683737,
+        "hits": 7,
+        "singles": 1,
+        "doubles": 2,
+        "triples": 1,
+        "home_runs": 3,
+        "at_bats": 16,
         "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/673548/headshot/67/current",
-        "slg": 1.294,
-        "season_slg": 0.478,
-        "difference_slg": 0.816
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
+        "slg": 1.25,
+        "season_slg": 0.523,
+        "difference_slg": 0.727
     },
     {
         "name": "Mike Trout",
