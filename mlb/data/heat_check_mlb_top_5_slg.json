@@ -15,21 +15,6 @@
         "difference_slg": 0.852
     },
     {
-        "name": "Michael Busch",
-        "player_id": 683737,
-        "hits": 7,
-        "singles": 1,
-        "doubles": 2,
-        "triples": 1,
-        "home_runs": 3,
-        "at_bats": 16,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
-        "slg": 1.25,
-        "season_slg": 0.523,
-        "difference_slg": 0.727
-    },
-    {
         "name": "Mike Trout",
         "player_id": 545361,
         "hits": 5,
@@ -45,19 +30,19 @@
         "difference_slg": 0.694
     },
     {
-        "name": "Seiya Suzuki",
-        "player_id": 673548,
-        "hits": 5,
-        "singles": 0,
+        "name": "Michael Busch",
+        "player_id": 683737,
+        "hits": 8,
+        "singles": 3,
         "doubles": 1,
-        "triples": 0,
-        "home_runs": 4,
-        "at_bats": 16,
+        "triples": 1,
+        "home_runs": 3,
+        "at_bats": 17,
         "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/673548/headshot/67/current",
-        "slg": 1.125,
-        "season_slg": 0.478,
-        "difference_slg": 0.647
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
+        "slg": 1.176,
+        "season_slg": 0.523,
+        "difference_slg": 0.653
     },
     {
         "name": "Edmundo Sosa",
@@ -73,5 +58,20 @@
         "slg": 1.062,
         "season_slg": 0.469,
         "difference_slg": 0.594
+    },
+    {
+        "name": "Christian Walker",
+        "player_id": 572233,
+        "hits": 8,
+        "singles": 3,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 4,
+        "at_bats": 21,
+        "team": "HOU",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/572233/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.421,
+        "difference_slg": 0.579
     }
 ]

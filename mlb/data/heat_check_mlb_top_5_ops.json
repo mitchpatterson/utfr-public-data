@@ -15,19 +15,34 @@
         "difference_ops": 1.205
     },
     {
+        "name": "Bo Bichette",
+        "player_id": 666182,
+        "hits": 4,
+        "singles": 2,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 6,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666182/headshot/67/current",
+        "ops": 1.667,
+        "season_ops": 0.84,
+        "difference_ops": 0.827
+    },
+    {
         "name": "Michael Busch",
         "player_id": 683737,
-        "hits": 7,
-        "singles": 1,
-        "doubles": 2,
+        "hits": 8,
+        "singles": 3,
+        "doubles": 1,
         "triples": 1,
         "home_runs": 3,
-        "at_bats": 16,
+        "at_bats": 17,
         "team": "CHC",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
-        "ops": 1.75,
+        "ops": 1.676,
         "season_ops": 0.866,
-        "difference_ops": 0.884
+        "difference_ops": 0.81
     },
     {
         "name": "Michael Massey",
@@ -58,20 +73,5 @@
         "ops": 1.545,
         "season_ops": 0.797,
         "difference_ops": 0.748
-    },
-    {
-        "name": "Shea Langeliers",
-        "player_id": 669127,
-        "hits": 14,
-        "singles": 9,
-        "doubles": 4,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 22,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
-        "ops": 1.591,
-        "season_ops": 0.861,
-        "difference_ops": 0.73
     }
 ]

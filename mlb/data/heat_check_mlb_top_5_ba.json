@@ -30,6 +30,21 @@
         "difference_ba": 0.359
     },
     {
+        "name": "Bo Bichette",
+        "player_id": 666182,
+        "hits": 4,
+        "singles": 2,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 6,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666182/headshot/67/current",
+        "ba": 0.667,
+        "season_ba": 0.311,
+        "difference_ba": 0.356
+    },
+    {
         "name": "Michael Massey",
         "player_id": 686681,
         "hits": 11,
@@ -58,20 +73,5 @@
         "ba": 0.462,
         "season_ba": 0.22,
         "difference_ba": 0.242
-    },
-    {
-        "name": "Colson Montgomery",
-        "player_id": 695657,
-        "hits": 9,
-        "singles": 4,
-        "doubles": 3,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 20,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/695657/headshot/67/current",
-        "ba": 0.45,
-        "season_ba": 0.239,
-        "difference_ba": 0.211
     }
 ]
