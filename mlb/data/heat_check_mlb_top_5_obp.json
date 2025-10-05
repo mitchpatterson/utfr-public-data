@@ -30,21 +30,6 @@
         "difference_obp": 0.311
     },
     {
-        "name": "Bo Bichette",
-        "player_id": 666182,
-        "hits": 4,
-        "singles": 2,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 6,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666182/headshot/67/current",
-        "obp": 0.667,
-        "season_obp": 0.357,
-        "difference_obp": 0.31
-    },
-    {
         "name": "Michael Massey",
         "player_id": 686681,
         "hits": 11,
@@ -58,6 +43,21 @@
         "obp": 0.571,
         "season_obp": 0.268,
         "difference_obp": 0.303
+    },
+    {
+        "name": "Colt Keith",
+        "player_id": 690993,
+        "hits": 5,
+        "singles": 4,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 10,
+        "team": "DET",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/690993/headshot/67/current",
+        "obp": 0.583,
+        "season_obp": 0.333,
+        "difference_obp": 0.25
     },
     {
         "name": "Coby Mayo",

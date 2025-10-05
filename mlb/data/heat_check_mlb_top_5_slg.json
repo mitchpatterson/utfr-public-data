@@ -15,6 +15,21 @@
         "difference_slg": 0.852
     },
     {
+        "name": "Edmundo Sosa",
+        "player_id": 624641,
+        "hits": 5,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 4,
+        "at_bats": 14,
+        "team": "PHI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624641/headshot/67/current",
+        "slg": 1.214,
+        "season_slg": 0.469,
+        "difference_slg": 0.745
+    },
+    {
         "name": "Mike Trout",
         "player_id": 545361,
         "hits": 5,
@@ -30,34 +45,19 @@
         "difference_slg": 0.694
     },
     {
-        "name": "Michael Busch",
-        "player_id": 683737,
-        "hits": 8,
-        "singles": 3,
+        "name": "Alejandro Kirk",
+        "player_id": 672386,
+        "hits": 6,
+        "singles": 0,
         "doubles": 1,
-        "triples": 1,
-        "home_runs": 3,
-        "at_bats": 17,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
-        "slg": 1.176,
-        "season_slg": 0.523,
-        "difference_slg": 0.653
-    },
-    {
-        "name": "Edmundo Sosa",
-        "player_id": 624641,
-        "hits": 5,
-        "singles": 1,
-        "doubles": 0,
         "triples": 0,
-        "home_runs": 4,
-        "at_bats": 16,
-        "team": "PHI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624641/headshot/67/current",
-        "slg": 1.062,
-        "season_slg": 0.469,
-        "difference_slg": 0.594
+        "home_runs": 5,
+        "at_bats": 20,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672386/headshot/67/current",
+        "slg": 1.1,
+        "season_slg": 0.421,
+        "difference_slg": 0.679
     },
     {
         "name": "Christian Walker",

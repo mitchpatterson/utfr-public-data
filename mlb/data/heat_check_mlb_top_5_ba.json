@@ -30,21 +30,6 @@
         "difference_ba": 0.359
     },
     {
-        "name": "Bo Bichette",
-        "player_id": 666182,
-        "hits": 4,
-        "singles": 2,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 6,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666182/headshot/67/current",
-        "ba": 0.667,
-        "season_ba": 0.311,
-        "difference_ba": 0.356
-    },
-    {
         "name": "Michael Massey",
         "player_id": 686681,
         "hits": 11,
@@ -58,6 +43,21 @@
         "ba": 0.55,
         "season_ba": 0.244,
         "difference_ba": 0.306
+    },
+    {
+        "name": "Colt Keith",
+        "player_id": 690993,
+        "hits": 5,
+        "singles": 4,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 10,
+        "team": "DET",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/690993/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.256,
+        "difference_ba": 0.244
     },
     {
         "name": "Edouard Julien",
