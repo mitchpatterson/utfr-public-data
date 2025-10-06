@@ -47,17 +47,17 @@
     {
         "name": "Colt Keith",
         "player_id": 690993,
-        "hits": 5,
-        "singles": 4,
+        "hits": 4,
+        "singles": 3,
         "doubles": 1,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 10,
+        "at_bats": 8,
         "team": "DET",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/690993/headshot/67/current",
-        "obp": 0.583,
+        "obp": 0.6,
         "season_obp": 0.333,
-        "difference_obp": 0.25
+        "difference_obp": 0.267
     },
     {
         "name": "Coby Mayo",

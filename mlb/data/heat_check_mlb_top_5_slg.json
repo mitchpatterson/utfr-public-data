@@ -47,31 +47,31 @@
     {
         "name": "Alejandro Kirk",
         "player_id": 672386,
-        "hits": 6,
-        "singles": 0,
+        "hits": 7,
+        "singles": 1,
         "doubles": 1,
         "triples": 0,
         "home_runs": 5,
-        "at_bats": 20,
+        "at_bats": 21,
         "team": "TOR",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672386/headshot/67/current",
-        "slg": 1.1,
+        "slg": 1.095,
         "season_slg": 0.421,
-        "difference_slg": 0.679
+        "difference_slg": 0.674
     },
     {
-        "name": "Christian Walker",
-        "player_id": 572233,
-        "hits": 8,
-        "singles": 3,
-        "doubles": 1,
+        "name": "Jorge Polanco",
+        "player_id": 593871,
+        "hits": 6,
+        "singles": 2,
+        "doubles": 0,
         "triples": 0,
         "home_runs": 4,
-        "at_bats": 21,
-        "team": "HOU",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/572233/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.421,
-        "difference_slg": 0.579
+        "at_bats": 16,
+        "team": "SEA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/593871/headshot/67/current",
+        "slg": 1.125,
+        "season_slg": 0.495,
+        "difference_slg": 0.63
     }
 ]
