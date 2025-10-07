@@ -15,21 +15,6 @@
         "difference_ops": 1.205
     },
     {
-        "name": "Edmundo Sosa",
-        "player_id": 624641,
-        "hits": 5,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 4,
-        "at_bats": 14,
-        "team": "PHI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624641/headshot/67/current",
-        "ops": 1.571,
-        "season_ops": 0.777,
-        "difference_ops": 0.794
-    },
-    {
         "name": "Michael Massey",
         "player_id": 686681,
         "hits": 11,
@@ -73,5 +58,20 @@
         "ops": 1.591,
         "season_ops": 0.861,
         "difference_ops": 0.73
+    },
+    {
+        "name": "Jorge Polanco",
+        "player_id": 593871,
+        "hits": 6,
+        "singles": 2,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 4,
+        "at_bats": 16,
+        "team": "SEA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/593871/headshot/67/current",
+        "ops": 1.537,
+        "season_ops": 0.821,
+        "difference_ops": 0.716
     }
 ]
