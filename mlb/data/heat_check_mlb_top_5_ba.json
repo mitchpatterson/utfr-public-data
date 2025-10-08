@@ -30,6 +30,21 @@
         "difference_ba": 0.359
     },
     {
+        "name": "Ernie Clement",
+        "player_id": 676391,
+        "hits": 10,
+        "singles": 7,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 17,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676391/headshot/67/current",
+        "ba": 0.588,
+        "season_ba": 0.277,
+        "difference_ba": 0.311
+    },
+    {
         "name": "Michael Massey",
         "player_id": 686681,
         "hits": 11,
@@ -43,21 +58,6 @@
         "ba": 0.55,
         "season_ba": 0.244,
         "difference_ba": 0.306
-    },
-    {
-        "name": "Colt Keith",
-        "player_id": 690993,
-        "hits": 4,
-        "singles": 3,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 8,
-        "team": "DET",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/690993/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.256,
-        "difference_ba": 0.244
     },
     {
         "name": "Edouard Julien",

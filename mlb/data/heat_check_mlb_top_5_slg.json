@@ -45,21 +45,6 @@
         "difference_slg": 0.674
     },
     {
-        "name": "Jorge Polanco",
-        "player_id": 593871,
-        "hits": 6,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 4,
-        "at_bats": 16,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/593871/headshot/67/current",
-        "slg": 1.125,
-        "season_slg": 0.495,
-        "difference_slg": 0.63
-    },
-    {
         "name": "Christian Walker",
         "player_id": 572233,
         "hits": 8,
@@ -73,5 +58,20 @@
         "slg": 1.0,
         "season_slg": 0.421,
         "difference_slg": 0.579
+    },
+    {
+        "name": "James Wood",
+        "player_id": 695578,
+        "hits": 7,
+        "singles": 2,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 4,
+        "at_bats": 20,
+        "team": "WSN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/695578/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.475,
+        "difference_slg": 0.525
     }
 ]
