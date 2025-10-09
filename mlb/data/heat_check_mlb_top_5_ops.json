@@ -30,21 +30,6 @@
         "difference_ops": 0.79
     },
     {
-        "name": "Ernie Clement",
-        "player_id": 676391,
-        "hits": 10,
-        "singles": 7,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 17,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676391/headshot/67/current",
-        "ops": 1.461,
-        "season_ops": 0.711,
-        "difference_ops": 0.75
-    },
-    {
         "name": "Mike Trout",
         "player_id": 545361,
         "hits": 5,
@@ -73,5 +58,20 @@
         "ops": 1.591,
         "season_ops": 0.861,
         "difference_ops": 0.73
+    },
+    {
+        "name": "Ernie Clement",
+        "player_id": 676391,
+        "hits": 10,
+        "singles": 8,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 17,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676391/headshot/67/current",
+        "ops": 1.424,
+        "season_ops": 0.711,
+        "difference_ops": 0.713
     }
 ]

@@ -48,16 +48,16 @@
         "name": "Ernie Clement",
         "player_id": 676391,
         "hits": 10,
-        "singles": 7,
-        "doubles": 2,
+        "singles": 8,
+        "doubles": 1,
         "triples": 0,
         "home_runs": 1,
         "at_bats": 17,
         "team": "TOR",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676391/headshot/67/current",
-        "obp": 0.579,
+        "obp": 0.6,
         "season_obp": 0.313,
-        "difference_obp": 0.266
+        "difference_obp": 0.287
     },
     {
         "name": "Coby Mayo",
