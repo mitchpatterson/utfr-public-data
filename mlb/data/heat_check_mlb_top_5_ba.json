@@ -60,18 +60,18 @@
         "difference_ba": 0.306
     },
     {
-        "name": "Edouard Julien",
-        "player_id": 666397,
-        "hits": 6,
-        "singles": 4,
-        "doubles": 2,
+        "name": "Willson Contreras",
+        "player_id": 575929,
+        "hits": 4,
+        "singles": 3,
+        "doubles": 1,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 13,
-        "team": "MIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666397/headshot/67/current",
-        "ba": 0.462,
-        "season_ba": 0.22,
-        "difference_ba": 0.242
+        "at_bats": 8,
+        "team": "STL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/575929/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.257,
+        "difference_ba": 0.243
     }
 ]

@@ -15,6 +15,21 @@
         "difference_obp": 0.353
     },
     {
+        "name": "Willson Contreras",
+        "player_id": 575929,
+        "hits": 4,
+        "singles": 3,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 8,
+        "team": "STL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/575929/headshot/67/current",
+        "obp": 0.667,
+        "season_obp": 0.344,
+        "difference_obp": 0.323
+    },
+    {
         "name": "Shea Langeliers",
         "player_id": 669127,
         "hits": 14,
@@ -58,20 +73,5 @@
         "obp": 0.6,
         "season_obp": 0.313,
         "difference_obp": 0.287
-    },
-    {
-        "name": "Coby Mayo",
-        "player_id": 691723,
-        "hits": 5,
-        "singles": 3,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 13,
-        "team": "BAL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691723/headshot/67/current",
-        "obp": 0.529,
-        "season_obp": 0.299,
-        "difference_obp": 0.23
     }
 ]
