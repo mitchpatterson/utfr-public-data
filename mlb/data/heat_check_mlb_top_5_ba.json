@@ -30,6 +30,21 @@
         "difference_ba": 0.359
     },
     {
+        "name": "Willson Contreras",
+        "player_id": 575929,
+        "hits": 3,
+        "singles": 2,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 5,
+        "team": "STL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/575929/headshot/67/current",
+        "ba": 0.6,
+        "season_ba": 0.257,
+        "difference_ba": 0.343
+    },
+    {
         "name": "Ernie Clement",
         "player_id": 676391,
         "hits": 10,
@@ -58,20 +73,5 @@
         "ba": 0.55,
         "season_ba": 0.244,
         "difference_ba": 0.306
-    },
-    {
-        "name": "Willson Contreras",
-        "player_id": 575929,
-        "hits": 4,
-        "singles": 3,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 8,
-        "team": "STL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/575929/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.257,
-        "difference_ba": 0.243
     }
 ]

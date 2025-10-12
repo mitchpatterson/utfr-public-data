@@ -1,5 +1,20 @@
 [
     {
+        "name": "Willson Contreras",
+        "player_id": 575929,
+        "hits": 3,
+        "singles": 2,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 5,
+        "team": "STL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/575929/headshot/67/current",
+        "obp": 0.75,
+        "season_obp": 0.344,
+        "difference_obp": 0.406
+    },
+    {
         "name": "Spencer Horwitz",
         "player_id": 687462,
         "hits": 9,
@@ -13,21 +28,6 @@
         "obp": 0.706,
         "season_obp": 0.353,
         "difference_obp": 0.353
-    },
-    {
-        "name": "Willson Contreras",
-        "player_id": 575929,
-        "hits": 4,
-        "singles": 3,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 8,
-        "team": "STL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/575929/headshot/67/current",
-        "obp": 0.667,
-        "season_obp": 0.344,
-        "difference_obp": 0.323
     },
     {
         "name": "Shea Langeliers",
