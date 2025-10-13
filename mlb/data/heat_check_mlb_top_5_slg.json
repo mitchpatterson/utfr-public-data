@@ -45,6 +45,21 @@
         "difference_slg": 0.579
     },
     {
+        "name": "Willson Contreras",
+        "player_id": 575929,
+        "hits": 2,
+        "singles": 1,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 3,
+        "team": "STL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/575929/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.447,
+        "difference_slg": 0.553
+    },
+    {
         "name": "James Wood",
         "player_id": 695578,
         "hits": 7,
@@ -58,20 +73,5 @@
         "slg": 1.0,
         "season_slg": 0.475,
         "difference_slg": 0.525
-    },
-    {
-        "name": "Alejandro Kirk",
-        "player_id": 672386,
-        "hits": 7,
-        "singles": 1,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 4,
-        "at_bats": 23,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/672386/headshot/67/current",
-        "slg": 0.913,
-        "season_slg": 0.421,
-        "difference_slg": 0.492
     }
 ]
