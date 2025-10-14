@@ -62,16 +62,16 @@
     {
         "name": "Ernie Clement",
         "player_id": 676391,
-        "hits": 9,
-        "singles": 7,
+        "hits": 10,
+        "singles": 8,
         "doubles": 1,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 17,
+        "at_bats": 18,
         "team": "TOR",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676391/headshot/67/current",
-        "ba": 0.529,
+        "ba": 0.556,
         "season_ba": 0.277,
-        "difference_ba": 0.252
+        "difference_ba": 0.279
     }
 ]
