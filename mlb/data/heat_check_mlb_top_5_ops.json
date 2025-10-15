@@ -15,34 +15,19 @@
         "difference_ops": 1.205
     },
     {
-        "name": "Willson Contreras",
-        "player_id": 575929,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 3,
-        "team": "STL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/575929/headshot/67/current",
-        "ops": 1.667,
-        "season_ops": 0.791,
-        "difference_ops": 0.876
-    },
-    {
-        "name": "Jake Bauers",
-        "player_id": 641343,
-        "hits": 4,
-        "singles": 2,
-        "doubles": 1,
+        "name": "Andrew Benintendi",
+        "player_id": 643217,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 8,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641343/headshot/67/current",
-        "ops": 1.6,
-        "season_ops": 0.752,
-        "difference_ops": 0.848
+        "at_bats": 3,
+        "team": "CHW",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643217/headshot/67/current",
+        "ops": 1.933,
+        "season_ops": 0.738,
+        "difference_ops": 1.195
     },
     {
         "name": "Michael Massey",
@@ -73,5 +58,20 @@
         "ops": 1.545,
         "season_ops": 0.797,
         "difference_ops": 0.748
+    },
+    {
+        "name": "Shea Langeliers",
+        "player_id": 669127,
+        "hits": 14,
+        "singles": 9,
+        "doubles": 4,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 22,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
+        "ops": 1.591,
+        "season_ops": 0.861,
+        "difference_ops": 0.73
     }
 ]

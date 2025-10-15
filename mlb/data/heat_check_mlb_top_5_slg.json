@@ -1,5 +1,20 @@
 [
     {
+        "name": "Andrew Benintendi",
+        "player_id": 643217,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 3,
+        "team": "CHW",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643217/headshot/67/current",
+        "slg": 1.333,
+        "season_slg": 0.431,
+        "difference_slg": 0.902
+    },
+    {
         "name": "Spencer Horwitz",
         "player_id": 687462,
         "hits": 9,
@@ -30,21 +45,6 @@
         "difference_slg": 0.694
     },
     {
-        "name": "Jake Bauers",
-        "player_id": 641343,
-        "hits": 4,
-        "singles": 2,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 8,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641343/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.399,
-        "difference_slg": 0.601
-    },
-    {
         "name": "Christian Walker",
         "player_id": 572233,
         "hits": 8,
@@ -60,18 +60,18 @@
         "difference_slg": 0.579
     },
     {
-        "name": "Willson Contreras",
-        "player_id": 575929,
-        "hits": 2,
-        "singles": 1,
+        "name": "James Wood",
+        "player_id": 695578,
+        "hits": 7,
+        "singles": 2,
         "doubles": 1,
         "triples": 0,
-        "home_runs": 0,
-        "at_bats": 3,
-        "team": "STL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/575929/headshot/67/current",
+        "home_runs": 4,
+        "at_bats": 20,
+        "team": "WSN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/695578/headshot/67/current",
         "slg": 1.0,
-        "season_slg": 0.447,
-        "difference_slg": 0.553
+        "season_slg": 0.475,
+        "difference_slg": 0.525
     }
 ]

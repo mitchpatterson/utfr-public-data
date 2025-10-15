@@ -15,21 +15,6 @@
         "difference_obp": 0.353
     },
     {
-        "name": "Willson Contreras",
-        "player_id": 575929,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 3,
-        "team": "STL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/575929/headshot/67/current",
-        "obp": 0.667,
-        "season_obp": 0.344,
-        "difference_obp": 0.323
-    },
-    {
         "name": "Shea Langeliers",
         "player_id": 669127,
         "hits": 14,
@@ -58,6 +43,21 @@
         "obp": 0.571,
         "season_obp": 0.268,
         "difference_obp": 0.303
+    },
+    {
+        "name": "Andrew Benintendi",
+        "player_id": 643217,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 3,
+        "team": "CHW",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643217/headshot/67/current",
+        "obp": 0.6,
+        "season_obp": 0.307,
+        "difference_obp": 0.293
     },
     {
         "name": "Alex Call",
