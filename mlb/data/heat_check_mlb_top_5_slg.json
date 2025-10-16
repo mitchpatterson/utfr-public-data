@@ -1,20 +1,5 @@
 [
     {
-        "name": "Andrew Benintendi",
-        "player_id": 643217,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 3,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643217/headshot/67/current",
-        "slg": 1.333,
-        "season_slg": 0.431,
-        "difference_slg": 0.902
-    },
-    {
         "name": "Spencer Horwitz",
         "player_id": 687462,
         "hits": 9,
@@ -28,6 +13,21 @@
         "slg": 1.286,
         "season_slg": 0.434,
         "difference_slg": 0.852
+    },
+    {
+        "name": "Eli White",
+        "player_id": 642201,
+        "hits": 2,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 4,
+        "team": "ATL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642201/headshot/67/current",
+        "slg": 1.25,
+        "season_slg": 0.406,
+        "difference_slg": 0.844
     },
     {
         "name": "Mike Trout",

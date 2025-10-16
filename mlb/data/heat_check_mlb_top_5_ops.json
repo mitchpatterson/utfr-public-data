@@ -15,19 +15,19 @@
         "difference_ops": 1.205
     },
     {
-        "name": "Andrew Benintendi",
-        "player_id": 643217,
-        "hits": 1,
-        "singles": 0,
+        "name": "Eli White",
+        "player_id": 642201,
+        "hits": 2,
+        "singles": 1,
         "doubles": 0,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 3,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643217/headshot/67/current",
-        "ops": 1.933,
-        "season_ops": 0.738,
-        "difference_ops": 1.195
+        "at_bats": 4,
+        "team": "ATL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642201/headshot/67/current",
+        "ops": 1.75,
+        "season_ops": 0.677,
+        "difference_ops": 1.073
     },
     {
         "name": "Michael Massey",

@@ -45,21 +45,6 @@
         "difference_obp": 0.303
     },
     {
-        "name": "Andrew Benintendi",
-        "player_id": 643217,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 3,
-        "team": "CHW",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643217/headshot/67/current",
-        "obp": 0.6,
-        "season_obp": 0.307,
-        "difference_obp": 0.293
-    },
-    {
         "name": "Alex Call",
         "player_id": 669743,
         "hits": 3,
@@ -73,5 +58,20 @@
         "obp": 0.636,
         "season_obp": 0.361,
         "difference_obp": 0.275
+    },
+    {
+        "name": "Max Muncy",
+        "player_id": 571970,
+        "hits": 5,
+        "singles": 3,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 13,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
+        "obp": 0.529,
+        "season_obp": 0.259,
+        "difference_obp": 0.27
     }
 ]
