@@ -60,18 +60,18 @@
         "difference_slg": 0.579
     },
     {
-        "name": "James Wood",
-        "player_id": 695578,
-        "hits": 7,
-        "singles": 2,
-        "doubles": 1,
+        "name": "Wyatt Langford",
+        "player_id": 694671,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
         "triples": 0,
-        "home_runs": 4,
-        "at_bats": 20,
-        "team": "WSN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/695578/headshot/67/current",
+        "home_runs": 1,
+        "at_bats": 4,
+        "team": "TEX",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/694671/headshot/67/current",
         "slg": 1.0,
-        "season_slg": 0.475,
-        "difference_slg": 0.525
+        "season_slg": 0.431,
+        "difference_slg": 0.569
     }
 ]

@@ -60,18 +60,18 @@
         "difference_obp": 0.275
     },
     {
-        "name": "Max Muncy",
-        "player_id": 571970,
+        "name": "Coby Mayo",
+        "player_id": 691723,
         "hits": 5,
         "singles": 3,
-        "doubles": 1,
+        "doubles": 0,
         "triples": 0,
-        "home_runs": 1,
+        "home_runs": 2,
         "at_bats": 13,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/571970/headshot/67/current",
+        "team": "BAL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691723/headshot/67/current",
         "obp": 0.529,
-        "season_obp": 0.259,
-        "difference_obp": 0.27
+        "season_obp": 0.299,
+        "difference_obp": 0.23
     }
 ]
