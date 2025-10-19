@@ -30,19 +30,19 @@
         "difference_ops": 1.073
     },
     {
-        "name": "Michael Massey",
-        "player_id": 686681,
-        "hits": 11,
-        "singles": 8,
-        "doubles": 2,
+        "name": "Carlos Santana",
+        "player_id": 467793,
+        "hits": 2,
+        "singles": 1,
+        "doubles": 1,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 20,
-        "team": "KCR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686681/headshot/67/current",
-        "ops": 1.371,
-        "season_ops": 0.581,
-        "difference_ops": 0.79
+        "home_runs": 0,
+        "at_bats": 3,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/467793/headshot/67/current",
+        "ops": 1.667,
+        "season_ops": 0.633,
+        "difference_ops": 1.034
     },
     {
         "name": "Mike Trout",

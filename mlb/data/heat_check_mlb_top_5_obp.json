@@ -1,5 +1,20 @@
 [
     {
+        "name": "Carlos Santana",
+        "player_id": 467793,
+        "hits": 2,
+        "singles": 1,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 3,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/467793/headshot/67/current",
+        "obp": 0.667,
+        "season_obp": 0.308,
+        "difference_obp": 0.359
+    },
+    {
         "name": "Spencer Horwitz",
         "player_id": 687462,
         "hits": 9,
@@ -30,21 +45,6 @@
         "difference_obp": 0.311
     },
     {
-        "name": "Michael Massey",
-        "player_id": 686681,
-        "hits": 11,
-        "singles": 8,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 20,
-        "team": "KCR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686681/headshot/67/current",
-        "obp": 0.571,
-        "season_obp": 0.268,
-        "difference_obp": 0.303
-    },
-    {
         "name": "Alex Call",
         "player_id": 669743,
         "hits": 3,
@@ -60,18 +60,18 @@
         "difference_obp": 0.275
     },
     {
-        "name": "Coby Mayo",
-        "player_id": 691723,
-        "hits": 5,
-        "singles": 3,
+        "name": "Eli White",
+        "player_id": 642201,
+        "hits": 2,
+        "singles": 1,
         "doubles": 0,
         "triples": 0,
-        "home_runs": 2,
-        "at_bats": 13,
-        "team": "BAL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/691723/headshot/67/current",
-        "obp": 0.529,
-        "season_obp": 0.299,
+        "home_runs": 1,
+        "at_bats": 4,
+        "team": "ATL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642201/headshot/67/current",
+        "obp": 0.5,
+        "season_obp": 0.27,
         "difference_obp": 0.23
     }
 ]

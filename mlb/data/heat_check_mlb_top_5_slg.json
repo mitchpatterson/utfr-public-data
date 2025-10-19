@@ -45,6 +45,21 @@
         "difference_slg": 0.694
     },
     {
+        "name": "Carlos Santana",
+        "player_id": 467793,
+        "hits": 2,
+        "singles": 1,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 3,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/467793/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.325,
+        "difference_slg": 0.675
+    },
+    {
         "name": "Christian Walker",
         "player_id": 572233,
         "hits": 8,
@@ -58,20 +73,5 @@
         "slg": 1.0,
         "season_slg": 0.421,
         "difference_slg": 0.579
-    },
-    {
-        "name": "Wyatt Langford",
-        "player_id": 694671,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 4,
-        "team": "TEX",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/694671/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.431,
-        "difference_slg": 0.569
     }
 ]
