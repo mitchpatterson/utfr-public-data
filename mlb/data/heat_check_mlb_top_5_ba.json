@@ -45,6 +45,21 @@
         "difference_ba": 0.359
     },
     {
+        "name": "Michael Massey",
+        "player_id": 686681,
+        "hits": 7,
+        "singles": 6,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 13,
+        "team": "KCR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686681/headshot/67/current",
+        "ba": 0.538,
+        "season_ba": 0.244,
+        "difference_ba": 0.294
+    },
+    {
         "name": "Eli White",
         "player_id": 642201,
         "hits": 2,
@@ -58,20 +73,5 @@
         "ba": 0.5,
         "season_ba": 0.234,
         "difference_ba": 0.266
-    },
-    {
-        "name": "Dane Myers",
-        "player_id": 667472,
-        "hits": 1,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 2,
-        "team": "MIA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/667472/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.235,
-        "difference_ba": 0.265
     }
 ]

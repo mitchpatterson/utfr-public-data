@@ -60,18 +60,18 @@
         "difference_obp": 0.275
     },
     {
-        "name": "Eli White",
-        "player_id": 642201,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 0,
+        "name": "Michael Massey",
+        "player_id": 686681,
+        "hits": 7,
+        "singles": 6,
+        "doubles": 1,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 4,
-        "team": "ATL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642201/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.27,
-        "difference_obp": 0.23
+        "home_runs": 0,
+        "at_bats": 13,
+        "team": "KCR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686681/headshot/67/current",
+        "obp": 0.538,
+        "season_obp": 0.268,
+        "difference_obp": 0.27
     }
 ]
