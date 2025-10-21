@@ -1,5 +1,20 @@
 [
     {
+        "name": "Carlos Santana",
+        "player_id": 467793,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 1,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/467793/headshot/67/current",
+        "slg": 2.0,
+        "season_slg": 0.325,
+        "difference_slg": 1.675
+    },
+    {
         "name": "Spencer Horwitz",
         "player_id": 687462,
         "hits": 9,
@@ -30,6 +45,21 @@
         "difference_slg": 0.844
     },
     {
+        "name": "Danny Jansen",
+        "player_id": 643376,
+        "hits": 5,
+        "singles": 3,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 10,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643376/headshot/67/current",
+        "slg": 1.1,
+        "season_slg": 0.399,
+        "difference_slg": 0.701
+    },
+    {
         "name": "Mike Trout",
         "player_id": 545361,
         "hits": 5,
@@ -43,35 +73,5 @@
         "slg": 1.133,
         "season_slg": 0.439,
         "difference_slg": 0.694
-    },
-    {
-        "name": "Carlos Santana",
-        "player_id": 467793,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 3,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/467793/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.325,
-        "difference_slg": 0.675
-    },
-    {
-        "name": "Josh Naylor",
-        "player_id": 647304,
-        "hits": 9,
-        "singles": 6,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 17,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
-        "slg": 1.059,
-        "season_slg": 0.462,
-        "difference_slg": 0.597
     }
 ]

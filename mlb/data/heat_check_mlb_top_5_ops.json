@@ -1,5 +1,20 @@
 [
     {
+        "name": "Carlos Santana",
+        "player_id": 467793,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 1,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/467793/headshot/67/current",
+        "ops": 3.0,
+        "season_ops": 0.633,
+        "difference_ops": 2.367
+    },
+    {
         "name": "Spencer Horwitz",
         "player_id": 687462,
         "hits": 9,
@@ -30,34 +45,19 @@
         "difference_ops": 1.073
     },
     {
-        "name": "Carlos Santana",
-        "player_id": 467793,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 3,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/467793/headshot/67/current",
-        "ops": 1.667,
-        "season_ops": 0.633,
-        "difference_ops": 1.034
-    },
-    {
-        "name": "Josh Naylor",
-        "player_id": 647304,
-        "hits": 9,
-        "singles": 6,
+        "name": "Danny Jansen",
+        "player_id": 643376,
+        "hits": 5,
+        "singles": 3,
         "doubles": 0,
         "triples": 0,
-        "home_runs": 3,
-        "at_bats": 17,
+        "home_runs": 2,
+        "at_bats": 10,
         "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
-        "ops": 1.638,
-        "season_ops": 0.816,
-        "difference_ops": 0.822
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643376/headshot/67/current",
+        "ops": 1.715,
+        "season_ops": 0.721,
+        "difference_ops": 0.994
     },
     {
         "name": "Mike Trout",

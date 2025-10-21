@@ -2,17 +2,17 @@
     {
         "name": "Carlos Santana",
         "player_id": 467793,
-        "hits": 2,
-        "singles": 1,
+        "hits": 1,
+        "singles": 0,
         "doubles": 1,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 3,
+        "at_bats": 1,
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/467793/headshot/67/current",
-        "obp": 0.667,
+        "obp": 1.0,
         "season_obp": 0.308,
-        "difference_obp": 0.359
+        "difference_obp": 0.692
     },
     {
         "name": "Spencer Horwitz",
@@ -45,6 +45,21 @@
         "difference_obp": 0.311
     },
     {
+        "name": "Danny Jansen",
+        "player_id": 643376,
+        "hits": 5,
+        "singles": 3,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 10,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643376/headshot/67/current",
+        "obp": 0.615,
+        "season_obp": 0.321,
+        "difference_obp": 0.294
+    },
+    {
         "name": "Alex Call",
         "player_id": 669743,
         "hits": 3,
@@ -58,20 +73,5 @@
         "obp": 0.636,
         "season_obp": 0.361,
         "difference_obp": 0.275
-    },
-    {
-        "name": "Michael Massey",
-        "player_id": 686681,
-        "hits": 7,
-        "singles": 6,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 13,
-        "team": "KCR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686681/headshot/67/current",
-        "obp": 0.538,
-        "season_obp": 0.268,
-        "difference_obp": 0.27
     }
 ]
