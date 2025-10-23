@@ -1,18 +1,18 @@
 [
     {
-        "name": "Carlos Santana",
-        "player_id": 467793,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 1,
+        "name": "Shea Langeliers",
+        "player_id": 669127,
+        "hits": 13,
+        "singles": 8,
+        "doubles": 4,
         "triples": 0,
-        "home_runs": 0,
-        "at_bats": 1,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/467793/headshot/67/current",
-        "ba": 1.0,
-        "season_ba": 0.219,
-        "difference_ba": 0.781
+        "home_runs": 1,
+        "at_bats": 18,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
+        "ba": 0.722,
+        "season_ba": 0.277,
+        "difference_ba": 0.445
     },
     {
         "name": "Spencer Horwitz",
@@ -30,34 +30,19 @@
         "difference_ba": 0.371
     },
     {
-        "name": "Shea Langeliers",
-        "player_id": 669127,
-        "hits": 14,
-        "singles": 9,
-        "doubles": 4,
+        "name": "Danny Jansen",
+        "player_id": 643376,
+        "hits": 5,
+        "singles": 3,
+        "doubles": 0,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 22,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
-        "ba": 0.636,
-        "season_ba": 0.277,
-        "difference_ba": 0.359
-    },
-    {
-        "name": "Edouard Julien",
-        "player_id": 666397,
-        "hits": 6,
-        "singles": 4,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 11,
-        "team": "MIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666397/headshot/67/current",
-        "ba": 0.545,
-        "season_ba": 0.22,
-        "difference_ba": 0.325
+        "home_runs": 2,
+        "at_bats": 9,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643376/headshot/67/current",
+        "ba": 0.556,
+        "season_ba": 0.215,
+        "difference_ba": 0.341
     },
     {
         "name": "Michael Massey",
@@ -73,5 +58,20 @@
         "ba": 0.538,
         "season_ba": 0.244,
         "difference_ba": 0.294
+    },
+    {
+        "name": "Edouard Julien",
+        "player_id": 666397,
+        "hits": 4,
+        "singles": 3,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 9,
+        "team": "MIN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666397/headshot/67/current",
+        "ba": 0.444,
+        "season_ba": 0.22,
+        "difference_ba": 0.224
     }
 ]

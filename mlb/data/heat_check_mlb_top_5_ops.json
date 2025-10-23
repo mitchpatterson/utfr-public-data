@@ -1,20 +1,5 @@
 [
     {
-        "name": "Carlos Santana",
-        "player_id": 467793,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 1,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/467793/headshot/67/current",
-        "ops": 3.0,
-        "season_ops": 0.633,
-        "difference_ops": 2.367
-    },
-    {
         "name": "Spencer Horwitz",
         "player_id": 687462,
         "hits": 9,
@@ -30,21 +15,6 @@
         "difference_ops": 1.205
     },
     {
-        "name": "Eli White",
-        "player_id": 642201,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 4,
-        "team": "ATL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642201/headshot/67/current",
-        "ops": 1.75,
-        "season_ops": 0.677,
-        "difference_ops": 1.073
-    },
-    {
         "name": "Danny Jansen",
         "player_id": 643376,
         "hits": 5,
@@ -52,12 +22,12 @@
         "doubles": 0,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 10,
+        "at_bats": 9,
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643376/headshot/67/current",
-        "ops": 1.715,
+        "ops": 1.889,
         "season_ops": 0.721,
-        "difference_ops": 0.994
+        "difference_ops": 1.168
     },
     {
         "name": "Mike Trout",
@@ -67,11 +37,41 @@
         "doubles": 0,
         "triples": 0,
         "home_runs": 4,
-        "at_bats": 15,
+        "at_bats": 12,
         "team": "LAA",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/545361/headshot/67/current",
-        "ops": 1.545,
+        "ops": 1.878,
         "season_ops": 0.797,
-        "difference_ops": 0.748
+        "difference_ops": 1.081
+    },
+    {
+        "name": "Eli White",
+        "player_id": 642201,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 3,
+        "team": "ATL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642201/headshot/67/current",
+        "ops": 1.667,
+        "season_ops": 0.677,
+        "difference_ops": 0.99
+    },
+    {
+        "name": "Shea Langeliers",
+        "player_id": 669127,
+        "hits": 13,
+        "singles": 8,
+        "doubles": 4,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 18,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
+        "ops": 1.833,
+        "season_ops": 0.861,
+        "difference_ops": 0.972
     }
 ]

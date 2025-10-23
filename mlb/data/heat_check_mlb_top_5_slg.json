@@ -1,18 +1,33 @@
 [
     {
-        "name": "Carlos Santana",
-        "player_id": 467793,
+        "name": "Mike Trout",
+        "player_id": 545361,
+        "hits": 5,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 4,
+        "at_bats": 12,
+        "team": "LAA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/545361/headshot/67/current",
+        "slg": 1.417,
+        "season_slg": 0.439,
+        "difference_slg": 0.978
+    },
+    {
+        "name": "Eli White",
+        "player_id": 642201,
         "hits": 1,
         "singles": 0,
-        "doubles": 1,
+        "doubles": 0,
         "triples": 0,
-        "home_runs": 0,
-        "at_bats": 1,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/467793/headshot/67/current",
-        "slg": 2.0,
-        "season_slg": 0.325,
-        "difference_slg": 1.675
+        "home_runs": 1,
+        "at_bats": 3,
+        "team": "ATL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642201/headshot/67/current",
+        "slg": 1.333,
+        "season_slg": 0.406,
+        "difference_slg": 0.927
     },
     {
         "name": "Spencer Horwitz",
@@ -30,21 +45,6 @@
         "difference_slg": 0.852
     },
     {
-        "name": "Eli White",
-        "player_id": 642201,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 4,
-        "team": "ATL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642201/headshot/67/current",
-        "slg": 1.25,
-        "season_slg": 0.406,
-        "difference_slg": 0.844
-    },
-    {
         "name": "Danny Jansen",
         "player_id": 643376,
         "hits": 5,
@@ -52,26 +52,26 @@
         "doubles": 0,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 10,
+        "at_bats": 9,
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643376/headshot/67/current",
-        "slg": 1.1,
+        "slg": 1.222,
         "season_slg": 0.399,
-        "difference_slg": 0.701
+        "difference_slg": 0.823
     },
     {
-        "name": "Mike Trout",
-        "player_id": 545361,
-        "hits": 5,
+        "name": "Christian Walker",
+        "player_id": 572233,
+        "hits": 6,
         "singles": 1,
-        "doubles": 0,
+        "doubles": 1,
         "triples": 0,
         "home_runs": 4,
-        "at_bats": 15,
-        "team": "LAA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/545361/headshot/67/current",
-        "slg": 1.133,
-        "season_slg": 0.439,
-        "difference_slg": 0.694
+        "at_bats": 17,
+        "team": "HOU",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/572233/headshot/67/current",
+        "slg": 1.118,
+        "season_slg": 0.421,
+        "difference_slg": 0.697
     }
 ]

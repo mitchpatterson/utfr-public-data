@@ -1,18 +1,18 @@
 [
     {
-        "name": "Carlos Santana",
-        "player_id": 467793,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 1,
+        "name": "Shea Langeliers",
+        "player_id": 669127,
+        "hits": 13,
+        "singles": 8,
+        "doubles": 4,
         "triples": 0,
-        "home_runs": 0,
-        "at_bats": 1,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/467793/headshot/67/current",
-        "obp": 1.0,
-        "season_obp": 0.308,
-        "difference_obp": 0.692
+        "home_runs": 1,
+        "at_bats": 18,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
+        "obp": 0.722,
+        "season_obp": 0.325,
+        "difference_obp": 0.397
     },
     {
         "name": "Spencer Horwitz",
@@ -30,21 +30,6 @@
         "difference_obp": 0.353
     },
     {
-        "name": "Shea Langeliers",
-        "player_id": 669127,
-        "hits": 14,
-        "singles": 9,
-        "doubles": 4,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 22,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
-        "obp": 0.636,
-        "season_obp": 0.325,
-        "difference_obp": 0.311
-    },
-    {
         "name": "Danny Jansen",
         "player_id": 643376,
         "hits": 5,
@@ -52,12 +37,12 @@
         "doubles": 0,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 10,
+        "at_bats": 9,
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643376/headshot/67/current",
-        "obp": 0.615,
+        "obp": 0.667,
         "season_obp": 0.321,
-        "difference_obp": 0.294
+        "difference_obp": 0.346
     },
     {
         "name": "Alex Call",
@@ -73,5 +58,20 @@
         "obp": 0.636,
         "season_obp": 0.361,
         "difference_obp": 0.275
+    },
+    {
+        "name": "Michael Massey",
+        "player_id": 686681,
+        "hits": 7,
+        "singles": 6,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 13,
+        "team": "KCR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/686681/headshot/67/current",
+        "obp": 0.538,
+        "season_obp": 0.268,
+        "difference_obp": 0.27
     }
 ]
