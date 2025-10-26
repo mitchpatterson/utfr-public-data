@@ -15,19 +15,49 @@
         "difference_ba": 0.772
     },
     {
-        "name": "Spencer Horwitz",
-        "player_id": 687462,
+        "name": "Trevor Larnach",
+        "player_id": 663616,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 1,
+        "team": "MIN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663616/headshot/67/current",
+        "ba": 1.0,
+        "season_ba": 0.25,
+        "difference_ba": 0.75
+    },
+    {
+        "name": "Shea Langeliers",
+        "player_id": 669127,
+        "hits": 3,
+        "singles": 2,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 4,
+        "team": "ATH",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
+        "ba": 0.75,
+        "season_ba": 0.277,
+        "difference_ba": 0.473
+    },
+    {
+        "name": "Ryan Jeffers",
+        "player_id": 680777,
         "hits": 5,
         "singles": 3,
-        "doubles": 0,
+        "doubles": 2,
         "triples": 0,
-        "home_runs": 2,
+        "home_runs": 0,
         "at_bats": 8,
-        "team": "PIT",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/687462/headshot/67/current",
+        "team": "MIN",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680777/headshot/67/current",
         "ba": 0.625,
-        "season_ba": 0.272,
-        "difference_ba": 0.353
+        "season_ba": 0.266,
+        "difference_ba": 0.359
     },
     {
         "name": "Michael Massey",
@@ -43,35 +73,5 @@
         "ba": 0.556,
         "season_ba": 0.244,
         "difference_ba": 0.312
-    },
-    {
-        "name": "Danny Jansen",
-        "player_id": 643376,
-        "hits": 3,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 6,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/643376/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.215,
-        "difference_ba": 0.285
-    },
-    {
-        "name": "Shea Langeliers",
-        "player_id": 669127,
-        "hits": 5,
-        "singles": 3,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 9,
-        "team": "ATH",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669127/headshot/67/current",
-        "ba": 0.556,
-        "season_ba": 0.277,
-        "difference_ba": 0.279
     }
 ]
