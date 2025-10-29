@@ -1,5 +1,20 @@
 [
     {
+        "name": "Shohei Ohtani",
+        "player_id": 660271,
+        "hits": 9,
+        "singles": 1,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 6,
+        "at_bats": 18,
+        "team": "LAD",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/660271/headshot/67/current",
+        "slg": 1.611,
+        "season_slg": 0.622,
+        "difference_slg": 0.989
+    },
+    {
         "name": "Jackson Merrill",
         "player_id": 701538,
         "hits": 3,
@@ -13,21 +28,6 @@
         "slg": 0.889,
         "season_slg": 0.457,
         "difference_slg": 0.432
-    },
-    {
-        "name": "Shohei Ohtani",
-        "player_id": 660271,
-        "hits": 7,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 1,
-        "home_runs": 4,
-        "at_bats": 20,
-        "team": "LAD",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/660271/headshot/67/current",
-        "slg": 1.05,
-        "season_slg": 0.622,
-        "difference_slg": 0.428
     },
     {
         "name": "Mitch Garver",
@@ -45,33 +45,33 @@
         "difference_slg": 0.407
     },
     {
-        "name": "Addison Barger",
-        "player_id": 680718,
-        "hits": 6,
-        "singles": 4,
+        "name": "Josh Naylor",
+        "player_id": 647304,
+        "hits": 7,
+        "singles": 5,
         "doubles": 0,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 14,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680718/headshot/67/current",
-        "slg": 0.857,
-        "season_slg": 0.454,
-        "difference_slg": 0.403
+        "at_bats": 16,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
+        "slg": 0.812,
+        "season_slg": 0.462,
+        "difference_slg": 0.35
     },
     {
-        "name": "Alex Call",
-        "player_id": 669743,
-        "hits": 3,
-        "singles": 3,
-        "doubles": 0,
+        "name": "Daniel Schneemann",
+        "player_id": 682177,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 1,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 4,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669743/headshot/67/current",
-        "slg": 0.75,
-        "season_slg": 0.385,
-        "difference_slg": 0.365
+        "at_bats": 3,
+        "team": "CLE",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/682177/headshot/67/current",
+        "slg": 0.667,
+        "season_slg": 0.354,
+        "difference_slg": 0.313
     }
 ]

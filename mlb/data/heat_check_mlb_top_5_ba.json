@@ -1,20 +1,5 @@
 [
     {
-        "name": "Alex Call",
-        "player_id": 669743,
-        "hits": 3,
-        "singles": 3,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 4,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/669743/headshot/67/current",
-        "ba": 0.75,
-        "season_ba": 0.267,
-        "difference_ba": 0.483
-    },
-    {
         "name": "Masataka Yoshida",
         "player_id": 807799,
         "hits": 4,
@@ -73,5 +58,20 @@
         "ba": 0.5,
         "season_ba": 0.277,
         "difference_ba": 0.223
+    },
+    {
+        "name": "Shohei Ohtani",
+        "player_id": 660271,
+        "hits": 9,
+        "singles": 1,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 6,
+        "at_bats": 18,
+        "team": "LAD",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/660271/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.282,
+        "difference_ba": 0.218
     }
 ]
