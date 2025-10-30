@@ -1,33 +1,33 @@
 [
     {
-        "name": "Shohei Ohtani",
-        "player_id": 660271,
-        "hits": 9,
-        "singles": 1,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 6,
-        "at_bats": 18,
-        "team": "LAD",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/660271/headshot/67/current",
-        "slg": 1.611,
-        "season_slg": 0.622,
-        "difference_slg": 0.989
-    },
-    {
         "name": "Jackson Merrill",
         "player_id": 701538,
-        "hits": 3,
+        "hits": 2,
         "singles": 0,
-        "doubles": 2,
+        "doubles": 1,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 9,
+        "at_bats": 6,
         "team": "SDP",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/701538/headshot/67/current",
-        "slg": 0.889,
+        "slg": 1.0,
         "season_slg": 0.457,
-        "difference_slg": 0.432
+        "difference_slg": 0.543
+    },
+    {
+        "name": "Brayan Rocchio",
+        "player_id": 677587,
+        "hits": 2,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 6,
+        "team": "CLE",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/677587/headshot/67/current",
+        "slg": 0.833,
+        "season_slg": 0.34,
+        "difference_slg": 0.493
     },
     {
         "name": "Mitch Garver",
@@ -60,18 +60,18 @@
         "difference_slg": 0.35
     },
     {
-        "name": "Daniel Schneemann",
-        "player_id": 682177,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 1,
+        "name": "Trevor Story",
+        "player_id": 596115,
+        "hits": 3,
+        "singles": 2,
+        "doubles": 0,
         "triples": 0,
-        "home_runs": 0,
-        "at_bats": 3,
-        "team": "CLE",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/682177/headshot/67/current",
-        "slg": 0.667,
-        "season_slg": 0.354,
-        "difference_slg": 0.313
+        "home_runs": 1,
+        "at_bats": 8,
+        "team": "BOS",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/596115/headshot/67/current",
+        "slg": 0.75,
+        "season_slg": 0.433,
+        "difference_slg": 0.317
     }
 ]

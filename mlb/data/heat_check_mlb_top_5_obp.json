@@ -2,17 +2,32 @@
     {
         "name": "Masataka Yoshida",
         "player_id": 807799,
-        "hits": 4,
-        "singles": 4,
+        "hits": 3,
+        "singles": 3,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 7,
+        "at_bats": 5,
         "team": "BOS",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807799/headshot/67/current",
-        "obp": 0.571,
+        "obp": 0.6,
         "season_obp": 0.307,
-        "difference_obp": 0.264
+        "difference_obp": 0.293
+    },
+    {
+        "name": "Paul Goldschmidt",
+        "player_id": 502671,
+        "hits": 2,
+        "singles": 2,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 5,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/502671/headshot/67/current",
+        "obp": 0.571,
+        "season_obp": 0.328,
+        "difference_obp": 0.243
     },
     {
         "name": "Will Benson",
@@ -30,21 +45,6 @@
         "difference_obp": 0.227
     },
     {
-        "name": "Paul Goldschmidt",
-        "player_id": 502671,
-        "hits": 4,
-        "singles": 4,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 9,
-        "team": "NYY",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/502671/headshot/67/current",
-        "obp": 0.545,
-        "season_obp": 0.328,
-        "difference_obp": 0.217
-    },
-    {
         "name": "Justin Turner",
         "player_id": 457759,
         "hits": 1,
@@ -60,18 +60,18 @@
         "difference_obp": 0.212
     },
     {
-        "name": "Shohei Ohtani",
-        "player_id": 660271,
-        "hits": 9,
-        "singles": 1,
-        "doubles": 2,
+        "name": "Addison Barger",
+        "player_id": 680718,
+        "hits": 8,
+        "singles": 7,
+        "doubles": 0,
         "triples": 0,
-        "home_runs": 6,
-        "at_bats": 18,
-        "team": "LAD",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/660271/headshot/67/current",
-        "obp": 0.591,
-        "season_obp": 0.392,
+        "home_runs": 1,
+        "at_bats": 17,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680718/headshot/67/current",
+        "obp": 0.5,
+        "season_obp": 0.301,
         "difference_obp": 0.199
     }
 ]

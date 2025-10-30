@@ -2,17 +2,17 @@
     {
         "name": "Masataka Yoshida",
         "player_id": 807799,
-        "hits": 4,
-        "singles": 4,
+        "hits": 3,
+        "singles": 3,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 7,
+        "at_bats": 5,
         "team": "BOS",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807799/headshot/67/current",
-        "ba": 0.571,
+        "ba": 0.6,
         "season_ba": 0.266,
-        "difference_ba": 0.305
+        "difference_ba": 0.334
     },
     {
         "name": "Justin Turner",
@@ -30,19 +30,19 @@
         "difference_ba": 0.281
     },
     {
-        "name": "Gavin Lux",
-        "player_id": 666158,
-        "hits": 3,
-        "singles": 3,
+        "name": "Addison Barger",
+        "player_id": 680718,
+        "hits": 8,
+        "singles": 7,
         "doubles": 0,
         "triples": 0,
-        "home_runs": 0,
-        "at_bats": 6,
-        "team": "CIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666158/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.269,
-        "difference_ba": 0.231
+        "home_runs": 1,
+        "at_bats": 17,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680718/headshot/67/current",
+        "ba": 0.471,
+        "season_ba": 0.243,
+        "difference_ba": 0.228
     },
     {
         "name": "Harrison Bader",
@@ -60,18 +60,18 @@
         "difference_ba": 0.223
     },
     {
-        "name": "Shohei Ohtani",
-        "player_id": 660271,
+        "name": "Aaron Judge",
+        "player_id": 592450,
         "hits": 9,
-        "singles": 1,
+        "singles": 6,
         "doubles": 2,
         "triples": 0,
-        "home_runs": 6,
+        "home_runs": 1,
         "at_bats": 18,
-        "team": "LAD",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/660271/headshot/67/current",
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
         "ba": 0.5,
-        "season_ba": 0.282,
-        "difference_ba": 0.218
+        "season_ba": 0.331,
+        "difference_ba": 0.169
     }
 ]
