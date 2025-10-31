@@ -1,20 +1,5 @@
 [
     {
-        "name": "Masataka Yoshida",
-        "player_id": 807799,
-        "hits": 3,
-        "singles": 3,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 5,
-        "team": "BOS",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807799/headshot/67/current",
-        "obp": 0.6,
-        "season_obp": 0.307,
-        "difference_obp": 0.293
-    },
-    {
         "name": "Paul Goldschmidt",
         "player_id": 502671,
         "hits": 2,
@@ -28,21 +13,6 @@
         "obp": 0.571,
         "season_obp": 0.328,
         "difference_obp": 0.243
-    },
-    {
-        "name": "Will Benson",
-        "player_id": 666181,
-        "hits": 0,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 1,
-        "team": "CIN",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666181/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.273,
-        "difference_obp": 0.227
     },
     {
         "name": "Justin Turner",
@@ -60,6 +30,21 @@
         "difference_obp": 0.212
     },
     {
+        "name": "Freddy Fermin",
+        "player_id": 666023,
+        "hits": 2,
+        "singles": 1,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 4,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666023/headshot/67/current",
+        "obp": 0.5,
+        "season_obp": 0.297,
+        "difference_obp": 0.203
+    },
+    {
         "name": "Addison Barger",
         "player_id": 680718,
         "hits": 8,
@@ -73,5 +58,20 @@
         "obp": 0.5,
         "season_obp": 0.301,
         "difference_obp": 0.199
+    },
+    {
+        "name": "Masataka Yoshida",
+        "player_id": 807799,
+        "hits": 2,
+        "singles": 2,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 4,
+        "team": "BOS",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807799/headshot/67/current",
+        "obp": 0.5,
+        "season_obp": 0.307,
+        "difference_obp": 0.193
     }
 ]

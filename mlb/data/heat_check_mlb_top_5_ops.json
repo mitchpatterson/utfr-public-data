@@ -7,27 +7,27 @@
         "doubles": 1,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 6,
+        "at_bats": 4,
         "team": "SDP",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/701538/headshot/67/current",
-        "ops": 1.375,
+        "ops": 2.0,
         "season_ops": 0.774,
-        "difference_ops": 0.601
+        "difference_ops": 1.226
     },
     {
-        "name": "Brayan Rocchio",
-        "player_id": 677587,
+        "name": "Freddy Fermin",
+        "player_id": 666023,
         "hits": 2,
         "singles": 1,
-        "doubles": 0,
+        "doubles": 1,
         "triples": 0,
-        "home_runs": 1,
-        "at_bats": 6,
-        "team": "CLE",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/677587/headshot/67/current",
-        "ops": 1.167,
-        "season_ops": 0.63,
-        "difference_ops": 0.537
+        "home_runs": 0,
+        "at_bats": 4,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666023/headshot/67/current",
+        "ops": 1.25,
+        "season_ops": 0.636,
+        "difference_ops": 0.614
     },
     {
         "name": "Josh Naylor",
@@ -45,21 +45,6 @@
         "difference_ops": 0.523
     },
     {
-        "name": "Masataka Yoshida",
-        "player_id": 807799,
-        "hits": 3,
-        "singles": 3,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 5,
-        "team": "BOS",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807799/headshot/67/current",
-        "ops": 1.2,
-        "season_ops": 0.696,
-        "difference_ops": 0.504
-    },
-    {
         "name": "Mitch Garver",
         "player_id": 641598,
         "hits": 1,
@@ -73,5 +58,20 @@
         "ops": 1.083,
         "season_ops": 0.639,
         "difference_ops": 0.444
+    },
+    {
+        "name": "Caleb Durbin",
+        "player_id": 702332,
+        "hits": 6,
+        "singles": 3,
+        "doubles": 2,
+        "triples": 1,
+        "home_runs": 0,
+        "at_bats": 15,
+        "team": "MIL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
+        "ops": 1.137,
+        "season_ops": 0.721,
+        "difference_ops": 0.416
     }
 ]
