@@ -1,35 +1,5 @@
 [
     {
-        "name": "Jackson Merrill",
-        "player_id": 701538,
-        "hits": 2,
-        "singles": 0,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 4,
-        "team": "SDP",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/701538/headshot/67/current",
-        "slg": 1.5,
-        "season_slg": 0.457,
-        "difference_slg": 1.043
-    },
-    {
-        "name": "Freddy Fermin",
-        "player_id": 666023,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 4,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666023/headshot/67/current",
-        "slg": 0.75,
-        "season_slg": 0.339,
-        "difference_slg": 0.411
-    },
-    {
         "name": "Mitch Garver",
         "player_id": 641598,
         "hits": 1,
@@ -60,6 +30,21 @@
         "difference_slg": 0.35
     },
     {
+        "name": "Amed Rosario",
+        "player_id": 642708,
+        "hits": 2,
+        "singles": 1,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 4,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642708/headshot/67/current",
+        "slg": 0.75,
+        "season_slg": 0.436,
+        "difference_slg": 0.314
+    },
+    {
         "name": "Caleb Durbin",
         "player_id": 702332,
         "hits": 6,
@@ -73,5 +58,20 @@
         "slg": 0.667,
         "season_slg": 0.387,
         "difference_slg": 0.28
+    },
+    {
+        "name": "Aaron Judge",
+        "player_id": 592450,
+        "hits": 9,
+        "singles": 6,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 15,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
+        "slg": 0.933,
+        "season_slg": 0.688,
+        "difference_slg": 0.245
     }
 ]

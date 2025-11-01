@@ -1,20 +1,5 @@
 [
     {
-        "name": "Paul Goldschmidt",
-        "player_id": 502671,
-        "hits": 2,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 5,
-        "team": "NYY",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/502671/headshot/67/current",
-        "obp": 0.571,
-        "season_obp": 0.328,
-        "difference_obp": 0.243
-    },
-    {
         "name": "Justin Turner",
         "player_id": 457759,
         "hits": 1,
@@ -30,8 +15,8 @@
         "difference_obp": 0.212
     },
     {
-        "name": "Freddy Fermin",
-        "player_id": 666023,
+        "name": "Amed Rosario",
+        "player_id": 642708,
         "hits": 2,
         "singles": 1,
         "doubles": 1,
@@ -39,39 +24,54 @@
         "home_runs": 0,
         "at_bats": 4,
         "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666023/headshot/67/current",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642708/headshot/67/current",
         "obp": 0.5,
-        "season_obp": 0.297,
-        "difference_obp": 0.203
+        "season_obp": 0.309,
+        "difference_obp": 0.191
     },
     {
-        "name": "Addison Barger",
-        "player_id": 680718,
-        "hits": 8,
-        "singles": 7,
-        "doubles": 0,
+        "name": "Aaron Judge",
+        "player_id": 592450,
+        "hits": 9,
+        "singles": 6,
+        "doubles": 2,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 17,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680718/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.301,
-        "difference_obp": 0.199
+        "at_bats": 15,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
+        "obp": 0.647,
+        "season_obp": 0.457,
+        "difference_obp": 0.19
     },
     {
-        "name": "Masataka Yoshida",
-        "player_id": 807799,
+        "name": "Josh Naylor",
+        "player_id": 647304,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 16,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
+        "obp": 0.526,
+        "season_obp": 0.353,
+        "difference_obp": 0.173
+    },
+    {
+        "name": "Matt Shaw",
+        "player_id": 807713,
         "hits": 2,
         "singles": 2,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 4,
-        "team": "BOS",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807799/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.307,
-        "difference_obp": 0.193
+        "at_bats": 10,
+        "team": "CHC",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807713/headshot/67/current",
+        "obp": 0.467,
+        "season_obp": 0.295,
+        "difference_obp": 0.172
     }
 ]
