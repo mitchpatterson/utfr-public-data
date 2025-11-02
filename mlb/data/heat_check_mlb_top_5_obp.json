@@ -1,5 +1,20 @@
 [
     {
+        "name": "Addison Barger",
+        "player_id": 680718,
+        "hits": 10,
+        "singles": 8,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 20,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680718/headshot/67/current",
+        "obp": 0.565,
+        "season_obp": 0.301,
+        "difference_obp": 0.264
+    },
+    {
         "name": "Justin Turner",
         "player_id": 457759,
         "hits": 1,
@@ -58,20 +73,5 @@
         "obp": 0.526,
         "season_obp": 0.353,
         "difference_obp": 0.173
-    },
-    {
-        "name": "Matt Shaw",
-        "player_id": 807713,
-        "hits": 2,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 10,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807713/headshot/67/current",
-        "obp": 0.467,
-        "season_obp": 0.295,
-        "difference_obp": 0.172
     }
 ]

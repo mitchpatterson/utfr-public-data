@@ -30,6 +30,21 @@
         "difference_ba": 0.269
     },
     {
+        "name": "Addison Barger",
+        "player_id": 680718,
+        "hits": 10,
+        "singles": 8,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 20,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680718/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.243,
+        "difference_ba": 0.257
+    },
+    {
         "name": "Amed Rosario",
         "player_id": 642708,
         "hits": 2,
@@ -58,20 +73,5 @@
         "ba": 0.5,
         "season_ba": 0.277,
         "difference_ba": 0.223
-    },
-    {
-        "name": "Addison Barger",
-        "player_id": 680718,
-        "hits": 8,
-        "singles": 6,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 19,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680718/headshot/67/current",
-        "ba": 0.421,
-        "season_ba": 0.243,
-        "difference_ba": 0.178
     }
 ]
