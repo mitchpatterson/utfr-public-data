@@ -1,5 +1,20 @@
 [
     {
+        "name": "Aaron Judge",
+        "player_id": 592450,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 11,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
+        "ops": 1.692,
+        "season_ops": 1.144,
+        "difference_ops": 0.548
+    },
+    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -43,21 +58,6 @@
         "ops": 1.083,
         "season_ops": 0.639,
         "difference_ops": 0.444
-    },
-    {
-        "name": "Aaron Judge",
-        "player_id": 592450,
-        "hits": 9,
-        "singles": 6,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 15,
-        "team": "NYY",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
-        "ops": 1.58,
-        "season_ops": 1.144,
-        "difference_ops": 0.436
     },
     {
         "name": "Caleb Durbin",

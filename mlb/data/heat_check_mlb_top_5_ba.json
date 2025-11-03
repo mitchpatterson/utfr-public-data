@@ -1,5 +1,20 @@
 [
     {
+        "name": "Aaron Judge",
+        "player_id": 592450,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 11,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
+        "ba": 0.636,
+        "season_ba": 0.331,
+        "difference_ba": 0.305
+    },
+    {
         "name": "Justin Turner",
         "player_id": 457759,
         "hits": 1,
@@ -13,21 +28,6 @@
         "ba": 0.5,
         "season_ba": 0.219,
         "difference_ba": 0.281
-    },
-    {
-        "name": "Aaron Judge",
-        "player_id": 592450,
-        "hits": 9,
-        "singles": 6,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 15,
-        "team": "NYY",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
-        "ba": 0.6,
-        "season_ba": 0.331,
-        "difference_ba": 0.269
     },
     {
         "name": "Addison Barger",
@@ -60,18 +60,18 @@
         "difference_ba": 0.224
     },
     {
-        "name": "Harrison Bader",
-        "player_id": 664056,
+        "name": "Edmundo Sosa",
+        "player_id": 624641,
         "hits": 1,
         "singles": 1,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
         "at_bats": 2,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664056/headshot/67/current",
+        "team": "PHI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624641/headshot/67/current",
         "ba": 0.5,
-        "season_ba": 0.277,
-        "difference_ba": 0.223
+        "season_ba": 0.276,
+        "difference_ba": 0.224
     }
 ]

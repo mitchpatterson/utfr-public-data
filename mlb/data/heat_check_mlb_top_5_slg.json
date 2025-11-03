@@ -30,6 +30,21 @@
         "difference_slg": 0.35
     },
     {
+        "name": "Ryan McMahon",
+        "player_id": 641857,
+        "hits": 2,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 7,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641857/headshot/67/current",
+        "slg": 0.714,
+        "season_slg": 0.381,
+        "difference_slg": 0.333
+    },
+    {
         "name": "Amed Rosario",
         "player_id": 642708,
         "hits": 2,
@@ -45,33 +60,18 @@
         "difference_slg": 0.314
     },
     {
-        "name": "Caleb Durbin",
-        "player_id": 702332,
-        "hits": 6,
-        "singles": 3,
-        "doubles": 2,
-        "triples": 1,
-        "home_runs": 0,
-        "at_bats": 15,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
-        "slg": 0.667,
-        "season_slg": 0.387,
-        "difference_slg": 0.28
-    },
-    {
         "name": "Aaron Judge",
         "player_id": 592450,
-        "hits": 9,
-        "singles": 6,
-        "doubles": 2,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 1,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 15,
+        "at_bats": 11,
         "team": "NYY",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
-        "slg": 0.933,
+        "slg": 1.0,
         "season_slg": 0.688,
-        "difference_slg": 0.245
+        "difference_slg": 0.312
     }
 ]

@@ -15,6 +15,21 @@
         "difference_obp": 0.264
     },
     {
+        "name": "Aaron Judge",
+        "player_id": 592450,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 11,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
+        "obp": 0.692,
+        "season_obp": 0.457,
+        "difference_obp": 0.235
+    },
+    {
         "name": "Justin Turner",
         "player_id": 457759,
         "hits": 1,
@@ -30,6 +45,21 @@
         "difference_obp": 0.212
     },
     {
+        "name": "Edmundo Sosa",
+        "player_id": 624641,
+        "hits": 1,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 2,
+        "team": "PHI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624641/headshot/67/current",
+        "obp": 0.5,
+        "season_obp": 0.307,
+        "difference_obp": 0.193
+    },
+    {
         "name": "Amed Rosario",
         "player_id": 642708,
         "hits": 2,
@@ -43,35 +73,5 @@
         "obp": 0.5,
         "season_obp": 0.309,
         "difference_obp": 0.191
-    },
-    {
-        "name": "Aaron Judge",
-        "player_id": 592450,
-        "hits": 9,
-        "singles": 6,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 15,
-        "team": "NYY",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
-        "obp": 0.647,
-        "season_obp": 0.457,
-        "difference_obp": 0.19
-    },
-    {
-        "name": "Josh Naylor",
-        "player_id": 647304,
-        "hits": 7,
-        "singles": 5,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 16,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
-        "obp": 0.526,
-        "season_obp": 0.353,
-        "difference_obp": 0.173
     }
 ]
