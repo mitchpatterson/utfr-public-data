@@ -15,21 +15,6 @@
         "difference_obp": 0.264
     },
     {
-        "name": "Aaron Judge",
-        "player_id": 592450,
-        "hits": 7,
-        "singles": 5,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 11,
-        "team": "NYY",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
-        "obp": 0.692,
-        "season_obp": 0.457,
-        "difference_obp": 0.235
-    },
-    {
         "name": "Justin Turner",
         "player_id": 457759,
         "hits": 1,
@@ -73,5 +58,20 @@
         "obp": 0.5,
         "season_obp": 0.309,
         "difference_obp": 0.191
+    },
+    {
+        "name": "Nico Hoerner",
+        "player_id": 663538,
+        "hits": 8,
+        "singles": 8,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 16,
+        "team": "CHC",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663538/headshot/67/current",
+        "obp": 0.529,
+        "season_obp": 0.345,
+        "difference_obp": 0.184
     }
 ]
