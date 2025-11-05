@@ -1,5 +1,20 @@
 [
     {
+        "name": "Alec Bohm",
+        "player_id": 664761,
+        "hits": 3,
+        "singles": 3,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 6,
+        "team": "PHI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/664761/headshot/67/current",
+        "obp": 0.625,
+        "season_obp": 0.331,
+        "difference_obp": 0.294
+    },
+    {
         "name": "Addison Barger",
         "player_id": 680718,
         "hits": 10,
@@ -15,33 +30,18 @@
         "difference_obp": 0.264
     },
     {
-        "name": "Justin Turner",
-        "player_id": 457759,
-        "hits": 1,
-        "singles": 1,
+        "name": "Nico Hoerner",
+        "player_id": 663538,
+        "hits": 6,
+        "singles": 6,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 2,
+        "at_bats": 12,
         "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/457759/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.288,
-        "difference_obp": 0.212
-    },
-    {
-        "name": "Edmundo Sosa",
-        "player_id": 624641,
-        "hits": 1,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 2,
-        "team": "PHI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/624641/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.307,
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663538/headshot/67/current",
+        "obp": 0.538,
+        "season_obp": 0.345,
         "difference_obp": 0.193
     },
     {
@@ -60,18 +60,18 @@
         "difference_obp": 0.191
     },
     {
-        "name": "Nico Hoerner",
-        "player_id": 663538,
-        "hits": 8,
-        "singles": 8,
+        "name": "Josh Naylor",
+        "player_id": 647304,
+        "hits": 7,
+        "singles": 5,
         "doubles": 0,
         "triples": 0,
-        "home_runs": 0,
+        "home_runs": 2,
         "at_bats": 16,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663538/headshot/67/current",
-        "obp": 0.529,
-        "season_obp": 0.345,
-        "difference_obp": 0.184
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
+        "obp": 0.526,
+        "season_obp": 0.353,
+        "difference_obp": 0.173
     }
 ]

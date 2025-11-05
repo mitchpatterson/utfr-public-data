@@ -30,6 +30,21 @@
         "difference_ops": 0.606
     },
     {
+        "name": "Kyle Schwarber",
+        "player_id": 656941,
+        "hits": 3,
+        "singles": 0,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 9,
+        "team": "PHI",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656941/headshot/67/current",
+        "ops": 1.511,
+        "season_ops": 0.928,
+        "difference_ops": 0.583
+    },
+    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -58,20 +73,5 @@
         "ops": 1.25,
         "season_ops": 0.745,
         "difference_ops": 0.505
-    },
-    {
-        "name": "Mitch Garver",
-        "player_id": 641598,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 1,
-        "home_runs": 0,
-        "at_bats": 4,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641598/headshot/67/current",
-        "ops": 1.083,
-        "season_ops": 0.639,
-        "difference_ops": 0.444
     }
 ]
