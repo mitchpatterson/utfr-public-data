@@ -7,12 +7,27 @@
         "doubles": 0,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 3,
+        "at_bats": 2,
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641857/headshot/67/current",
-        "slg": 1.333,
+        "slg": 2.0,
         "season_slg": 0.381,
-        "difference_slg": 0.952
+        "difference_slg": 1.619
+    },
+    {
+        "name": "Mitch Garver",
+        "player_id": 641598,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
+        "triples": 1,
+        "home_runs": 0,
+        "at_bats": 3,
+        "team": "SEA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641598/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.343,
+        "difference_slg": 0.657
     },
     {
         "name": "Kyle Schwarber",
@@ -30,36 +45,6 @@
         "difference_slg": 0.548
     },
     {
-        "name": "Aaron Judge",
-        "player_id": 592450,
-        "hits": 5,
-        "singles": 3,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 8,
-        "team": "NYY",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
-        "slg": 1.125,
-        "season_slg": 0.688,
-        "difference_slg": 0.437
-    },
-    {
-        "name": "Mitch Garver",
-        "player_id": 641598,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 1,
-        "home_runs": 0,
-        "at_bats": 4,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641598/headshot/67/current",
-        "slg": 0.75,
-        "season_slg": 0.343,
-        "difference_slg": 0.407
-    },
-    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -73,5 +58,20 @@
         "slg": 0.812,
         "season_slg": 0.462,
         "difference_slg": 0.35
+    },
+    {
+        "name": "Michael Busch",
+        "player_id": 683737,
+        "hits": 3,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 11,
+        "team": "CHC",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
+        "slg": 0.818,
+        "season_slg": 0.523,
+        "difference_slg": 0.295
     }
 ]

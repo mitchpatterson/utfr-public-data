@@ -1,18 +1,18 @@
 [
     {
-        "name": "Aaron Judge",
-        "player_id": 592450,
-        "hits": 5,
-        "singles": 3,
-        "doubles": 1,
+        "name": "Ryan McMahon",
+        "player_id": 641857,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 8,
-        "team": "NYY",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/592450/headshot/67/current",
-        "ba": 0.625,
-        "season_ba": 0.331,
-        "difference_ba": 0.294
+        "at_bats": 2,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641857/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.214,
+        "difference_ba": 0.286
     },
     {
         "name": "Addison Barger",
@@ -30,14 +30,29 @@
         "difference_ba": 0.257
     },
     {
-        "name": "Amed Rosario",
-        "player_id": 642708,
-        "hits": 2,
+        "name": "Giancarlo Stanton",
+        "player_id": 519317,
+        "hits": 1,
         "singles": 1,
-        "doubles": 1,
+        "doubles": 0,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 4,
+        "at_bats": 2,
+        "team": "NYY",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/519317/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.273,
+        "difference_ba": 0.227
+    },
+    {
+        "name": "Amed Rosario",
+        "player_id": 642708,
+        "hits": 1,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 2,
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/642708/headshot/67/current",
         "ba": 0.5,
@@ -58,20 +73,5 @@
         "ba": 0.5,
         "season_ba": 0.287,
         "difference_ba": 0.213
-    },
-    {
-        "name": "Nico Hoerner",
-        "player_id": 663538,
-        "hits": 6,
-        "singles": 6,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 12,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663538/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.297,
-        "difference_ba": 0.203
     }
 ]
