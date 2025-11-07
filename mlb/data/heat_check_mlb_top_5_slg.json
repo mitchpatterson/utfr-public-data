@@ -1,18 +1,18 @@
 [
     {
-        "name": "Ryan McMahon",
-        "player_id": 641857,
-        "hits": 1,
-        "singles": 0,
+        "name": "Kerry Carpenter",
+        "player_id": 681481,
+        "hits": 4,
+        "singles": 3,
         "doubles": 0,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 2,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641857/headshot/67/current",
-        "slg": 2.0,
-        "season_slg": 0.381,
-        "difference_slg": 1.619
+        "at_bats": 5,
+        "team": "DET",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681481/headshot/67/current",
+        "slg": 1.4,
+        "season_slg": 0.497,
+        "difference_slg": 0.903
     },
     {
         "name": "Mitch Garver",
@@ -30,21 +30,6 @@
         "difference_slg": 0.657
     },
     {
-        "name": "Kyle Schwarber",
-        "player_id": 656941,
-        "hits": 3,
-        "singles": 0,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 9,
-        "team": "PHI",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/656941/headshot/67/current",
-        "slg": 1.111,
-        "season_slg": 0.563,
-        "difference_slg": 0.548
-    },
-    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -60,18 +45,33 @@
         "difference_slg": 0.35
     },
     {
-        "name": "Michael Busch",
-        "player_id": 683737,
-        "hits": 3,
+        "name": "Caleb Durbin",
+        "player_id": 702332,
+        "hits": 6,
+        "singles": 3,
+        "doubles": 2,
+        "triples": 1,
+        "home_runs": 0,
+        "at_bats": 15,
+        "team": "MIL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
+        "slg": 0.667,
+        "season_slg": 0.387,
+        "difference_slg": 0.28
+    },
+    {
+        "name": "Kyle Tucker",
+        "player_id": 663656,
+        "hits": 2,
         "singles": 1,
         "doubles": 0,
         "triples": 0,
-        "home_runs": 2,
-        "at_bats": 11,
+        "home_runs": 1,
+        "at_bats": 7,
         "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/683737/headshot/67/current",
-        "slg": 0.818,
-        "season_slg": 0.523,
-        "difference_slg": 0.295
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663656/headshot/67/current",
+        "slg": 0.714,
+        "season_slg": 0.464,
+        "difference_slg": 0.25
     }
 ]
