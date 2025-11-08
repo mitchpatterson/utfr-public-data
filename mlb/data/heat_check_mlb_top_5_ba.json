@@ -30,36 +30,6 @@
         "difference_ba": 0.257
     },
     {
-        "name": "Nico Hoerner",
-        "player_id": 663538,
-        "hits": 4,
-        "singles": 4,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 8,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663538/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.297,
-        "difference_ba": 0.203
-    },
-    {
-        "name": "Matt Shaw",
-        "player_id": 807713,
-        "hits": 2,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 5,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/807713/headshot/67/current",
-        "ba": 0.4,
-        "season_ba": 0.226,
-        "difference_ba": 0.174
-    },
-    {
         "name": "Caleb Durbin",
         "player_id": 702332,
         "hits": 6,
@@ -73,5 +43,35 @@
         "ba": 0.4,
         "season_ba": 0.256,
         "difference_ba": 0.144
+    },
+    {
+        "name": "Josh Naylor",
+        "player_id": 647304,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 16,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
+        "ba": 0.438,
+        "season_ba": 0.295,
+        "difference_ba": 0.143
+    },
+    {
+        "name": "Mitch Garver",
+        "player_id": 641598,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
+        "triples": 1,
+        "home_runs": 0,
+        "at_bats": 3,
+        "team": "SEA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641598/headshot/67/current",
+        "ba": 0.333,
+        "season_ba": 0.209,
+        "difference_ba": 0.124
     }
 ]

@@ -30,6 +30,21 @@
         "difference_slg": 0.657
     },
     {
+        "name": "Seiya Suzuki",
+        "player_id": 673548,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 4,
+        "team": "CHC",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/673548/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.478,
+        "difference_slg": 0.522
+    },
+    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -58,20 +73,5 @@
         "slg": 0.667,
         "season_slg": 0.387,
         "difference_slg": 0.28
-    },
-    {
-        "name": "Kyle Tucker",
-        "player_id": 663656,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 7,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663656/headshot/67/current",
-        "slg": 0.714,
-        "season_slg": 0.464,
-        "difference_slg": 0.25
     }
 ]

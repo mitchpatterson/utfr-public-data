@@ -45,6 +45,21 @@
         "difference_ops": 0.523
     },
     {
+        "name": "Seiya Suzuki",
+        "player_id": 673548,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 4,
+        "team": "CHC",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/673548/headshot/67/current",
+        "ops": 1.25,
+        "season_ops": 0.804,
+        "difference_ops": 0.446
+    },
+    {
         "name": "Caleb Durbin",
         "player_id": 702332,
         "hits": 6,
@@ -58,20 +73,5 @@
         "ops": 1.137,
         "season_ops": 0.721,
         "difference_ops": 0.416
-    },
-    {
-        "name": "Addison Barger",
-        "player_id": 680718,
-        "hits": 10,
-        "singles": 8,
-        "doubles": 2,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 20,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680718/headshot/67/current",
-        "ops": 1.165,
-        "season_ops": 0.756,
-        "difference_ops": 0.409
     }
 ]
