@@ -1,20 +1,5 @@
 [
     {
-        "name": "Kerry Carpenter",
-        "player_id": 681481,
-        "hits": 4,
-        "singles": 3,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 5,
-        "team": "DET",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681481/headshot/67/current",
-        "slg": 1.4,
-        "season_slg": 0.497,
-        "difference_slg": 0.903
-    },
-    {
         "name": "Mitch Garver",
         "player_id": 641598,
         "hits": 1,
@@ -22,12 +7,12 @@
         "doubles": 0,
         "triples": 1,
         "home_runs": 0,
-        "at_bats": 3,
+        "at_bats": 2,
         "team": "SEA",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641598/headshot/67/current",
-        "slg": 1.0,
+        "slg": 1.5,
         "season_slg": 0.343,
-        "difference_slg": 0.657
+        "difference_slg": 1.157
     },
     {
         "name": "Seiya Suzuki",
@@ -73,5 +58,20 @@
         "slg": 0.667,
         "season_slg": 0.387,
         "difference_slg": 0.28
+    },
+    {
+        "name": "Shohei Ohtani",
+        "player_id": 660271,
+        "hits": 7,
+        "singles": 2,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 19,
+        "team": "LAD",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/660271/headshot/67/current",
+        "slg": 0.842,
+        "season_slg": 0.622,
+        "difference_slg": 0.22
     }
 ]

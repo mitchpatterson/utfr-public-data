@@ -1,20 +1,5 @@
 [
     {
-        "name": "Kerry Carpenter",
-        "player_id": 681481,
-        "hits": 4,
-        "singles": 3,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 5,
-        "team": "DET",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681481/headshot/67/current",
-        "obp": 0.833,
-        "season_obp": 0.291,
-        "difference_obp": 0.542
-    },
-    {
         "name": "Addison Barger",
         "player_id": 680718,
         "hits": 10,
@@ -28,6 +13,21 @@
         "obp": 0.565,
         "season_obp": 0.301,
         "difference_obp": 0.264
+    },
+    {
+        "name": "Mitch Garver",
+        "player_id": 641598,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
+        "triples": 1,
+        "home_runs": 0,
+        "at_bats": 2,
+        "team": "SEA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641598/headshot/67/current",
+        "obp": 0.5,
+        "season_obp": 0.297,
+        "difference_obp": 0.203
     },
     {
         "name": "Josh Naylor",

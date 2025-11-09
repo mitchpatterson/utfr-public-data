@@ -1,20 +1,5 @@
 [
     {
-        "name": "Kerry Carpenter",
-        "player_id": 681481,
-        "hits": 4,
-        "singles": 3,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 5,
-        "team": "DET",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681481/headshot/67/current",
-        "ops": 2.233,
-        "season_ops": 0.788,
-        "difference_ops": 1.445
-    },
-    {
         "name": "Mitch Garver",
         "player_id": 641598,
         "hits": 1,
@@ -22,12 +7,12 @@
         "doubles": 0,
         "triples": 1,
         "home_runs": 0,
-        "at_bats": 3,
+        "at_bats": 2,
         "team": "SEA",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641598/headshot/67/current",
-        "ops": 1.25,
+        "ops": 2.0,
         "season_ops": 0.639,
-        "difference_ops": 0.611
+        "difference_ops": 1.361
     },
     {
         "name": "Josh Naylor",
@@ -73,5 +58,20 @@
         "ops": 1.137,
         "season_ops": 0.721,
         "difference_ops": 0.416
+    },
+    {
+        "name": "Addison Barger",
+        "player_id": 680718,
+        "hits": 10,
+        "singles": 8,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 20,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680718/headshot/67/current",
+        "ops": 1.165,
+        "season_ops": 0.756,
+        "difference_ops": 0.409
     }
 ]

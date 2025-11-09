@@ -1,18 +1,18 @@
 [
     {
-        "name": "Kerry Carpenter",
-        "player_id": 681481,
-        "hits": 4,
-        "singles": 3,
+        "name": "Mitch Garver",
+        "player_id": 641598,
+        "hits": 1,
+        "singles": 0,
         "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 5,
-        "team": "DET",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/681481/headshot/67/current",
-        "ba": 0.8,
-        "season_ba": 0.252,
-        "difference_ba": 0.548
+        "triples": 1,
+        "home_runs": 0,
+        "at_bats": 2,
+        "team": "SEA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641598/headshot/67/current",
+        "ba": 0.5,
+        "season_ba": 0.209,
+        "difference_ba": 0.291
     },
     {
         "name": "Addison Barger",
@@ -60,18 +60,18 @@
         "difference_ba": 0.143
     },
     {
-        "name": "Mitch Garver",
-        "player_id": 641598,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 1,
-        "home_runs": 0,
-        "at_bats": 3,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641598/headshot/67/current",
-        "ba": 0.333,
-        "season_ba": 0.209,
-        "difference_ba": 0.124
+        "name": "Shohei Ohtani",
+        "player_id": 660271,
+        "hits": 7,
+        "singles": 2,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 19,
+        "team": "LAD",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/660271/headshot/67/current",
+        "ba": 0.368,
+        "season_ba": 0.282,
+        "difference_ba": 0.086
     }
 ]
