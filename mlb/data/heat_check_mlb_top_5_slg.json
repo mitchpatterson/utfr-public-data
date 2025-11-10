@@ -15,21 +15,6 @@
         "difference_slg": 1.157
     },
     {
-        "name": "Seiya Suzuki",
-        "player_id": 673548,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 4,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/673548/headshot/67/current",
-        "slg": 1.0,
-        "season_slg": 0.478,
-        "difference_slg": 0.522
-    },
-    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -47,17 +32,17 @@
     {
         "name": "Caleb Durbin",
         "player_id": 702332,
-        "hits": 6,
-        "singles": 3,
+        "hits": 4,
+        "singles": 1,
         "doubles": 2,
         "triples": 1,
         "home_runs": 0,
-        "at_bats": 15,
+        "at_bats": 13,
         "team": "MIL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
-        "slg": 0.667,
+        "slg": 0.615,
         "season_slg": 0.387,
-        "difference_slg": 0.28
+        "difference_slg": 0.228
     },
     {
         "name": "Shohei Ohtani",
@@ -73,5 +58,20 @@
         "slg": 0.842,
         "season_slg": 0.622,
         "difference_slg": 0.22
+    },
+    {
+        "name": "Cal Raleigh",
+        "player_id": 663728,
+        "hits": 4,
+        "singles": 0,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 3,
+        "at_bats": 18,
+        "team": "SEA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663728/headshot/67/current",
+        "slg": 0.778,
+        "season_slg": 0.589,
+        "difference_slg": 0.189
     }
 ]

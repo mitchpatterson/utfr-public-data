@@ -30,21 +30,6 @@
         "difference_ba": 0.257
     },
     {
-        "name": "Caleb Durbin",
-        "player_id": 702332,
-        "hits": 6,
-        "singles": 3,
-        "doubles": 2,
-        "triples": 1,
-        "home_runs": 0,
-        "at_bats": 15,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
-        "ba": 0.4,
-        "season_ba": 0.256,
-        "difference_ba": 0.144
-    },
-    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -73,5 +58,20 @@
         "ba": 0.368,
         "season_ba": 0.282,
         "difference_ba": 0.086
+    },
+    {
+        "name": "Ernie Clement",
+        "player_id": 676391,
+        "hits": 9,
+        "singles": 6,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 25,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676391/headshot/67/current",
+        "ba": 0.36,
+        "season_ba": 0.277,
+        "difference_ba": 0.083
     }
 ]

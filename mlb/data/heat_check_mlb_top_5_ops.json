@@ -30,36 +30,6 @@
         "difference_ops": 0.523
     },
     {
-        "name": "Seiya Suzuki",
-        "player_id": 673548,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 4,
-        "team": "CHC",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/673548/headshot/67/current",
-        "ops": 1.25,
-        "season_ops": 0.804,
-        "difference_ops": 0.446
-    },
-    {
-        "name": "Caleb Durbin",
-        "player_id": 702332,
-        "hits": 6,
-        "singles": 3,
-        "doubles": 2,
-        "triples": 1,
-        "home_runs": 0,
-        "at_bats": 15,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
-        "ops": 1.137,
-        "season_ops": 0.721,
-        "difference_ops": 0.416
-    },
-    {
         "name": "Addison Barger",
         "player_id": 680718,
         "hits": 10,
@@ -73,5 +43,35 @@
         "ops": 1.165,
         "season_ops": 0.756,
         "difference_ops": 0.409
+    },
+    {
+        "name": "Shohei Ohtani",
+        "player_id": 660271,
+        "hits": 7,
+        "singles": 2,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 19,
+        "team": "LAD",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/660271/headshot/67/current",
+        "ops": 1.297,
+        "season_ops": 1.014,
+        "difference_ops": 0.283
+    },
+    {
+        "name": "Caleb Durbin",
+        "player_id": 702332,
+        "hits": 4,
+        "singles": 1,
+        "doubles": 2,
+        "triples": 1,
+        "home_runs": 0,
+        "at_bats": 13,
+        "team": "MIL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
+        "ops": 0.973,
+        "season_ops": 0.721,
+        "difference_ops": 0.252
     }
 ]
