@@ -1,20 +1,5 @@
 [
     {
-        "name": "Mitch Garver",
-        "player_id": 641598,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 1,
-        "home_runs": 0,
-        "at_bats": 2,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641598/headshot/67/current",
-        "slg": 1.5,
-        "season_slg": 0.343,
-        "difference_slg": 1.157
-    },
-    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -32,17 +17,17 @@
     {
         "name": "Caleb Durbin",
         "player_id": 702332,
-        "hits": 4,
-        "singles": 1,
+        "hits": 3,
+        "singles": 0,
         "doubles": 2,
         "triples": 1,
         "home_runs": 0,
-        "at_bats": 13,
+        "at_bats": 10,
         "team": "MIL",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
-        "slg": 0.615,
+        "slg": 0.7,
         "season_slg": 0.387,
-        "difference_slg": 0.228
+        "difference_slg": 0.313
     },
     {
         "name": "Shohei Ohtani",
@@ -73,5 +58,20 @@
         "slg": 0.778,
         "season_slg": 0.589,
         "difference_slg": 0.189
+    },
+    {
+        "name": "Addison Barger",
+        "player_id": 680718,
+        "hits": 10,
+        "singles": 8,
+        "doubles": 2,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 20,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/680718/headshot/67/current",
+        "slg": 0.6,
+        "season_slg": 0.454,
+        "difference_slg": 0.146
     }
 ]

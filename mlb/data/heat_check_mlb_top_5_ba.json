@@ -1,20 +1,5 @@
 [
     {
-        "name": "Mitch Garver",
-        "player_id": 641598,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 1,
-        "home_runs": 0,
-        "at_bats": 2,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641598/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.209,
-        "difference_ba": 0.291
-    },
-    {
         "name": "Addison Barger",
         "player_id": 680718,
         "hits": 10,
@@ -73,5 +58,20 @@
         "ba": 0.36,
         "season_ba": 0.277,
         "difference_ba": 0.083
+    },
+    {
+        "name": "George Springer",
+        "player_id": 543807,
+        "hits": 8,
+        "singles": 7,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 21,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543807/headshot/67/current",
+        "ba": 0.381,
+        "season_ba": 0.309,
+        "difference_ba": 0.072
     }
 ]

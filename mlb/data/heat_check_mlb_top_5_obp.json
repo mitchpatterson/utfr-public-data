@@ -15,21 +15,6 @@
         "difference_obp": 0.264
     },
     {
-        "name": "Mitch Garver",
-        "player_id": 641598,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 1,
-        "home_runs": 0,
-        "at_bats": 2,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/641598/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.297,
-        "difference_obp": 0.203
-    },
-    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -73,5 +58,20 @@
         "obp": 0.455,
         "season_obp": 0.392,
         "difference_obp": 0.063
+    },
+    {
+        "name": "Anthony Santander",
+        "player_id": 623993,
+        "hits": 0,
+        "singles": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 2,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/623993/headshot/67/current",
+        "obp": 0.333,
+        "season_obp": 0.271,
+        "difference_obp": 0.062
     }
 ]
