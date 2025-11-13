@@ -15,6 +15,21 @@
         "difference_ba": 0.257
     },
     {
+        "name": "Caleb Durbin",
+        "player_id": 702332,
+        "hits": 3,
+        "singles": 0,
+        "doubles": 2,
+        "triples": 1,
+        "home_runs": 0,
+        "at_bats": 7,
+        "team": "MIL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
+        "ba": 0.429,
+        "season_ba": 0.256,
+        "difference_ba": 0.173
+    },
+    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -58,20 +73,5 @@
         "ba": 0.36,
         "season_ba": 0.277,
         "difference_ba": 0.083
-    },
-    {
-        "name": "George Springer",
-        "player_id": 543807,
-        "hits": 8,
-        "singles": 7,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 21,
-        "team": "TOR",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543807/headshot/67/current",
-        "ba": 0.381,
-        "season_ba": 0.309,
-        "difference_ba": 0.072
     }
 ]

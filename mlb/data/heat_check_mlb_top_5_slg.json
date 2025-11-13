@@ -1,5 +1,20 @@
 [
     {
+        "name": "Caleb Durbin",
+        "player_id": 702332,
+        "hits": 3,
+        "singles": 0,
+        "doubles": 2,
+        "triples": 1,
+        "home_runs": 0,
+        "at_bats": 7,
+        "team": "MIL",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
+        "slg": 1.0,
+        "season_slg": 0.387,
+        "difference_slg": 0.613
+    },
+    {
         "name": "Josh Naylor",
         "player_id": 647304,
         "hits": 7,
@@ -13,21 +28,6 @@
         "slg": 0.812,
         "season_slg": 0.462,
         "difference_slg": 0.35
-    },
-    {
-        "name": "Caleb Durbin",
-        "player_id": 702332,
-        "hits": 3,
-        "singles": 0,
-        "doubles": 2,
-        "triples": 1,
-        "home_runs": 0,
-        "at_bats": 10,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/702332/headshot/67/current",
-        "slg": 0.7,
-        "season_slg": 0.387,
-        "difference_slg": 0.313
     },
     {
         "name": "Shohei Ohtani",
