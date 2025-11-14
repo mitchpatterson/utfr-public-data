@@ -22,12 +22,12 @@
         "doubles": 0,
         "triples": 0,
         "home_runs": 2,
-        "at_bats": 16,
+        "at_bats": 13,
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
-        "slg": 0.812,
+        "slg": 1.0,
         "season_slg": 0.462,
-        "difference_slg": 0.35
+        "difference_slg": 0.538
     },
     {
         "name": "Shohei Ohtani",
@@ -45,21 +45,6 @@
         "difference_slg": 0.22
     },
     {
-        "name": "Cal Raleigh",
-        "player_id": 663728,
-        "hits": 4,
-        "singles": 0,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 3,
-        "at_bats": 18,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663728/headshot/67/current",
-        "slg": 0.778,
-        "season_slg": 0.589,
-        "difference_slg": 0.189
-    },
-    {
         "name": "Addison Barger",
         "player_id": 680718,
         "hits": 10,
@@ -73,5 +58,20 @@
         "slg": 0.6,
         "season_slg": 0.454,
         "difference_slg": 0.146
+    },
+    {
+        "name": "Cal Raleigh",
+        "player_id": 663728,
+        "hits": 3,
+        "singles": 0,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 14,
+        "team": "SEA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663728/headshot/67/current",
+        "slg": 0.714,
+        "season_slg": 0.589,
+        "difference_slg": 0.125
     }
 ]

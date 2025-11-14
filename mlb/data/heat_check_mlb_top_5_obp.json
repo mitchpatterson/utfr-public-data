@@ -1,5 +1,20 @@
 [
     {
+        "name": "Josh Naylor",
+        "player_id": 647304,
+        "hits": 7,
+        "singles": 5,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 2,
+        "at_bats": 13,
+        "team": "- - -",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
+        "obp": 0.625,
+        "season_obp": 0.353,
+        "difference_obp": 0.272
+    },
+    {
         "name": "Addison Barger",
         "player_id": 680718,
         "hits": 10,
@@ -13,21 +28,6 @@
         "obp": 0.565,
         "season_obp": 0.301,
         "difference_obp": 0.264
-    },
-    {
-        "name": "Josh Naylor",
-        "player_id": 647304,
-        "hits": 7,
-        "singles": 5,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 16,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
-        "obp": 0.526,
-        "season_obp": 0.353,
-        "difference_obp": 0.173
     },
     {
         "name": "Caleb Durbin",
