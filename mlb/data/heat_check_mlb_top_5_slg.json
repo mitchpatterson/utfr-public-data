@@ -1,48 +1,18 @@
 [
     {
-        "name": "Cal Raleigh",
-        "player_id": 663728,
-        "hits": 3,
-        "singles": 0,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 2,
-        "at_bats": 11,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663728/headshot/67/current",
-        "slg": 0.909,
-        "season_slg": 0.589,
-        "difference_slg": 0.32
-    },
-    {
-        "name": "Jackson Chourio",
-        "player_id": 694192,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 4,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/694192/headshot/67/current",
-        "slg": 0.75,
-        "season_slg": 0.463,
-        "difference_slg": 0.287
-    },
-    {
         "name": "Josh Naylor",
         "player_id": 647304,
-        "hits": 4,
-        "singles": 3,
+        "hits": 3,
+        "singles": 2,
         "doubles": 0,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 10,
+        "at_bats": 7,
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
-        "slg": 0.7,
+        "slg": 0.857,
         "season_slg": 0.462,
-        "difference_slg": 0.238
+        "difference_slg": 0.395
     },
     {
         "name": "Shohei Ohtani",
@@ -73,5 +43,35 @@
         "slg": 0.6,
         "season_slg": 0.454,
         "difference_slg": 0.146
+    },
+    {
+        "name": "Miguel Rojas",
+        "player_id": 500743,
+        "hits": 2,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 10,
+        "team": "LAD",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/500743/headshot/67/current",
+        "slg": 0.5,
+        "season_slg": 0.397,
+        "difference_slg": 0.103
+    },
+    {
+        "name": "Ernie Clement",
+        "player_id": 676391,
+        "hits": 9,
+        "singles": 6,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 25,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676391/headshot/67/current",
+        "slg": 0.48,
+        "season_slg": 0.398,
+        "difference_slg": 0.082
     }
 ]

@@ -15,49 +15,34 @@
         "difference_ba": 0.257
     },
     {
-        "name": "William Contreras",
-        "player_id": 661388,
-        "hits": 2,
-        "singles": 2,
+        "name": "Randy Arozarena",
+        "player_id": 668227,
+        "hits": 3,
+        "singles": 3,
         "doubles": 0,
         "triples": 0,
         "home_runs": 0,
-        "at_bats": 4,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/661388/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.26,
-        "difference_ba": 0.24
-    },
-    {
-        "name": "Jackson Chourio",
-        "player_id": 694192,
-        "hits": 2,
-        "singles": 1,
-        "doubles": 1,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 4,
-        "team": "MIL",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/694192/headshot/67/current",
-        "ba": 0.5,
-        "season_ba": 0.27,
-        "difference_ba": 0.23
+        "at_bats": 8,
+        "team": "SEA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668227/headshot/67/current",
+        "ba": 0.375,
+        "season_ba": 0.238,
+        "difference_ba": 0.137
     },
     {
         "name": "Josh Naylor",
         "player_id": 647304,
-        "hits": 4,
-        "singles": 3,
+        "hits": 3,
+        "singles": 2,
         "doubles": 0,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 10,
+        "at_bats": 7,
         "team": "- - -",
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
-        "ba": 0.4,
+        "ba": 0.429,
         "season_ba": 0.295,
-        "difference_ba": 0.105
+        "difference_ba": 0.134
     },
     {
         "name": "Shohei Ohtani",
@@ -73,5 +58,20 @@
         "ba": 0.368,
         "season_ba": 0.282,
         "difference_ba": 0.086
+    },
+    {
+        "name": "Ernie Clement",
+        "player_id": 676391,
+        "hits": 9,
+        "singles": 6,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 25,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676391/headshot/67/current",
+        "ba": 0.36,
+        "season_ba": 0.277,
+        "difference_ba": 0.083
     }
 ]
