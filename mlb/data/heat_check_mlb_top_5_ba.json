@@ -15,36 +15,6 @@
         "difference_ba": 0.257
     },
     {
-        "name": "Randy Arozarena",
-        "player_id": 668227,
-        "hits": 3,
-        "singles": 3,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 8,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/668227/headshot/67/current",
-        "ba": 0.375,
-        "season_ba": 0.238,
-        "difference_ba": 0.137
-    },
-    {
-        "name": "Josh Naylor",
-        "player_id": 647304,
-        "hits": 3,
-        "singles": 2,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 7,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
-        "ba": 0.429,
-        "season_ba": 0.295,
-        "difference_ba": 0.134
-    },
-    {
         "name": "Shohei Ohtani",
         "player_id": 660271,
         "hits": 7,
@@ -57,6 +27,21 @@
         "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/660271/headshot/67/current",
         "ba": 0.368,
         "season_ba": 0.282,
+        "difference_ba": 0.086
+    },
+    {
+        "name": "Cal Raleigh",
+        "player_id": 663728,
+        "hits": 1,
+        "singles": 0,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 3,
+        "team": "SEA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663728/headshot/67/current",
+        "ba": 0.333,
+        "season_ba": 0.247,
         "difference_ba": 0.086
     },
     {
@@ -73,5 +58,20 @@
         "ba": 0.36,
         "season_ba": 0.277,
         "difference_ba": 0.083
+    },
+    {
+        "name": "George Springer",
+        "player_id": 543807,
+        "hits": 8,
+        "singles": 7,
+        "doubles": 1,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 21,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/543807/headshot/67/current",
+        "ba": 0.381,
+        "season_ba": 0.309,
+        "difference_ba": 0.072
     }
 ]

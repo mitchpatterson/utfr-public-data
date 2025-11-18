@@ -1,18 +1,18 @@
 [
     {
-        "name": "Josh Naylor",
-        "player_id": 647304,
-        "hits": 3,
-        "singles": 2,
+        "name": "Cal Raleigh",
+        "player_id": 663728,
+        "hits": 1,
+        "singles": 0,
         "doubles": 0,
         "triples": 0,
         "home_runs": 1,
-        "at_bats": 7,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
-        "slg": 0.857,
-        "season_slg": 0.462,
-        "difference_slg": 0.395
+        "at_bats": 3,
+        "team": "SEA",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663728/headshot/67/current",
+        "slg": 1.333,
+        "season_slg": 0.589,
+        "difference_slg": 0.744
     },
     {
         "name": "Shohei Ohtani",
