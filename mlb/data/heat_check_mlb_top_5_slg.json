@@ -1,20 +1,5 @@
 [
     {
-        "name": "Cal Raleigh",
-        "player_id": 663728,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 3,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663728/headshot/67/current",
-        "slg": 1.333,
-        "season_slg": 0.589,
-        "difference_slg": 0.744
-    },
-    {
         "name": "Shohei Ohtani",
         "player_id": 660271,
         "hits": 7,
@@ -73,5 +58,20 @@
         "slg": 0.48,
         "season_slg": 0.398,
         "difference_slg": 0.082
+    },
+    {
+        "name": "Davis Schneider",
+        "player_id": 676914,
+        "hits": 2,
+        "singles": 1,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 10,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676914/headshot/67/current",
+        "slg": 0.5,
+        "season_slg": 0.436,
+        "difference_slg": 0.064
     }
 ]

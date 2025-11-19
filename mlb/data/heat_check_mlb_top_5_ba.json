@@ -30,21 +30,6 @@
         "difference_ba": 0.086
     },
     {
-        "name": "Cal Raleigh",
-        "player_id": 663728,
-        "hits": 1,
-        "singles": 0,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 1,
-        "at_bats": 3,
-        "team": "SEA",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/663728/headshot/67/current",
-        "ba": 0.333,
-        "season_ba": 0.247,
-        "difference_ba": 0.086
-    },
-    {
         "name": "Ernie Clement",
         "player_id": 676391,
         "hits": 9,
@@ -73,5 +58,20 @@
         "ba": 0.381,
         "season_ba": 0.309,
         "difference_ba": 0.072
+    },
+    {
+        "name": "Bo Bichette",
+        "player_id": 666182,
+        "hits": 7,
+        "singles": 6,
+        "doubles": 0,
+        "triples": 0,
+        "home_runs": 1,
+        "at_bats": 20,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/666182/headshot/67/current",
+        "ba": 0.35,
+        "season_ba": 0.311,
+        "difference_ba": 0.039
     }
 ]

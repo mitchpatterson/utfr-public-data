@@ -15,21 +15,6 @@
         "difference_obp": 0.264
     },
     {
-        "name": "Josh Naylor",
-        "player_id": 647304,
-        "hits": 1,
-        "singles": 1,
-        "doubles": 0,
-        "triples": 0,
-        "home_runs": 0,
-        "at_bats": 3,
-        "team": "- - -",
-        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/647304/headshot/67/current",
-        "obp": 0.5,
-        "season_obp": 0.353,
-        "difference_obp": 0.147
-    },
-    {
         "name": "Bo Bichette",
         "player_id": 666182,
         "hits": 7,
@@ -73,5 +58,20 @@
         "obp": 0.4,
         "season_obp": 0.348,
         "difference_obp": 0.052
+    },
+    {
+        "name": "Ernie Clement",
+        "player_id": 676391,
+        "hits": 9,
+        "singles": 6,
+        "doubles": 3,
+        "triples": 0,
+        "home_runs": 0,
+        "at_bats": 25,
+        "team": "TOR",
+        "headshot_url": "https://img.mlbstatic.com/mlb-photos/image/upload/w_213,d_people:generic:headshot:silo:current.png,q_auto:best,f_auto/v1/people/676391/headshot/67/current",
+        "obp": 0.346,
+        "season_obp": 0.313,
+        "difference_obp": 0.033
     }
 ]
